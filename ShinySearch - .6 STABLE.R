@@ -1,16 +1,19 @@
   #maybe only load the fns needed?
-#setwd("~/Desktop/Programming/R/House Search v2")
+setwd("~/Desktop/Programming/R/House Search v2")
 library(leaflet)
 library(shiny)
 library(readr)
 library(tidyverse)
 library(sp)
-Spreadsheet_1_ <- read_csv("Spreadsheet (1).csv")
+
+houses <- read_csv("~/Desktop/Programming/R/House Search v2/findable.csv")
+source("framework.R")
+framework()
+
 source("googleAPI2.R")
 #source("getZestVal2.R")
-source("applyS .5.R")
+source("applyS .6 .R")
 
-framework()
 
 if (interactive()){
   ui <- fluidPage(
