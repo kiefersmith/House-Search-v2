@@ -43,7 +43,7 @@ distanceFrom <- function(subj_address, sqft, acres, tol = .10, dist = 3) {
   
   distance%>%
     filter(`Distance From` <= dist)%>%
-    drawMap()
+    drawMapGroups()
 }
 
 

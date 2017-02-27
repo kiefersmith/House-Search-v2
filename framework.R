@@ -1,7 +1,8 @@
 framework <- function() {
   #source("googleAPI2.R")
   
-  houses <- read_csv("~/Desktop/Programming/R/House Search v2/findable.csv")
+  apex <- read_csv("~/Desktop/Programming/R/House Search v2/apex2.csv")
+  cary <- read_csv("~/Desktop/Programming/R/House Search v2/cary2.csv")
   houses$`Sold Price` <- as.numeric(gsub("[^0-9]","",houses$`Sold Price`))
   
   

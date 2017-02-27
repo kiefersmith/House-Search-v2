@@ -27,7 +27,13 @@ distanceFrom <- function(subj_address, sqft, acres, tol = .10, dist = 3) {
     distance <- distance%>%
       filter(`Distance From` <= dist)
     
-    source("drawMap.R")
+    source("drawMapGroups.R")
+    
+    tableOut <- distance %>%
+      select(Address, Subdivisio, LvngAreaSF, YrBlt, Beds, FBths, HBths, `Tax Rate`, `Tax Value`, Fireplace, Garage, Cumulative, `Closing Da`, `Distance From`)
+    
+    tableOut <- tableOut[order(tableOut$`Distance From`),]
+    assign("tableOut", tableOut, envir = .GlobalEnv)
   }
   return(map)
 }
