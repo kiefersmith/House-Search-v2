@@ -1,5 +1,7 @@
-distanceFrom <- function(subj_address, sqft, acres, tol = .10, dist = 3) {
+distanceFrom <- function(subj_address, sqft, acres, tol = .15, dist) {
   assign("subj_address", subj_address, envir = .GlobalEnv)
+  dist <- as.numeric(dist)
+  assign("dist", dist, envir = .GlobalEnv)
   
   houses_filtered <- houses %>%
     filter(Acres == acres)%>%
@@ -21,18 +23,19 @@ distanceFrom <- function(subj_address, sqft, acres, tol = .10, dist = 3) {
     d <- d/1.60934
     d <- substr(d, 0,4)
     
-    houses_filtered$`Distance From` <- as.numeric(d)
-    assign("distance", houses_filtered, envir = .GlobalEnv)
+    houses_filtered$distanceFrom <- as.numeric(d)
     
-    distance <- distance%>%
-      filter(`Distance From` <= dist)
+    distance <- houses_filtered %>%
+      filter(distanceFrom <= dist)
+    
+    assign("distance", distance, envir = .GlobalEnv)
     
     source("drawMapGroups.R")
     
     tableOut <- distance %>%
-      select(Address, Subdivisio, LvngAreaSF, YrBlt, Beds, FBths, HBths, `Tax Rate`, `Tax Value`, Fireplace, Garage, Cumulative, `Closing Da`, `Distance From`)
+      select(Address, Subdivisio, LvngAreaSF, YrBlt, Beds, FBths, HBths, `Tax Rate`, `Tax Value`, Fireplace, Garage, Cumulative, `Closing Da`, distanceFrom)
     
-    tableOut <- tableOut[order(tableOut$`Distance From`),]
+    tableOut <- tableOut[order(tableOut$distanceFrom),]
     assign("tableOut", tableOut, envir = .GlobalEnv)
   }
   return(map)
