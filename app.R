@@ -1,7 +1,7 @@
-#setwd("~/Desktop/Programming/R/House Search v2")
+  #setwd("~/Desktop/Programming/R/House Search v2")
 library(readr)
-apex <- read_csv("~/Desktop/Programming/R/House Search v2/apex2.csv")
-cary <- read_csv("~/Desktop/Programming/R/House Search v2/cary2.csv")
+apex <- read_csv("apex2.csv")
+cary <- read_csv("cary2.csv")
 
 library(leaflet)
 library(shiny)
@@ -15,12 +15,13 @@ framework_twocities(apex)
 source("googleAPI2.R")
 #source("getZestVal2.R")
 source("applyS .6 .R")
-load("schools.RData")
+load("schools.RData", envir = .GlobalEnv)
 
 
-if (interactive()){
+
+#if (interactive()){
   ui <- fluidPage(
-      titlePanel("Comp Search"),
+      titlePanel("Comp Search v0.7"),
           
       fluidRow(
         column(6,
@@ -45,18 +46,17 @@ if (interactive()){
                ),
                column(4,
                       plotOutput("hist01", height = 200)
-               ),
+               )
+          )
+        ),
           
-          
-          hr(),
+      hr(),
           
           fluidRow(
             column(12,
                    dataTableOutput("table01"))
           )
         )
-)
-  )
 
   server <- shinyServer(
     function(input, output, session) {
@@ -64,14 +64,14 @@ if (interactive()){
       observeEvent(input$city, {
         if(input$city == "Apex") {
           framework_twocities(apex)
-          #cityschools <-schoolsdf$features.properties %>%
-            #filter(ADDRCITY_1 == "Apex")
-          #assign("cityschools", cityschools, envir = .GlobalEnv)
+          cityschools <-schoolsdf$features.properties %>%
+            filter(ADDRCITY_1 == "Apex")
+          assign("cityschools", cityschools, envir = .GlobalEnv)
         } else if(input$city == "Cary") {
           framework_twocities(cary)
-          #cityschools <-schoolsdf$features.properties %>%
-            #filter(ADDRCITY_1 == "Cary")
-          #assign("cityschools", cityschools, envir = .GlobalEnv)
+          cityschools <-schoolsdf$features.properties %>%
+            filter(ADDRCITY_1 == "Cary")
+          assign("cityschools", cityschools, envir = .GlobalEnv)
         }
       })
 
@@ -81,7 +81,7 @@ if (interactive()){
       })
       
       observeEvent(input$submit, {
-        output$table01 <- renderDataTable({tableOut}, options = list(scrollX = TRUE)) #this was get ge0?
+        output$table01 <- renderDataTable({tableOut}, options = list(scrollX = TRUE, pageLength = 10)) #this was get ge0?
       })
       
      observeEvent(input$submit, { output$hist01 <- renderPlot({
@@ -99,5 +99,7 @@ if (interactive()){
       })
      })
     })
-  shinyApp(ui = ui, server = server)
-}
+  #}
+  app <- shinyApp(ui = ui, server = server)
+  assign("app", app, envir = .GlobalEnv) 
+app

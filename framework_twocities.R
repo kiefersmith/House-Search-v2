@@ -8,7 +8,7 @@ framework_twocities <- function(citydf) {
   sfrange <- range(houses$LvngAreaSF)
   assign("sfrange", sfrange, envir = .GlobalEnv)
   
-  subs <- unique(houses$Subdivision)
+  subs <- unique(houses$Subdivisio)
   assign("subs", subs, envir = .GlobalEnv)
   
   acresf <- readRDS('acres.RData')
@@ -20,7 +20,7 @@ framework_twocities <- function(citydf) {
   assign("longitude", NA, envir = .GlobalEnv)
   assign("distance", NA, envir = .GlobalEnv)
   assign("houses", houses, envir = .GlobalEnv)
-  
+  assign("tableOut", NA, envir = .GlobalEnv)
 }
 
 
