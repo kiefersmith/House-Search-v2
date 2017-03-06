@@ -1,0 +1,11 @@
+name: housesearch
+title: HouseSearch
+account: kiefer
+server: shinyapps.io
+appId: 160852
+bundleId: 734762
+url: https://kiefer.shinyapps.io/housesearch/
+when: 1488750363.8236
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|appmessedup.R|README.md|schoolsdf|schoolsdf.csv|schoolsdf.Rda|server.R|ui.R

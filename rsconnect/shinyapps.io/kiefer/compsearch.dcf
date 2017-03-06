@@ -1,0 +1,11 @@
+name: compsearch
+title: CompSearch
+account: kiefer
+server: shinyapps.io
+appId: 160856
+bundleId: 732119
+url: https://kiefer.shinyapps.io/compsearch/
+when: 1488506040.8874
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: appmessedup.R|README.md|server.R|ui.R

@@ -9,5 +9,6 @@
       overlayGroups = c("Subject Property", "Comps", "Schools"),
       options = layersControlOptions(collapsed = FALSE))
   
-map %>% hideGroup(group = "Schools")
+
+map <- map %>% hideGroup(group = "Schools")
 #addCircleMarkers radius arg

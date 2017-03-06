@@ -1,4 +1,4 @@
-  #setwd("~/Desktop/Programming/R/House Search v2")
+#setwd("~/Desktop/Programming/R/House Search v2")
 library(readr)
 apex <- read_csv("apex2.csv")
 cary <- read_csv("cary2.csv")
@@ -7,6 +7,7 @@ library(leaflet)
 library(shiny)
 library(tidyverse)
 library(sp)
+#library(modelr)
 options('scipen' = 1000)
 
 source("framework_twocities.R")
@@ -86,7 +87,7 @@ load("schools.RData", envir = .GlobalEnv)
       
      observeEvent(input$submit, { output$hist01 <- renderPlot({
         if (length(distance$`Sold Price`)  <= 1){
-          return("Unable to generate graph.")} else{
+          return("Unable to generate graph.")} else{   #different renders here
         
           hist(distance$`Sold Price`,
              breaks = (50),
