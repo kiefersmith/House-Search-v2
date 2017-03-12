@@ -1,4 +1,4 @@
-#model <- lm(data = houses, `Sold Price` ~ (LvngAreaSF*Beds) + (LvngAreaSF*FBths) + (LvngAreaSF*HBths) + Subdivisio + YrBlt + `Total Othe` + `New Constr` + Fireplace + Garage + Acres + `Property T`)
+model <- lm(data = houses, `Sold Price` ~ (LvngAreaSF*Beds) + (LvngAreaSF*FBths) + (LvngAreaSF*HBths) + Subdivisio + YrBlt + `Total Othe` + `New Constr` + Fireplace + Garage + Acres + `Property T`)
 
 model <- lm(data = houses, `Sold Price` ~ LvngAreaSF + Subdivisio + YrBlt + `Total Othe` + `New Constr` + Fireplace + Garage + Acres + `Property T`)
 
