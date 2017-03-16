@@ -30,8 +30,8 @@ ui <- navbarPage("Comp Search v0.8",
                             fluidRow(
                               column(6,
                                      selectInput("city", label = "City", c("Apex", "Cary", "Raleigh")),
-                                     textInput("address",label = "Insert Subject Property Address", placeholder = "ex. The White House, 123 Main Street", value = "2219 Walden Creek Drive"),
-                                     numericInput("dist", label = "Miles from Subject", value = 3, max = 10)
+                                     textInput("address",label = "Insert Subject Property Address", value = "2219 Walden Creek Drive"),
+                                     numericInput("dist", label = "Miles from Subject", value = 5, max = 20)
                               ),
                               column(6,
                                      numericInput("footage",label = "Square Footage", value = 2000),
