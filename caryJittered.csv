@@ -1,0 +1,1063 @@
+X,Y,Address,Subdivisio,LvngAreaSF,YrBlt,Beds,FBths,HBths,Property T,List Price,Sold Price,Acres,# of Rooms,Total Othe,Tax Rate,Tax Value,New Constr,Fireplace,Garage,Cumulative,Days On Ma,City,State,addrtype,addrlocat
+-78.7779934599867,35.7934791307079,217 E Johnson Street,Not in a Subdivision,624,1910,2,1,0,Detached,"$109,800","$74,000",.26-.5 Acres,4,0,0.01,"$86,459.00",No,0,0,19,19,NA,Cary,NC,place
+-78.785567,35.81299,501 Gooseneck Drive,Chesapeake Condos,658,1986,1,1,0,Condo,"$78,000","$78,000",0-.25 Acres,4,0,0.9845,"$77,099.00",No,1,0,118,118,NA,Cary,NC,place
+-78.7855339945412,35.8129762477255,505 Gooseneck Drive,Chesapeake Condos,727,1986,1,1,0,Condo,"$84,000","$80,000",0-.25 Acres,4,0,0.9505,"$77,099.00",No,1,0,41,41,NA,Cary,NC,place
+-78.7928768274814,35.7574726134966,118 Carmichael Court,Carmichael Condos,771,1980,2,1,0,Condo,"$83,000","$82,000",0-.25 Acres,5,0,0.9505,"$75,753.00",No,0,0,13,13,NA,Cary,NC,place
+-78.784558,35.812474,101 Oyster Bay Court,Chesapeake Condos,1099,1986,1,1,0,Condo,"$86,500","$82,400",0-.25 Acres,4,0,0.9505,"$74,512.00",No,1,0,67,67,NA,Cary,NC,place
+-78.7926766329119,35.7578335267455,147 Carmichael Court,Kildaire Farms,779,1980,2,1,0,Condo,"$84,900","$85,750",0-.25 Acres,5,0,0.9505,"$75,753.00",No,0,0,1,1,NA,Cary,NC,place
+-78.7861809865454,35.7619032921901,118 Drummond Place,Kildaire Farms,674,1979,2,1,0,Condo,"$94,000","$90,000",0-.25 Acres,4,0,0.955,"$74,174.00",No,0,0,23,23,NA,Cary,NC,place
+-78.7863489247791,35.8124403233039,403 Gooseneck Drive,Chesapeake Condos,740,1985,1,1,0,Attached,"$95,000","$93,000",0-.25 Acres,3,0,0.9845,"$77,003.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7861974653252,35.7619351261963,120 Drummond Place,Drummond Place Condo,734,1972,2,1,0,Condo,"$96,000","$94,000",0-.25 Acres,4,0,0.928,"$76,945.00",No,0,0,1,1,NA,Cary,NC,place
+-78.786306,35.812439,401 Gooseneck Drive,Chesapeake Condos,815,1985,1,1,0,Condo,"$95,000","$95,000",0-.25 Acres,4,0,0.9505,"$74,512.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7475153878227,35.7667625011811,1230 Donaldson Court,Williamsburg Manor,1177,1972,2,1,1,Attached,"$100,000","$100,000",0-.25 Acres,5,0,0.97,"$83,129.00",No,0,0,2,2,NA,Cary,NC,place
+-78.7969542,35.7785359,111 Cimmaron Court,Chatham Pines,933,1985,2,1,1,Condo,"$99,000","$100,000",0-.25 Acres,5,180,1.0465,"$93,852.00",No,0,0,4,4,NA,Cary,NC,highway
+-78.784558,35.812474,101 Oyster Bay Court,Chesapeake Condos,975,1986,2,1,0,Condo,"$100,000","$100,000",0-.25 Acres,6,0,0.93,"$87,548.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7490958383318,35.7673362227366,1126 Nottingham Circle,Williamsburg Manor,1163,1972,2,1,1,Attached,"$105,000","$105,000",0-.25 Acres,5,0,0.95,"$83,129.00",No,0,0,1,1,NA,Cary,NC,place
+-78.748311518363,35.7660771122452,1240 Jamestown Court,Williamsburg Manor,1149,1972,2,1,1,Attached,"$114,900","$105,000",0-.25 Acres,5,0,0.955,"$83,129.00",No,0,0,6,6,NA,Cary,NC,place
+-78.809894,35.770688,100 Hunting Chase,Foxdale Run Condos,1019,1986,2,1,1,Condo,"$109,000","$106,000",0-.25 Acres,5,0,0.9845,"$93,316.00",No,1,0,60,60,NA,Cary,NC,place
+-78.7855339945412,35.8129762477255,505 Gooseneck Drive,Chesapeake Condos,1043,1986,2,2,0,Condo,"$115,000","$110,000",0-.25 Acres,5,0,0.95,"$94,924.00",No,1,0,3,3,NA,Cary,NC,place
+-78.9044698,35.8140231,624 Waterford Lake Drive,Waterford Drive,806,2005,1,1,1,Condo,"$111,000","$111,000",0-.25 Acres,3,0,0.97024,"$101,288.00",No,0,0,9,9,NA,Cary,NC,highway
+-78.7900063673469,35.7919961632653,108 Candytuff Court,Taylors Pond,1125,1984,2,1,1,Attached,"$125,000","$119,000",0-.25 Acres,5,0,0.928,"$107,665.00",No,0,0,5,5,NA,Cary,NC,place
+-78.78543,35.811435,101 Choptank Court,Chesapeake Condos,1393,1984,2,2,1,Condo,"$116,900","$119,000",0-.25 Acres,8,0,0.9505,"$115,756.00",No,1,0,1,1,NA,Cary,NC,place
+-78.748628055003607,35.767361062292,1117 Nottingham Circle,Williamsburg Manor,1382,1973,3,1,1,Attached,"$129,900","$120,000",0-.25 Acres,5,1380,0.95,"$91,624.00",No,0,0,12,12,NA,Cary,NC,place
+-78.794475122449,35.7945759795918,107 Briarcreek Court,Taylors Pond,957,1985,2,1,1,Attached,"$119,900","$122,000",0-.25 Acres,4,0,0.91,"$111,386.00",No,1,0,5,5,NA,Cary,NC,place
+-78.7993776014286,35.7918957558062,832 Chip Circle,Oakwood Heights,1452,1976,3,2,0,Detached,"$165,000","$124,723",.26-.5 Acres,7,1456,0.9845,"$201,166.00",No,0,0,58,58,NA,Cary,NC,place
+-78.7929969387755,35.7617587959184,104 Fifer Court,Kildaire Farms,1054,1979,2,1,1,Attached,"$121,900","$125,000",0-.25 Acres,4,0,1.0455,"$122,324.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7807716446355,35.7621966454935,932 New Kent Place,New Kent Village,968,1985,2,2,0,Condo,"$125,000","$125,000",0-.25 Acres,5,0,0.95,"$105,331.00",No,1,0,5,5,NA,Cary,NC,place
+-78.7802542222222,35.7620803333333,711 New Kent Place,New Kent Village,1126,1985,2,2,2,Condo,"$129,900","$126,000",0-.25 Acres,5,0,0.9505,"$114,017.00",No,1,0,9,9,NA,Cary,NC,place
+-78.7993783041564,35.7769092431137,111 Granby Court,Waterford Place,980,1984,2,1,0,Attached,"$130,000","$126,000",0-.25 Acres,5,0,0.95,"$115,194.00",No,1,0,54,54,NA,Cary,NC,place
+-78.7633388833813,35.7516072947658,1812 Bulon Drive,Wellington Ridge,997,1996,2,2,0,Condo,"$132,900","$126,000",0-.25 Acres,4,0,0.95,"$112,994.00",No,1,0,51,51,NA,Cary,NC,place
+-78.7637962442351,35.7684689602381,1120 Collington Drive,The Coves,1239,1974,2,1,2,Attached,"$134,900","$130,000",0-.25 Acres,5,0,0.864,"$117,248.00",No,0,0,10,10,NA,Cary,NC,place
+-78.7920175798359,35.7927689303859,605 Middleton Avenue,Taylors Pond,1521,1984,3,2,0,Attached,"$130,000","$132,000",0-.25 Acres,7,0,0.99,"$120,153.00",No,0,0,2,2,NA,Cary,NC,place
+-78.8148910029723,35.7582720476698,628 Applecross Drive,Applecross,1215,1981,2,2,1,Attached,"$135,000","$135,000",0-.25 Acres,5,0,0.9505,"$117,901.00",No,1,0,6,6,NA,Cary,NC,place
+-78.7863449743062,35.7582955349594,206 Clancy Circle,Kildaire Farms,1158,1982,2,2,0,Attached,"$129,900","$135,000",0-.25 Acres,5,0,1.1,"$124,362.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7912652356355,35.7939895496551,109 Taylors Pond Drive,Taylors Pond,1174,1984,2,1,1,Attached,"$135,000","$135,000",0-.25 Acres,4,0,0.91,"$109,446.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7611343873368,35.75338049672,5300 Rina Court,Wellington Ridge,1156,1997,2,2,0,Condo,"$135,000","$135,000",0-.25 Acres,5,0,0.9505,"$118,509.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7642939,35.75084,2223 Wellington Ridge Loop,Wellington Ridge,1154,1997,2,2,0,Condo,"$135,000","$135,000",0-.25 Acres,5,0,0.967,"$120,685.00",No,1,0,3,3,NA,Cary,NC,highway
+-78.762803,35.751561,1013 Renshaw Court,Wellington Ridge,1138,1995,2,2,0,Condo,"$139,000","$135,000",0-.25 Acres,5,0,0.95,"$118,681.00",No,1,0,8,8,NA,Cary,NC,place
+-78.7946000408163,35.7947053265306,102 Briarcreek Court,Taylors Pond,990,1985,2,1,1,Attached,"$129,900","$135,000",0-.25 Acres,5,120,0.91,"$109,274.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7905794898996,35.7633235000981,134 Winners Circle,Match Pointe,1134,1986,2,2,1,Attached,"$125,000","$136,000",0-.25 Acres,6,0,1.3,"$112,581.00",No,0,0,1,1,NA,Cary,NC,place
+-78.7923419,35.811698,323 Glenolden Court,Chesapeake Pointe,1210,1999,2,2,0,Condo,"$130,000","$136,000",0-.25 Acres,4,0,0.108,"$116,657.00",No,1,0,2,2,NA,Cary,NC,highway
+-78.7804504928153,35.7627122875814,212 New Kent Place,New Kent Village,1060,1986,2,2,0,Condo,"$130,000","$137,500",0-.25 Acres,5,92,1.03,"$114,017.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8139681781294,35.7564184743722,410 Applecross Drive,Applecross,1297,1983,2,2,1,Attached,"$140,000","$138,000",0-.25 Acres,5,0,0.9505,"$132,180.00",No,1,0,1,1,NA,Cary,NC,place
+-78.7804572451645,35.7627342738893,222 New Kent Place,New Kent Village,1122,1986,2,2,0,Condo,"$138,500","$138,000",0-.25 Acres,5,60,0.9845,"$114,017.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7998960654726,35.7767096559127,505 Danforth Drive,Waterford Place,1222,1984,2,2,1,Attached,"$138,000","$138,000",0-.25 Acres,5,0,0.9505,"$125,803.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8217519673736,35.7777596161415,112 LUXON Place,Ashcroft,1328,1987,3,2,0,Attached,"$139,900","$138,000",0-.25 Acres,6,100,0.9505,"$128,158.00",No,0,0,2,2,NA,Cary,NC,place
+-78.7981553135326,35.7763132381202,111 Danforth Drive,Waterford Place,1227,1985,2,2,1,Attached,"$140,000","$138,200",0-.25 Acres,5,0,0.95,"$127,482.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7610958597234,35.7532006942462,5323 Rina Court,Wellington Ridge,1310,1997,2,2,0,Condo,"$139,500","$138,500",0-.25 Acres,5,0,1.03,"$125,374.00",No,1,0,7,7,NA,Cary,NC,place
+-78.8058829975154,35.7820793197585,322 Springfork Drive,Cedar Pointe Condos,1349,1997,3,2,0,Condo,"$121,000","$140,000",0-.25 Acres,5,0,0.9505,"$131,567.00",No,1,0,18,18,NA,Cary,NC,place
+-78.8135000889347,35.7574093679442,304 Applecross Drive,Applecross,1189,1984,2,2,1,Attached,"$140,000","$140,600",0-.25 Acres,5,32,0.9505,"$119,119.00",No,1,0,1,1,NA,Cary,NC,place
+-78.8114785987507,35.7561310853959,135 Charter Court,Colonial Townes,1313,1994,2,2,1,Attached,"$138,000","$141,000",0-.25 Acres,5,0,0.9845,"$131,532.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8152076329925,35.7569836709293,514 Applecross Drive,Applecross,1173,1983,2,2,0,Attached,"$148,940","$142,000",0-.25 Acres,5,0,1.009,"$112,085.00",No,1,0,133,133,NA,Cary,NC,place
+-78.7634558316627,35.7603218326973,120 Bay Drive,The Coves,1488,1979,3,2,1,Attached,"$154,900","$142,500",0-.25 Acres,6,0,0.9505,"$131,508.00",No,0,0,6,6,NA,Cary,NC,place
+-78.7975894854261,35.7774657495599,209 Danforth Drive,Waterford Place,1235,1985,2,2,1,Attached,"$145,000","$143,500",0-.25 Acres,8,0,0.95,"$129,891.00",No,1,0,5,5,NA,Cary,NC,place
+-78.8223474,35.7775613,131 LUXON Place,Oxxford Hunt,1433,1986,3,2,0,Attached,"$142,000","$144,000",0-.25 Acres,5,0,0.9505,"$128,382.00",No,1,0,4,4,NA,Cary,NC,highway
+-78.7628998438289,35.7512033736889,821 Renshaw Court,Wellington Ridge,1173,1995,2,2,0,Condo,"$139,900","$144,000",0-.25 Acres,5,0,0.9505,"$119,605.00",No,1,0,2,2,NA,Cary,NC,place
+-78.798075004083,35.7764768039318,125 Danforth Drive,Waterford Place,1220,1985,2,2,1,Attached,"$149,500","$144,900",0-.25 Acres,5,0,0.9505,"$132,342.00",No,1,0,29,29,NA,Cary,NC,place
+-78.811807853905,35.7564358989033,202 Colonial Townes Court,Colonial Townes,1111,1986,2,2,1,Attached,"$142,500","$145,000",0-.25 Acres,5,0,0.9845,"$112,112.00",No,1,0,0,0,NA,Cary,NC,place
+-78.8040938129837,35.7757114906307,113 Candace Place,Carystone,1399,1997,3,2,0,Attached,"$142,000","$145,000",0-.25 Acres,5,0,0.95,"$138,000.00",No,1,0,3,3,NA,Cary,NC,place
+-78.77781575,35.8210725625,312 Silverberry Court,Windchase at Beechtree,1347,1991,2,2,1,Attached,"$159,000","$147,000",0-.25 Acres,5,0,0.986,"$144,559.00",No,1,0,26,26,NA,Cary,NC,place
+-78.7986803739759,35.7771594232128,118 Milford Court,Waterford Place,1227,1985,2,2,1,Attached,"$146,000","$147,000",0-.25 Acres,5,0,0.95,"$128,167.00",No,1,0,55,55,NA,Cary,NC,place
+-78.7842170014104,35.7943265867885,215 W Boundary Street,Not in a Subdivision,1101,1961,3,1,0,Detached,"$162,500","$147,500",.26-.5 Acres,6,62,0.98,"$145,861.00",No,0,0,5,5,NA,Cary,NC,place
+-78.8037504285714,35.7758420612245,202 Candace Place,Carystone,1477,1998,3,2,1,Attached,"$154,900","$148,000",0-.25 Acres,6,0,0.95,"$146,161.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7900069591837,35.7919942040816,110 Candytuff Court,Taylors Pond,1206,1984,2,1,1,Attached,"$149,000","$149,000",0-.25 Acres,5,0,0.9505,"$119,958.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7792583940687,35.8124642230347,103 N Mclean Court,Cambridge Forest,1202,1986,2,2,0,Attached,"$152,000","$149,000",0-.25 Acres,7,0,0.9505,"$131,925.00",No,1,0,8,8,NA,Cary,NC,place
+-78.7980858245218,35.7764529055525,123 Danforth Drive,Waterford Place,1240,1985,2,2,1,Attached,"$153,900","$150,000",0-.25 Acres,7,0,0.95,"$128,142.00",No,1,0,5,5,NA,Cary,NC,place
+-78.8134082819836,35.7573233185378,107 Inverness Court,Applecross,1757,1984,3,3,1,Attached,"$145,000","$150,250",0-.25 Acres,5,0,0.95,"$138,533.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8040901472636,35.7757189561828,117 Candace Place,Carystone,1295,1998,2,2,1,Attached,"$152,900","$153,000",0-.25 Acres,5,30,0.95,"$140,398.00",No,1,0,7,7,NA,Cary,NC,place
+-78.788085,35.793208,122 Star Thistle Lane,Summer Ridge Townhomes,1367,2004,2,2,1,Attached,"$160,000","$155,000",0-.25 Acres,5,0,0.9845,"$142,723.00",No,0,0,9,9,NA,Cary,NC,place
+-78.7918360952381,35.7650773333333,217 Virens Drive,Ivy Creek,1437,1998,2,2,1,Attached,"$154,900","$155,000",0-.25 Acres,4,0,0.95,"$137,010.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7934511107992,35.7950668771289,232 Rosebrooks Drive,Taylors Pond,1501,1986,3,2,1,Attached,"$145,000","$155,000",0-.25 Acres,6,0,1,"$115,707.00",No,1,0,2,2,NA,Cary,NC,place
+-78.776319134392,35.820811007087,290 Beechtree Drive,Windchase at Beechtree,1344,1987,2,2,1,Attached,"$149,500","$155,500",0-.25 Acres,5,0,0.9505,"$142,308.00",No,1,0,15,15,NA,Cary,NC,place
+-78.8044667788602,35.7859401077888,315 Orchard Park Drive,Saratoga Orchard Park,1245,1999,2,2,1,Attached,"$155,000","$156,000",0-.25 Acres,4,32,0.9505,"$149,000.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7941437625611,35.7657487353068,154 Greenmont Lane,Paxton,1223,1986,2,2,1,Attached,"$161,000","$156,500",0-.25 Acres,5,219,0.9505,"$142,038.00",No,1,0,5,5,NA,Cary,NC,place
+-78.7713304122291,35.7939025426798,528 SORRELL Street,Cary Heights,1268,1978,3,1,1,Detached,"$160,000","$157,000",.26-.5 Acres,6,0,0.95,"$148,528.00",No,1,0,13,13,NA,Cary,NC,place
+-78.9044698,35.8140231,828 Waterford Lake Drive,Cary Parkway,1404,2005,2,2,1,Condo,"$165,000","$158,000",0-.25 Acres,5,0,0.985,"$158,259.00",No,0,0,17,17,NA,Cary,NC,highway
+-78.7996831765655,35.7651673968792,134 Riverwalk Circle,Riverwalk Townhomes,1299,1988,3,2,1,Attached,"$157,900","$158,500",0-.25 Acres,6,0,0.9505,"$136,888.00",No,1,0,7,7,NA,Cary,NC,place
+-78.7882133543052,35.7844391066671,322 Willow Street,Montclair,865,1950,2,1,0,Detached,"$159,000","$159,000",0-.25 Acres,6,0,0.9505,"$136,272.00",No,0,0,2,2,NA,Cary,NC,place
+-78.7638432383732,35.7594766919651,102 Barbary Court,The Coves,1589,1978,3,2,1,Attached,"$160,000","$160,000",0-.25 Acres,6,0,0.9505,"$138,697.00",No,1,0,0,0,NA,Cary,NC,place
+-78.9056789,35.8131961,723 Portstewart Drive,Cary Park,1395,2007,2,2,0,Condo,"$169,900","$160,000",0-.25 Acres,5,0,0.95,"$145,000.00",No,0,0,49,49,NA,Cary,NC,highway
+-78.7880850436599,35.7844364804258,330 Willow Street,Montclair,806,1950,2,1,0,Detached,"$169,900","$161,500",0-.25 Acres,5,0,0.9505,"$135,125.00",No,0,0,3,3,NA,Cary,NC,place
+-78.7931313574744,35.7949483766636,211 Rosebrooks Drive,Taylors Pond,1480,1986,3,2,1,Attached,"$160,000","$162,000",0-.25 Acres,6,0,0.9845,"$124,207.00",No,1,0,5,5,NA,Cary,NC,place
+-78.803754,35.775843,200 Candace Place,Carystone,1477,1998,3,2,1,Attached,"$157,900","$162,500",0-.25 Acres,6,0,0.864,"$144,684.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7777995,35.821076625,338 Silverberry Court,Windchase at Beechtree,1389,1995,3,2,0,Attached,"$165,000","$163,500",0-.25 Acres,6,0,0.9505,"$150,183.00",No,1,0,19,19,NA,Cary,NC,place
+-78.9056789,35.8131961,738 Portstewart Drive,Waterford,1422,2008,2,2,1,Condo,"$167,500","$167,500",0-.25 Acres,4,0,0.9505,"$145,587.00",No,0,0,3,3,NA,Cary,NC,highway
+-78.784542412154,35.7580276169957,113 Clancy Circle,Kildaire Farms,1667,1984,3,2,1,Detached,"$169,999","$169,000",0-.25 Acres,6,0,1.0188,"$182,476.00",No,1,0,61,61,NA,Cary,NC,place
+-78.795286560869,35.8162667646039,112 Windbyrne Drive,Windbrooke,1308,1988,2,2,1,Attached,"$170,000","$170,000",0-.25 Acres,5,0,0.9505,"$151,157.00",No,1,0,17,17,NA,Cary,NC,place
+-78.774937,35.77475,401 E Cornwall Road,Greenwood Forest,1421,1978,3,2,0,Detached,"$175,000","$170,000",.51-.75 Acres,6,0,0.9505,"$205,092.00",No,1,1,6,6,NA,Cary,NC,place
+-78.8124566938776,35.7548583673469,104 Coniston Court,The Highlands,915,1981,2,1,1,Detached,"$170,000","$170,000",.26-.5 Acres,5,0,0.9845,"$141,705.00",No,0,0,3,3,NA,Cary,NC,place
+-78.7947778501459,35.7950073822628,111 High Pine Court,Taylors Pond,1786,1986,3,2,1,Detached,"$169,900","$170,000",0-.25 Acres,8,0,0.9505,"$191,809.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7778095,35.821074125,322 Silverberry Court,Windchase at Beechtree,1351,1991,2,2,1,Attached,"$160,000","$172,000",0-.25 Acres,6,0,0.9505,"$144,559.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7863757695823,35.7697059268748,1215 Pond Street,Briarcliff,1667,1968,3,2,0,Detached,"$170,000","$174,000",.26-.5 Acres,7,0,0.9505,"$170,727.00",No,1,1,4,4,NA,Cary,NC,place
+-78.7621245306122,35.7676726122449,710 Collington Drive,Pirates Cove,1943,1974,2,2,0,Attached,"$187,000","$175,000",0-.25 Acres,7,0,0.9505,"$141,853.00",No,1,0,29,29,NA,Cary,NC,place
+-78.7622141428571,35.7678208571429,715 Collington Drive,The Coves,2463,1974,4,3,1,Attached,"$180,000","$181,000",0-.25 Acres,8,0,0.98,"$151,227.00",No,1,0,31,31,NA,Cary,NC,place
+-78.8983456721357,35.8240862113154,715 Blossom Grove Drive,Camden Park,1529,2008,2,2,1,Attached,"$180,000","$182,000",0-.25 Acres,6,0,0.9845,"$164,962.00",No,1,1,1,1,NA,Cary,NC,place
+-78.7953775553553,35.8172186606776,134 Windward Court,Windbrooke,1249,1993,2,2,0,Attached,"$179,999","$183,000",0-.25 Acres,5,0,0.9505,"$157,201.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8225110261834,35.7666347559265,203 Arvo Lane,Brookgreen,1197,1992,2,2,0,Detached,"$184,900","$184,900",0-.25 Acres,6,0,0.0984,"$179,558.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7961606547296,35.7641892647352,143 Spring Cove Drive,Lakepointe Village,1392,1986,2,2,1,Attached,"$185,000","$185,000",0-.25 Acres,5,0,0.9505,"$190,468.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8020782104623,35.7818689333948,104 Stoneford Court,EdgeHill Farms,1360,1987,3,2,1,Detached,"$175,000","$185,120",0-.25 Acres,6,0,0.95,"$198,598.00",No,1,0,27,27,NA,Cary,NC,place
+-78.82511,35.764326,402 Center Pointe Drive,Park Place,1493,1997,2,2,0,Attached,"$188,000","$188,000",0-.25 Acres,6,0,0.96,"$161,036.00",No,1,0,5,5,NA,Cary,NC,place
+-78.9044698,35.8140231,522 Waterford Lake Drive,Cary Park,1397,2007,2,2,0,Condo,"$193,500","$188,500",0-.25 Acres,5,0,1.02,"$177,853.00",No,1,1,39,2,NA,Cary,NC,highway
+-78.8263164213092,35.7664458045369,326 Wax Myrtle Court,Evergreen,1207,1989,2,2,0,Detached,"$195,000","$189,000",0-.25 Acres,6,0,0.95,"$145,797.00",No,1,0,12,12,NA,Cary,NC,place
+-78.826953,35.766661,101 Mint Court,Evergreen,1151,1988,3,2,0,Detached,"$189,000","$189,000",0-.25 Acres,5,0,0.95,"$145,392.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8272340003775,35.7653196689776,214 Vinca Circle,Park Place,1497,1999,2,2,0,Attached,"$190,000","$190,000",0-.25 Acres,6,280,0.9505,"$161,064.00",No,1,0,5,5,NA,Cary,NC,place
+-78.7974030109614,35.7669813954743,104 Ellsworth Place,Kildaire Farms,1245,1992,3,2,0,Detached,"$200,000","$190,000",0-.25 Acres,6,0,0.95,"$165,545.00",No,1,0,4,4,NA,Cary,NC,place
+-78.9156389020302,35.8257840630013,1719 Whirlaway Court,Washington Sq at Amberly,1316,2009,2,2,1,Attached,"$199,900","$190,000",0-.25 Acres,8,147,0.95,"$180,858.00",No,0,1,14,14,NA,Cary,NC,place
+-78.8406581851852,35.823086962963004,267 Hampshire Downs Drive,Downing Village,1549,2007,3,2,1,Attached,"$189,900","$190,000",0-.25 Acres,6,0,0.985,"$167,992.00",No,0,0,4,4,NA,Cary,NC,place
+-78.7899797916759,35.778805696585,418 Ann Street,Russell Hills,1873,1957,4,2,0,Detached,"$190,000","$191,234",.26-.5 Acres,8,1900,0.98,"$204,837.00",No,0,0,3,3,NA,Cary,NC,place
+-78.7754742135608,35.8217476933874,260 Beechtree Drive,Windchase at Beechtree,2004,1989,3,3,1,Attached,"$195,000","$192,000",0-.25 Acres,6,0,0.96,"$171,054.00",No,1,0,33,33,NA,Cary,NC,place
+-78.9044698,35.8140231,523 Waterford Lake Drive,Cary Park,1400,2007,2,2,0,Condo,"$193,500","$193,500",0-.25 Acres,6,76,1.02,"$179,474.00",No,1,1,6,6,NA,Cary,NC,highway
+-78.9044698,35.8140231,528 Waterford Lake Drive,Cary Park,1353,2007,2,2,0,Condo,"$195,000","$196,001",0-.25 Acres,5,30,0.9505,"$179,086.00",No,1,1,0,0,NA,Cary,NC,highway
+-78.775736622026,35.7860629497461,121 Stanopal Drive,Hunter Creek,1650,1998,3,2,1,Attached,"$195,000","$196,250",0-.25 Acres,6,0,0.95,"$158,866.00",No,1,1,54,7,NA,Cary,NC,place
+-78.7967022583753,35.7940706275196,911 Madison Avenue,Madison Oaks,1224,1986,3,2,0,Detached,"$195,000","$197,000",.26-.5 Acres,5,0,0.9505,"$175,838.00",No,1,0,1,1,NA,Cary,NC,place
+-78.7963843,35.7848602,535 Matheson Place,Highland Village,1383,2010,3,2,1,Attached,"$193,900","$197,000",0-.25 Acres,6,0,0.9505,"$172,913.00",No,1,0,1,1,NA,Cary,NC,building
+-78.7963747,35.7849151,533 Matheson Place,Highland Village,1497,2010,3,2,1,Attached,"$195,900","$198,000",0-.25 Acres,6,0,0.884,"$175,540.00",No,1,0,7,7,NA,Cary,NC,building
+-78.79641095,35.7852636,520 Matheson Place,Highland Village,1496,2010,3,2,1,Attached,"$199,500","$198,000",0-.25 Acres,6,0,0.884,"$175,540.00",No,1,0,6,6,NA,Cary,NC,building
+-78.780302,35.820794,101 Skipwyth Circle,Wood Ridge,1319,1996,3,2,0,Detached,"$204,900","$199,900",.26-.5 Acres,5,0,0.9845,"$205,821.00",No,1,1,53,53,NA,Cary,NC,place
+-78.7874733959192,35.7852041062112,323 W Park Street,Not in a Subdivision,1023,1955,2,1,0,Detached,"$200,000","$200,000",0-.25 Acres,4,1021,0.9505,"$153,989.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7753054393011,35.7809096752023,312 Walnut Street,Greenwood Forest,1334,1961,3,2,0,Detached,"$215,000","$200,000",.26-.5 Acres,6,0,0.9505,"$175,329.00",No,1,0,18,18,NA,Cary,NC,place
+-78.8998046894303,35.8244191561441,913 Morris Dale Lane,Camden TH at Cary Park,1502,2010,2,2,1,Attached,"$215,000","$200,000",0-.25 Acres,5,0,0.95,"$172,470.00",No,1,1,20,20,NA,Cary,NC,place
+-78.7717466,35.7988038,107 N Atley Lane,Willoughby  Place,1218,1985,3,2,0,Detached,"$199,900","$200,000",0-.25 Acres,6,32,0.95,"$155,481.00",No,0,0,1,1,NA,Cary,NC,highway
+-78.8158214211404,35.7606157630044,1217 Whitborn Court,Woodwinds,1318,1977,3,2,0,Detached,"$210,000","$201,000",.26-.5 Acres,6,0,0.9505,"$194,833.00",No,1,0,11,11,NA,Cary,NC,place
+-78.793457673225,35.7573658256298,102 Bonnell Court,Bonnell Patio Homes,1424,1980,3,2,1,Detached,"$200,000","$202,000",0-.25 Acres,6,207,0.096,"$134,402.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7767413913467,35.7610591574742,103 Overview Lane,Kildaire Farms,2366,1979,4,2,1,Detached,"$260,000","$202,500",.26-.5 Acres,9,0,0.9505,"$265,231.00",No,1,1,12,12,NA,Cary,NC,place
+-78.9138210210394,35.8257635075092,342 Longchamp Lane,Washington Sq at Amberly,1416,2009,3,2,1,Attached,"$199,900","$203,000",0-.25 Acres,5,0,0.9505,"$177,970.00",No,0,1,2,2,NA,Cary,NC,place
+-78.7674438462769,35.7821924198677,403 Ryan Road,Iron Gate,1624,1977,3,2,0,Detached,"$199,000","$203,500",.26-.5 Acres,7,0,0.98,"$197,183.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8231311036029,35.7556171492293,2005 Talloway Drive,The Highlands,1392,1983,3,2,0,Detached,"$200,000","$205,000",.26-.5 Acres,5,0,0.9345,"$190,170.00",No,1,1,4,4,NA,Cary,NC,place
+-78.7887217405204,35.7877449056376,104 Madison Square Lane,Townes of Madison,1996,2004,4,2,2,Attached,"$205,000","$205,000",0-.25 Acres,6,0,0.96088,"$185,974.00",No,1,1,8,8,NA,Cary,NC,place
+-78.788755,35.788012,209 N Dixon Avenue,Townes of Madison,2047,2005,4,3,1,Attached,"$205,726","$205,000",0-.25 Acres,7,0,0.9845,"$198,222.00",No,1,1,3,3,NA,Cary,NC,place
+-78.8267430170115,35.7666849149425,110 Mint Court,Evergreen,1391,1988,3,2,1,Detached,"$205,000","$205,000",0-.25 Acres,7,0,0.95,"$154,994.00",No,1,1,2,2,NA,Cary,NC,place
+-78.8549766014839,35.8202233094101,207 Madison Grove Place,Carpenter Village,1389,1999,2,2,1,Attached,"$205,000","$205,000",0-.25 Acres,5,0,0.9509,"$174,759.00",No,1,1,3,3,NA,Cary,NC,place
+-78.7796126408597,35.7955211320143,710 Kingswood Drive,Northwoods,1321,1971,3,2,0,Detached,"$189,900","$205,000",.26-.5 Acres,5,0,0.9505,"$184,645.00",No,1,0,2,2,NA,Cary,NC,place
+-78.800544,35.766968,100 Westwind Court,Beacon Cove,1504,1994,3,2,1,Detached,"$212,900","$205,000",0-.25 Acres,6,0,0.9505,"$203,981.00",No,1,0,20,20,NA,Cary,NC,place
+-78.7748930564668,35.8219612468531,105 Oak Hill Loop,Beechtree,1185,1986,3,2,0,Detached,"$199,900","$205,250",0-.25 Acres,6,0,0.9645,"$147,635.00",No,1,0,1,1,NA,Cary,NC,place
+-78.896600486709,35.828126667755,213 Dove Cottage Lane,Camden TH at Cary Park,1783,2010,3,3,1,Attached,"$219,000","$206,000",0-.25 Acres,11,0,0.95,"$195,438.00",No,0,1,57,57,NA,Cary,NC,place
+-78.8224051479203,35.7668019229589,208 Arvo Lane,Brookgreen,1500,1992,3,2,1,Detached,"$210,000","$207,000",0-.25 Acres,6,0,0.9505,"$199,109.00",No,1,0,5,5,NA,Cary,NC,place
+-78.7785852749279,35.7773869113921,720 Austin Avenue,Meadowmont,1960,1964,4,2,1,Detached,"$220,000","$207,500",.26-.5 Acres,8,0,0.9845,"$214,136.00",No,1,1,21,21,NA,Cary,NC,place
+-78.8221194583145,35.7652759617695,104 Arvo Lane,Brookgreen,1246,1991,3,2,0,Detached,"$209,000","$207,500",0-.25 Acres,6,0,0.9505,"$179,363.00",No,1,0,9,9,NA,Cary,NC,place
+-78.8015489829637,35.7635333513678,215 Chimney Rise Drive,Kildaire Farms,1437,1993,2,2,0,Attached,"$205,000","$207,875",0-.25 Acres,5,0,0.9845,"$170,448.00",No,1,1,6,6,NA,Cary,NC,place
+-78.8514049859691,35.8341221768027,172 Point Comfort Lane,Twin Lakes,1679,2008,2,2,1,Attached,"$214,900","$208,000",0-.25 Acres,6,0,0.9845,"$192,015.00",No,0,0,33,33,NA,Cary,NC,place
+-78.9026144,35.8187804,5037 Cary Glen Boulevard,Cary Park,1885,2005,3,2,0,Attached,"$214,000","$208,000",0-.25 Acres,7,0,0.9845,"$208,661.00",No,1,2,49,49,NA,Cary,NC,highway
+-78.9026144,35.8187804,3833 Cary Glen Boulevard,Camden TH at Cary Park,1847,2007,3,3,1,Attached,"$215,000","$209,000",0-.25 Acres,6,0,0.96,"$180,567.00",No,1,1,10,10,NA,Cary,NC,highway
+-78.7895665977138,35.7883396382041,413 Madison Avenue,Townes of Madison,2018,2006,3,3,1,Attached,"$205,000","$209,000",0-.25 Acres,6,0,0.9845,"$194,368.00",No,1,1,5,5,NA,Cary,NC,place
+-78.7875210259139,35.7855625168935,312 Williams Street,Not in a Subdivision,1226,1955,2,1,0,Detached,"$216,900","$210,000",.26-.5 Acres,5,0,0.9505,"$160,738.00",No,1,0,38,38,NA,Cary,NC,place
+-78.8975577001675,35.8269464711654,117 Dove Cottage Lane,Camden TH at Cary Park,1755,2007,3,3,1,Attached,"$214,000","$210,000",0-.25 Acres,6,0,0.97,"$190,709.00",No,1,1,17,17,NA,Cary,NC,place
+-78.916237,35.824268000000004,1905 Whirlaway Court,Washington Sq at Amberly,1544,2009,2,2,1,Attached,"$205,000","$210,000",0-.25 Acres,6,0,0.9505,"$185,806.00",No,0,1,2,2,NA,Cary,NC,place
+-78.8547775154772,35.8201934491465,204 Madison Grove Place,Carpenter Village,1388,1999,2,2,1,Attached,"$215,000","$210,000",0-.25 Acres,5,0,0.91664,"$176,405.00",No,1,1,23,23,NA,Cary,NC,place
+-78.821019,35.755485,1623 Burnley Drive,The Highlands,1287,1978,3,2,0,Detached,"$214,900","$210,000",.26-.5 Acres,7,0,0.98,"$167,571.00",No,1,0,16,16,NA,Cary,NC,place
+-78.8063452111952,35.77879072658,807 NW Maynard Road,Trappers Run,1396,1972,3,2,0,Detached,"$213,900","$210,000",.26-.5 Acres,6,0,0.9845,"$172,338.00",No,1,0,176,113,NA,Cary,NC,place
+-78.7891831125579,35.7877044612668,126 Madison Square Lane,Townes of Madison,2103,2004,3,3,1,Attached,"$206,000","$210,000",0-.25 Acres,6,0,0.8505,"$183,485.00",No,1,1,2,2,NA,Cary,NC,place
+-78.776894,35.811812,101 Cathedral Way,Canterbury Woods,1342,1985,3,2,0,Detached,"$199,900","$210,000",.26-.5 Acres,7,0,0.9505,"$177,821.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7512285746184,35.7719553654603,1044 Manchester Drive,Walnut Hills,1632,1979,4,2,0,Detached,"$215,000","$210,000",.26-.5 Acres,7,222,0.95,"$218,380.00",No,1,0,45,45,NA,Cary,NC,place
+-78.7972423308025,35.7992931713607,3003 Portrait Drive,Northwoods Crossing,1660,2005,3,2,1,Attached,"$219,900","$211,000",0-.25 Acres,6,0,0.864,"$182,341.00",No,1,1,15,15,NA,Cary,NC,place
+-78.8509925585772,35.8341685594063,212 Duck Mill Circle,Twin Lakes,1587,2008,2,2,1,Attached,"$219,900","$211,500",0-.25 Acres,6,0,0.9505,"$186,951.00",No,0,0,18,18,NA,Cary,NC,place
+-78.7895636899351,35.7877429697044,145 Madison Square Lane,Townes of Madison,2038,2006,3,3,1,Attached,"$210,000","$212,000",0-.25 Acres,6,0,0.9505,"$194,022.00",No,1,1,4,4,NA,Cary,NC,place
+-78.89485594366,35.8271467313123,357 Michigan Avenue,Camden TH at Cary Park,1785,2014,3,3,1,Attached,"$219,990","$212,500",0-.25 Acres,6,0,0.96,"$191,477.00",No,0,1,12,12,NA,Cary,NC,place
+-78.773599,35.807702,601 E Dynasty Drive,Royal Oaks,1833,1983,3,1,1,Detached,"$215,000","$214,000",.26-.5 Acres,8,0,0.9845,"$206,666.00",No,1,0,61,61,NA,Cary,NC,place
+-78.7651414279762,35.8069669560502,106 N Corncrib Court,Hearthstone Farms,1649,1985,3,2,1,Detached,"$224,900","$215,000",.26-.5 Acres,7,0,0.9505,"$185,641.00",No,1,0,89,84,NA,Cary,NC,place
+-78.7893294411746,35.7878827733551,136 Madison Square Lane,Townes of Madison,2057,2006,3,3,1,Attached,"$215,000","$215,000",0-.25 Acres,6,0,0.9505,"$193,491.00",No,1,1,6,6,NA,Cary,NC,place
+-78.7957544031324,35.7639682473867,125 Spring Cove Drive,Lakepointe Village,1506,1985,2,2,1,Attached,"$209,900","$215,000",0-.25 Acres,6,0,0.9845,"$79,190.00",No,1,1,2,2,NA,Cary,NC,place
+-78.8963937624825,35.8280689926233,224 Dove Cottage Lane,Camden TH at Cary Park,1788,2011,3,3,1,Attached,"$217,500","$215,000",0-.25 Acres,6,0,0.96,"$184,233.00",No,1,1,41,41,NA,Cary,NC,place
+-78.7751090518541,35.8219348637321,102 Oak Hill Loop,Beechtree,1068,1986,3,2,0,Detached,"$209,900","$215,000",0-.25 Acres,6,0,0.9505,"$164,059.00",No,1,1,3,3,NA,Cary,NC,place
+-78.7736011037767,35.7760741109754,805 Ralph Drive,Greenwood Forest,1665,1957,3,1,1,Detached,"$225,000","$215,000",.26-.5 Acres,6,0,0.95,"$187,899.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8488067380487,35.8322193611171,1009 Freeport Drive,Twin Lakes,1797,2006,2,2,1,Attached,"$219,815","$216,000",0-.25 Acres,6,0,0.9505,"$193,900.00",No,0,0,3,3,NA,Cary,NC,place
+-78.8078703158393,35.7777436662691,209 Honeysuckle Lane,Cedar Creek,1385,1981,3,2,0,Detached,"$215,000","$216,500",.51-.75 Acres,5,0,0.9505,"$196,504.00",No,1,0,6,6,NA,Cary,NC,place
+-78.7890360910647,35.7874468835477,121 Madison Square Lane,Townes of Madison,2045,2006,3,3,1,Attached,"$215,000","$216,500",0-.25 Acres,6,0,0.864,"$194,022.00",No,1,1,5,5,NA,Cary,NC,place
+-78.7573855485131,35.7714738521987,1138 Ivy Lane,Ivy Meadows,2039,1972,4,2,1,Detached,"$240,000","$217,000",.26-.5 Acres,8,0,0.98,"$200,924.00",No,0,0,27,27,NA,Cary,NC,place
+-78.89750415466,35.8270306141056,125 Dove Cottage Lane,Camden TH at Cary Park,1792,2007,3,3,1,Attached,"$219,900","$217,500",0-.25 Acres,6,0,0.9505,"$185,735.00",No,1,1,4,4,NA,Cary,NC,place
+-78.8188292857143,35.7654053673469,104 Chula Vista Court,The Ranches,1287,1989,3,2,0,Detached,"$219,900","$218,000",0-.25 Acres,6,0,0.984,"$188,366.00",No,1,1,3,3,NA,Cary,NC,place
+-78.7701587530552,35.808746670965,105 Angora Court,Hearthstone Farms,1651,1985,3,2,0,Detached,"$224,900","$218,000",.26-.5 Acres,7,0,0.9505,"$179,730.00",No,1,0,9,9,NA,Cary,NC,place
+-78.7664644673517,35.8064833668379,103 S Corncrib Court,Hearthstone Farms,1751,1985,4,3,0,Detached,"$221,000","$218,000",.26-.5 Acres,7,0,0.86,"$187,966.00",No,1,0,27,27,NA,Cary,NC,place
+-78.7766293996389,35.7326985125399,116 Loch Bend Lane,Lochmere,2017,1985,3,3,0,Attached,"$219,500","$218,000",0-.25 Acres,7,0,0.95,"$208,592.00",No,1,0,7,7,NA,Cary,NC,place
+-78.7703424769577,35.8080552289428,105 Black Angus Run,Hearthstone Farms,1537,1984,3,2,0,Detached,"$215,000","$218,000",.26-.5 Acres,7,448,0.9505,"$197,597.00",No,1,2,2,2,NA,Cary,NC,place
+-78.777867,35.82123275,327 Silverberry Court,Windchase at Beechtree,2203,1996,3,3,1,Attached,"$229,000","$219,500",0-.25 Acres,7,118,0.95,"$163,968.00",No,1,0,4,4,NA,Cary,NC,place
+-78.8608168,35.8296604,706 Mardonie Reach Lane,Legacy at Carpenter Village,1651,2007,3,2,1,Attached,"$219,900","$219,900",0-.25 Acres,8,0,0.93,"$182,949.00",No,1,1,7,7,NA,Cary,NC,highway
+-78.8959817012828,35.8269296199076,2033 Summerhouse Road,Camden TH at Cary Park,1743,2013,3,3,1,Attached,"$219,900","$219,900",0-.25 Acres,6,0,0.96057,"$193,529.00",No,0,1,23,23,NA,Cary,NC,place
+-78.8947761359028,35.8276548595726,315 Michigan Avenue,Camden TH at Cary Park,1853,2014,3,3,1,Attached,"$219,900","$220,000",0-.25 Acres,6,0,0.9505,"$188,714.00",No,0,1,11,11,NA,Cary,NC,place
+-78.7531429373614,35.7602593915125,1212 Kingston Ridge Road,Hillsdale Forest,1938,1964,3,2,0,Detached,"$220,000","$220,000",.51-.75 Acres,9,0,0.9505,"$250,337.00",No,1,2,0,0,NA,Cary,NC,place
+-78.9029656335725,35.8179496871268,131 Braeside Court,Cary Park,1938,2007,3,2,2,Attached,"$225,000","$221,000",0-.25 Acres,7,0,0.95,"$213,165.00",No,1,1,20,20,NA,Cary,NC,place
+-78.8491742170217,35.8324385034687,2020 Rapid Falls Road,Twin Lakes,1814,2009,2,2,1,Attached,"$220,000","$221,000",0-.25 Acres,6,82,0.9505,"$199,450.00",No,0,0,2,2,NA,Cary,NC,place
+-78.777587,35.753154,100 Martina Court,Wimbledon Racquet,1292,1989,3,2,0,Detached,"$219,900","$221,000",.26-.5 Acres,7,0,0.9505,"$198,266.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7972429924075,35.7993355140822,3007 Portrait Drive,Northwoods Crossing,1681,2006,3,2,1,Attached,"$219,000","$221,200",0-.25 Acres,6,0,0.9505,"$182,310.00",No,1,1,4,4,NA,Cary,NC,place
+-78.8189619987913,35.7653586541709,114 Buena Vista Drive,The Ranches,1400,1989,3,2,0,Detached,"$220,000","$222,500",0-.25 Acres,5,0,0.86,"$185,813.00",No,1,0,6,6,NA,Cary,NC,place
+-78.7708659495965,35.754369820634,1724 Seabrook Avenue,MacDonald Woods,1428,1979,3,2,0,Detached,"$215,000","$223,000",.26-.5 Acres,7,0,0.9505,"$100,595.00",No,1,1,5,5,NA,Cary,NC,place
+-78.8510955411684,35.834165,208 Duck Mill Circle,Twin Lakes,1735,2007,2,2,1,Attached,"$224,900","$223,200",0-.25 Acres,7,0,0.99,"$183,488.00",No,0,0,0,0,NA,Cary,NC,place
+-78.8546405077311,35.8206440438888,110 Madison Grove Place,Carpenter Village,1857,2006,2,2,1,Attached,"$223,350","$223,350",0-.25 Acres,6,0,0.86,"$222,843.00",No,0,1,1,1,NA,Cary,NC,place
+-78.7993467366978,35.7644007836276,221 Riverwalk Circle,Riverwalk,1659,1993,3,2,1,Attached,"$219,500","$224,000",0-.25 Acres,7,822,0.9505,"$203,086.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8060550720172,35.7686456158186,903 Balmoral Drive,Scottish Hills North,1421,1990,3,2,0,Detached,"$224,900","$224,900",0-.25 Acres,6,300,0.889,"$201,679.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8074825586478,35.7793453771349,1009 Castalia Drive,Trappers Run,2283,1981,4,2,0,Detached,"$225,000","$225,000",.26-.5 Acres,9,0,0.9845,"$201,499.00",No,1,0,44,44,NA,Cary,NC,place
+-78.7803370080702,35.7595021456058,204 Hanover Place,Hanover Place,1833,1987,3,3,0,Attached,"$239,990","$225,000",0-.25 Acres,9,0,0.9505,"$233,188.00",No,1,1,11,11,NA,Cary,NC,place
+-78.8007791087122,35.7824657099582,108 Marshfield Place,EdgeHill Farms,1499,1988,3,2,0,Detached,"$225,000","$225,000",0-.25 Acres,8,0,0.9505,"$204,376.00",No,1,2,23,23,NA,Cary,NC,place
+-78.8420493319286,35.7771774960557,119 Trailview Drive,Canterbury,1189,1994,3,2,0,Detached,"$236,000","$225,000",0-.25 Acres,5,0,0.9505,"$214,985.00",No,0,1,49,49,NA,Cary,NC,place
+-78.7755584762485,35.7991771787721,113 McIntire Lane,Northwoods,2096,1986,4,2,1,Detached,"$235,000","$225,000",0-.25 Acres,10,600,0.9845,"$235,191.00",No,1,2,62,62,NA,Cary,NC,place
+-78.807791,35.777906,200 Honeysuckle Lane,Cedar Creek,1222,1980,3,2,0,Detached,"$210,000","$225,500",.26-.5 Acres,6,0,0.9505,"$199,498.00",No,0,1,1,1,NA,Cary,NC,place
+-78.8074209297388,35.7617850384789,1249 Gatehouse Drive,Scottish Hills,1386,1976,3,2,0,Detached,"$225,000","$226,000",.26-.5 Acres,6,0,0.9505,"$217,584.00",No,1,2,2,2,NA,Cary,NC,place
+-78.7638046686866,35.6706043494931,159 Jamison Woods Lane,Jamison Park,1805,2004,3,3,1,Attached,"$230,000","$226,000",0-.25 Acres,6,285,0.9845,"$201,103.00",No,1,1,90,90,NA,Cary,NC,place
+-78.7602614872049,35.7666425920761,1325 Doylin Drive,Greenwood Acres,1392,1977,3,2,0,Detached,"$233,000","$226,500",.26-.5 Acres,6,0,0.9845,"$207,304.00",No,1,0,1,1,NA,Cary,NC,place
+-78.9039966758461,35.8445911347521,565 Panorama Park Place,Stonewater,1627,2009,2,2,1,Attached,"$229,900","$226,500",0-.25 Acres,7,0,0.9505,"$204,210.00",No,1,1,2,2,NA,Cary,NC,place
+-78.7971121473308,35.765742749359,106 Grey Fox Court,Fox Chase,1712,1985,3,2,1,Detached,"$225,000","$227,000",0-.25 Acres,5,0,0.9505,"$178,151.00",No,1,0,6,6,NA,Cary,NC,place
+-78.9151791747464,35.8251537924071,1822 Affirmed Way,Washington Sq at Amberly,1884,2009,2,2,1,Attached,"$229,900","$227,500",0-.25 Acres,8,0,0.98,"$201,744.00",No,0,1,28,28,NA,Cary,NC,place
+-78.80741425,35.78277445,110 Edgehill Parkway,Planters Woods Townhomes,1760,1996,4,2,1,Attached,"$219,900","$228,000",0-.25 Acres,8,313,0.9505,"$166,126.00",No,1,0,3,3,NA,Cary,NC,building
+-78.800368,35.794827,101 Ferris Wheel Court,Carrousel Park,1561,1994,3,2,1,Detached,"$232,000","$228,500",0-.25 Acres,6,0,0.9505,"$204,628.00",No,1,0,30,30,NA,Cary,NC,place
+-78.8595783157895,35.8290125789474,134 Linden Park Lane,Legacy at Carpenter Village,1999,2006,3,3,1,Attached,"$228,500","$228,500",0-.25 Acres,6,0,0.9505,"$205,239.00",No,1,1,75,75,NA,Cary,NC,place
+-78.8572528312046,35.7733791,103 Highfalls Court,Park Village,1437,1996,3,2,1,Detached,"$229,500","$229,500",0-.25 Acres,6,0,0.9845,"$213,302.00",No,1,1,47,47,NA,Cary,NC,building
+-78.9002243372924,35.8492703828904,716 Silver Stream Lane,Stonewater,1660,2013,2,2,1,Attached,"$229,900","$229,900",0-.25 Acres,6,0,0.985,"$198,361.00",No,0,1,8,8,NA,Cary,NC,place
+-78.8159059787364,35.7786682437596,1202 Castalia Drive,Trappers Run,1509,1982,3,2,1,Detached,"$229,900","$229,900",.26-.5 Acres,10,0,0.053,"$183,062.00",No,1,0,14,14,NA,Cary,NC,place
+-78.8416899767174,35.7788015443867,303 Woodstar Drive,Canterbury,1201,1994,3,2,0,Detached,"$233,500","$230,000",0-.25 Acres,5,0,0.9505,"$213,064.00",No,0,1,47,47,NA,Cary,NC,place
+-78.8512090252282,35.8356238355187,119 Point Comfort Lane,Twin Lakes,1777,2008,3,2,1,Attached,"$225,000","$230,000",0-.25 Acres,6,0,0.96,"$195,550.00",No,0,0,7,7,NA,Cary,NC,place
+-78.774980639421,35.8222573588477,116 Oak Hill Loop,Beechtree,2001,1986,3,3,0,Detached,"$239,900","$230,000",0-.25 Acres,8,626,0.95,"$195,041.00",No,1,1,11,11,NA,Cary,NC,place
+-78.7848627070008,35.7730686132542,119 Rose Street,Burtrose,2264,1963,4,2,1,Detached,"$225,000","$230,000",.26-.5 Acres,8,0,0.96,"$193,943.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7893815609109,35.7611083770757,122 Cameron Court,Kildaire Farms,1361,1980,3,2,0,Detached,"$220,000","$230,000",0-.25 Acres,6,0,0.98,"$185,187.00",No,1,0,3,3,NA,Cary,NC,place
+-78.779698,35.751837,101 Rosewall Lane,Wimbledon,2405,1986,4,3,1,Attached,"$240,000","$230,000",0-.25 Acres,11,0,0.9505,"$231,832.00",No,1,0,0,0,NA,Cary,NC,place
+-78.7640284693341,35.7659112493421,1113 Seabrook Avenue,Pirates Cove,2055,1972,4,3,0,Detached,"$244,900","$230,000",.26-.5 Acres,8,0,0.9845,"$233,055.00",No,1,0,51,51,NA,Cary,NC,place
+-78.8233599389285,35.7575582022609,507 Dundalk Way,Kilarney Woods,1400,1981,3,2,0,Detached,"$229,900","$230,000",.26-.5 Acres,5,144,0.485,"$194,413.00",No,1,0,2,2,NA,Cary,NC,place
+-78.9026144,35.8187804,5035 Cary Glen Boulevard,Camden TH at Cary Park,1867,2005,3,2,2,Attached,"$230,000","$230,000",0-.25 Acres,7,0,0.9505,"$212,056.00",No,1,2,4,4,NA,Cary,NC,highway
+-78.8574107627563,35.8150562668651,211 Lake Norman Drive,LakeridgeTownhomes,1541,1997,3,2,0,Attached,"$225,000","$230,200",0-.25 Acres,7,385,0.9505,"$240,087.00",No,1,2,1,1,NA,Cary,NC,place
+-78.9029638145933,35.8179141691631,135 Braeside Court,Cary Park,2050,2007,3,3,1,Attached,"$224,900","$231,000",0-.25 Acres,7,0,0.9505,"$213,165.00",No,1,1,2,2,NA,Cary,NC,place
+-78.794320634204,35.7753414113889,518 W Cornwall Road,West Russell Hills,1872,1960,4,2,0,Detached,"$240,000","$232,000",.26-.5 Acres,8,0,0.9505,"$195,094.00",No,0,0,100,100,NA,Cary,NC,place
+-78.7936873005523,35.7673506647258,220 Harbor Creek Drive,Landings at Pine Creek,1802,2001,3,2,1,Attached,"$237,500","$232,500",0-.25 Acres,8,0,0.9505,"$180,403.00",No,1,1,73,73,NA,Cary,NC,place
+-78.9135292222222,35.8240159259259,546 War Admiral Court,Washington Sq at Amberly,1704,2008,2,2,1,Attached,"$235,000","$233,000",0-.25 Acres,6,0,0.9845,"$204,897.00",No,0,1,12,12,NA,Cary,NC,place
+-78.7779879965375,35.8011498614993,107 Drywood Place,Northwoods,2329,1987,3,2,1,Detached,"$229,900","$234,000",0-.25 Acres,7,0,0.95,"$258,005.00",No,1,2,1,1,NA,Cary,NC,place
+-78.7682232750415,35.7523024432754,105 Heidinger Drive,MacDonald Woods,1357,1980,3,2,0,Detached,"$240,000","$234,500",.26-.5 Acres,6,0,0.9505,"$181,456.00",No,1,0,11,11,NA,Cary,NC,place
+-78.8005004402981,35.7945237057009,103 Brass Ring Court,Carrousel Park,1527,1994,3,2,1,Detached,"$235,000","$235,000",0-.25 Acres,7,0,0.9505,"$215,429.00",No,1,1,3,3,NA,Cary,NC,place
+-78.7678418486545,35.779300255432,506 Ryan Road,Iron Gate,1418,1980,3,2,0,Detached,"$215,000","$235,000",.26-.5 Acres,6,0,0.9611,"$188,308.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7916941990228,35.7713840757358,109 Leisure Court,Maynard,1546,1981,3,2,0,Detached,"$230,000","$235,000",.26-.5 Acres,7,0,0.9845,"$198,252.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8151431752366,35.754641172884,1111 Suterland Road,The Highlands,1429,1984,3,2,0,Detached,"$225,000","$235,000",.26-.5 Acres,7,0,0.95,"$195,825.00",No,1,0,0,0,NA,Cary,NC,place
+-78.9150212734612,35.82613200909,408 Longchamp Lane,Washington Sq at Amberly,1846,2009,3,2,1,Attached,"$237,000","$235,000",0-.25 Acres,11,0,0.95,"$205,537.00",No,0,1,7,7,NA,Cary,NC,place
+-78.8570552991943,35.77183425,101 New Holland Place,Park Village,1359,1995,3,2,1,Detached,"$239,000","$236,000",0-.25 Acres,10,0,0.9625,"$204,504.00",No,1,1,7,7,NA,Cary,NC,building
+-78.775705,35.80927,213 Trillingham Lane,Canterbury Woods,1626,1985,3,2,0,Detached,"$224,000","$236,000",.26-.5 Acres,7,0,0.864,"$194,642.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8227362761686,35.7591936191568,122 Loch Lomond Circle,Kilarney Woods,1420,1980,3,2,0,Detached,"$234,900","$236,500",.26-.5 Acres,5,0,0.961,"$187,138.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7965565596811,35.7630619789842,216 Lakewater Drive,Lakepointe Village,1606,1995,2,2,1,Attached,"$235,000","$237,000",0-.25 Acres,5,0,0.0095,"$217,728.00",No,1,1,17,17,NA,Cary,NC,place
+-78.7925944047535,35.7842698,951 Frank Page Drive,Samuels Keep,1935,2010,3,3,1,Attached,"$234,900","$237,000",0-.25 Acres,6,0,0.9845,"$212,414.00",No,1,2,2,2,NA,Cary,NC,building
+-78.7748319340143,35.7746862099373,411 E Cornwall Road,Greenwood Forest,1864,1960,3,2,0,Detached,"$220,000","$237,000",.26-.5 Acres,6,0,0.95,"$196,250.00",No,2,1,1,1,NA,Cary,NC,place
+-78.8171206267455,35.7773888917485,312 Trappers Run Drive,Trappers Run,1599,1984,3,2,1,Detached,"$239,000","$239,000",.26-.5 Acres,9,0,0.9625,"$199,138.00",No,1,0,8,8,NA,Cary,NC,place
+-78.85778945,35.7721691,106 Old Dock Trail,Park Village,1530,1996,3,2,1,Detached,"$239,000","$239,000",0-.25 Acres,6,0,0.9505,"$214,571.00",No,1,1,1,1,NA,Cary,NC,building
+-78.7732869263757,35.7806720518192,104 Coronado Way,Coronado Village,1585,1977,3,2,0,Detached,"$229,000","$239,000",.26-.5 Acres,6,236,0.98,"$213,080.00",No,1,0,1,1,NA,Cary,NC,place
+-78.7998217171661,35.7670237959675,206 Cape Cod Drive,Beacon Cove,2057,1987,4,2,1,Detached,"$240,000","$240,000",0-.25 Acres,9,228,0.9505,"$260,742.00",No,1,1,7,7,NA,Cary,NC,place
+-78.7918968391234,35.7713363875024,112 Leisure Court,Maynard,1927,1983,4,3,0,Detached,"$244,900","$240,000",.26-.5 Acres,8,0,0.9505,"$215,941.00",No,1,2,31,31,NA,Cary,NC,place
+-78.912744924443,35.8236698912438,517 Camden Yards Way,Washington Sq at Amberly,1685,2008,3,2,1,Attached,"$237,500","$240,000",0-.25 Acres,6,0,0.98,"$199,871.00",No,0,1,3,3,NA,Cary,NC,place
+-78.8191028038143,35.7668346655799,109 Pocono Lane,The Forest,2477,1989,3,2,1,Detached,"$262,000","$240,000",.26-.5 Acres,9,0,0.9505,"$285,317.00",No,2,0,8,8,NA,Cary,NC,place
+-78.8601579968894,35.7737888,105 Unaka Court,Park Village,1323,1997,3,2,0,Detached,"$240,000","$240,000",0-.25 Acres,7,0,0.9505,"$197,761.00",No,1,1,26,26,NA,Cary,NC,building
+-78.753547525839707,35.7700614295366,1125 Manchester Drive,Walnut Hills,1633,1973,3,2,0,Detached,"$246,900","$240,000",.26-.5 Acres,7,0,0.96,"$211,091.00",No,0,0,31,31,NA,Cary,NC,place
+-78.76666475,35.7979275,706 Ennis Creek Lane,Davidson Point,1645,2013,3,2,1,Attached,"$252,500","$240,000",0-.25 Acres,6,0,0.089,"$197,255.00",No,1,2,4,4,NA,Cary,NC,place
+-78.810744,35.762977,1216 Haddington Drive,Scottish Hills,2113,1976,3,2,0,Detached,"$235,000","$240,000",.26-.5 Acres,9,0,0.9505,"$229,712.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8193352544026,35.7545113924135,1809 Tarbert Drive,The Highlands,1796,1976,3,2,0,Detached,"$240,000","$240,000",.26-.5 Acres,7,0,0.9505,"$217,178.00",No,1,1,3,3,NA,Cary,NC,place
+-78.8002258972563,35.7601335045729,202 Lighthouse Way,Harbour Town,1799,1987,3,2,1,Detached,"$250,000","$241,000",0-.25 Acres,6,470,0.9505,"$238,593.00",No,1,0,33,33,NA,Cary,NC,place
+-78.7426184515497,35.7491774482608,8630 Macedonia Lake Drive,Creekside at Tryon Village,1858,2009,3,2,1,Attached,"$239,000","$241,000",0-.25 Acres,6,0,0.95,"$228,026.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8592556,35.77391765,200 Iron Hill Drive,Park Village,1566,1997,3,2,1,Detached,"$249,900","$241,500",0-.25 Acres,7,0,0.9505,"$222,664.00",No,1,1,7,7,NA,Cary,NC,building
+-78.8842948,35.8058653,4136 Sykes Street,Fryars Gate,1817,2014,3,3,1,Attached,"$241,900","$241,900",0-.25 Acres,6,0,0.95,"$229,235.00",No,1,1,3,3,NA,Cary,NC,highway
+-78.8252084500004,35.7704896500015,102 Thamesford Way,Oxxford Hunt,1500,1990,3,2,0,Detached,"$238,500","$242,000",.26-.5 Acres,6,0,0.98,"$211,301.00",No,1,1,0,0,NA,Cary,NC,place
+-78.9157404238642,35.8260730123257,1718 Whirlaway Court,Washington Sq at Amberly,1906,2009,3,2,1,Attached,"$260,000","$242,000",0-.25 Acres,8,0,0.9505,"$208,665.00",No,0,1,28,28,NA,Cary,NC,place
+-78.808223442585,35.7562043771071,1432 Lake Pine Drive,Scottish Hills,1632,1979,3,2,0,Detached,"$244,900","$243,000",.26-.5 Acres,6,0,0.9505,"$235,608.00",No,1,1,9,9,NA,Cary,NC,place
+-78.7415905,35.7486778333333,4008 Yellowfield Way,Creekside at Tryon Village,1839,2009,3,2,1,Attached,"$243,000","$243,000",0-.25 Acres,9,0,0.98,"$225,996.00",No,1,1,1,1,NA,Cary,NC,place
+-78.7922236435985,35.7753598074808,830 Union Street,Russell Hills,1647,1959,3,2,1,Detached,"$229,900","$244,900",.26-.5 Acres,8,0,0.95,"$196,046.00",No,0,0,4,4,NA,Cary,NC,place
+-78.8203549,35.772178,102 Wheatley Way,Oxxford Hunt,2101,1993,4,2,1,Detached,"$250,000","$245,000",.26-.5 Acres,9,0,0.9505,"$257,390.00",No,1,2,2,2,NA,Cary,NC,highway
+-78.7941390322581,35.7678377096774,139 Brush Stream Drive,Landings at Pine Creek,2150,2000,3,2,1,Attached,"$249,900","$245,000",0-.25 Acres,6,0,0.92,"$227,463.00",No,1,1,27,27,NA,Cary,NC,place
+-78.85981,35.814214,100 Great Lake Drive,Preston,1543,1996,2,2,0,Attached,"$240,000","$245,000",0-.25 Acres,5,0,0.9505,"$220,775.00",No,1,2,5,5,NA,Cary,NC,place
+-78.7850293037483,35.7733636876373,921 Devon Avenue,Burtrose,1925,1967,3,2,1,Detached,"$245,000","$245,000",.26-.5 Acres,8,0,0.864,"$215,910.00",No,1,0,41,41,NA,Cary,NC,place
+-78.8510074019319,35.77457435,210 Snow Camp Drive,Park Village,1533,1994,3,2,1,Detached,"$230,000","$246,000",0-.25 Acres,7,0,0.9505,"$219,055.00",No,1,1,2,2,NA,Cary,NC,building
+-78.7697250004022,35.7974686625105,112 Hilary Place,Willoughby,1832,1985,3,2,1,Detached,"$247,900","$246,500",0-.25 Acres,8,0,0.9845,"$209,619.00",No,1,1,126,126,NA,Cary,NC,place
+-78.9156852868747,35.8255851312526,1731 Whirlaway Court,Washington Sq at Amberly,1916,2009,4,2,1,Attached,"$250,000","$247,000",0-.25 Acres,10,0,0.00864,"$218,711.00",No,0,1,6,6,NA,Cary,NC,place
+-78.9002565412837,35.8487722957212,749 Silver Stream Lane,Stonewater,1748,2013,3,2,1,Attached,"$249,900","$247,000",0-.25 Acres,9,0,0.93,"$199,395.00",No,0,1,9,9,NA,Cary,NC,place
+-78.7925534414572,35.7762441919383,518 Normandy Street,Russell Hills,1900,1959,3,2,0,Detached,"$245,000","$247,000",.26-.5 Acres,7,0,0.95,"$206,134.00",No,1,0,3,3,NA,Cary,NC,place
+-78.8041297939832,35.759934845536,1307 Helmsdale Drive,Scottish Hills,1718,1972,4,2,1,Detached,"$245,000","$247,500",.26-.5 Acres,8,0,0.9505,"$225,409.00",No,1,1,2,2,NA,Cary,NC,place
+-78.7756035806487,35.7813577649015,309 Walnut Street,Coronado Village,1507,1977,3,2,0,Detached,"$250,000","$248,000",.26-.5 Acres,6,0,0.9,"$175,576.00",No,1,0,2,2,NA,Cary,NC,place
+-78.7537046314599,35.7699988573842,1119 Manchester,Walnut Hills,1604,1973,3,2,0,Detached,"$245,000","$248,000",.51-.75 Acres,8,0,0.96,"$204,268.00",No,1,0,15,14,NA,Cary,NC,place
+-78.7899016869651,35.7254332652238,111 Woodglen Drive,Bluffs at Regency,2055,1986,4,2,1,Attached,"$249,900","$248,209",0-.25 Acres,8,0,0.955,"$222,104.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7682006573391,35.7547293178076,107 Dunhagan Place,MacDonald Woods,1590,1979,3,2,1,Detached,"$252,500","$249,000",.26-.5 Acres,7,0,0.9505,"$207,147.00",No,1,1,44,44,NA,Cary,NC,place
+-78.7926415357368,35.7597877038793,304 King Charles Lane,Kildaire Farms,1841,1977,4,2,0,Detached,"$250,000","$249,500",0-.25 Acres,10,347,0.9845,"$221,887.00",No,1,2,3,3,NA,Cary,NC,place
+-78.766663,35.783731,406 Hudson Court,Iron Gate,1361,1976,3,2,0,Detached,"$245,000","$250,000",.26-.5 Acres,6,0,1.4,"$196,890.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8589045692776,35.7720305,203 Town Creek Drive,Park Village,1419,1996,3,2,1,Detached,"$250,000","$250,000",0-.25 Acres,6,0,0.9505,"$226,744.00",No,1,1,4,4,NA,Cary,NC,building
+-78.8124900596001,35.7621466224475,106 Mcintosh Court,Scottish Hills,1683,1980,3,2,1,Detached,"$245,000","$250,000",.26-.5 Acres,8,0,0.9505,"$217,671.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7729530840235,35.7713796409983,924 Kathryn Street,Greenwood Forest,1547,1963,3,2,0,Detached,"$250,000","$250,000",.26-.5 Acres,9,0,0.9845,"$206,218.00",No,1,0,24,24,NA,Cary,NC,place
+-78.7532163685295,35.7621661516148,1209 Fairlane Road,Hillsdale Forest,1570,1963,3,2,0,Detached,"$250,000","$250,000",.51-.75 Acres,7,446,0.88,"$206,026.00",No,2,0,14,14,NA,Cary,NC,place
+-78.81254,35.782825,100 Culcross Court,Hampstead Park,1752,1985,3,2,1,Detached,"$250,000","$250,000",.26-.5 Acres,7,192,0.9505,"$229,402.00",No,1,0,4,4,NA,Cary,NC,place
+-78.8837638,35.8057914,3917 Brokenshire Street,Fryars Gate,1815,2014,3,3,1,Attached,"$245,000","$250,000",0-.25 Acres,6,0,0.95,"$229,975.00",No,1,1,1,1,NA,Cary,NC,highway
+-78.8259349814313,35.7685131438515,110 Bayreuth Place,Brookgreen Forest,1569,1996,3,2,0,Detached,"$250,000","$250,000",.26-.5 Acres,6,0,0.9505,"$237,166.00",No,0,2,5,5,NA,Cary,NC,place
+-78.9069337239466,35.8137107913533,517 Portstewart Drive,Cary Park,2061,2016,4,4,1,Attached,"$252,380","$250,490",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,place
+-78.9069337239466,35.8137107913533,517 Portstewart Drive,Cary Park,2060,2016,4,4,1,Attached,"$259,380","$250,490",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,104,104,NA,Cary,NC,place
+-78.9008964708405,35.8490994057903,442 Panorama View Loop,Stonewater,1754,2012,2,2,1,Attached,"$249,900","$252,000",0-.25 Acres,7,0,0.9845,"$203,573.00",No,0,1,5,5,NA,Cary,NC,place
+-78.8024104092585,35.7866335129631,105 Thensia Court,Dutchess Village,2200,1991,4,2,2,Detached,"$254,900","$252,000",0-.25 Acres,7,0,0.98,"$243,602.00",No,1,0,194,138,NA,Cary,NC,place
+-78.8401940096483,35.7801255121783,224 Trailview Drive,Canterbury,2034,1994,3,2,1,Detached,"$279,999","$253,500",.26-.5 Acres,7,0,0.9845,"$272,173.00",No,1,2,23,23,NA,Cary,NC,place
+-78.906940815247,35.8137262276647,515 Portstewart Drive,Cary Park,2056,2016,4,4,1,Attached,"$262,075","$254,075",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,171,171,NA,Cary,NC,place
+-78.9060242,35.8129161,113 Ballyliffen Lane,Cary Park,2060,2016,4,4,1,Attached,"$254,575","$254,575",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.7970403317713,35.7992952333644,3002 Portrait Drive,Northwoods Crossing,2064,2006,3,2,1,Attached,"$244,900","$256,000",0-.25 Acres,8,0,0.98,"$211,428.00",No,1,2,1,1,NA,Cary,NC,place
+-78.7995010025951,35.788264867894,313 Howland Avenue,Oakwood Heights,2091,1974,4,2,1,Detached,"$259,900","$256,000",.26-.5 Acres,8,0,0.9505,"$212,019.00",No,2,0,5,5,NA,Cary,NC,place
+-78.9060242,35.8129161,109 Ballyliffen Lane,Cary Park,2060,2016,4,4,1,Attached,"$254,135","$256,855",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.8032102556413,35.7654578322698,1003 Brookgreen Drive,Scottish Hills,2024,1972,4,2,1,Detached,"$256,900","$256,900",.26-.5 Acres,9,0,0.928,"$197,148.00",No,1,0,54,54,NA,Cary,NC,place
+-78.792015,35.815772,101 Colora Court,Springbrooke,1723,1992,3,2,1,Detached,"$260,000","$257,000",0-.25 Acres,7,0,0.9505,"$230,142.00",No,1,1,27,27,NA,Cary,NC,place
+-78.858298889569,35.7740036,109 Martins Point Place,Park Village,1948,1995,4,2,1,Detached,"$257,000","$257,000",0-.25 Acres,7,0,0.9505,"$243,233.00",No,1,1,2,2,NA,Cary,NC,building
+-78.9063629,35.8135785,309 Rosapenna Lane,Cary Park,2057,2016,4,4,1,Attached,"$257,135","$257,135",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.9069266326462,35.813695355042,519 Portstewart Drive,Cary Park,2063,2016,4,4,1,Attached,"$265,230","$257,230",0-.25 Acres,9,0,0.098,"$276,246.00",Yes,0,0,144,144,NA,Cary,NC,place
+-78.7803290017887,35.7729159948574,109 Kylie Savannah Court,Medcon Place,1725,2000,3,2,0,Detached,"$257,500","$257,500",0-.25 Acres,7,0,0.09505,"$234,747.00",No,1,2,0,0,NA,Cary,NC,place
+-78.7518795102041,35.767352122449,1237 E Springhill Court,Walnut Ridge,2835,1974,4,2,1,Detached,"$257,900","$257,900",.26-.5 Acres,13,237,0.95,"$302,745.00",No,1,1,4,4,NA,Cary,NC,place
+-78.7777173910755,35.8072372599313,110 Bishop Court,Royal Oaks,1824,1984,4,2,1,Detached,"$260,000","$258,000",.26-.5 Acres,7,1060,0.99,"$247,960.00",No,1,0,6,6,NA,Cary,NC,place
+-78.868850946713,35.810875,213 Sawgrass Hill Court,Heritage Pines,1878,2003,2,2,0,Attached,"$265,000","$259,000",0-.25 Acres,6,0,0.9845,"$266,063.00",No,1,2,77,77,NA,Cary,NC,place
+-78.7785061818182,35.7526615909091,115 Lacoste Lane,Wimbledon,1599,1990,3,2,1,Detached,"$259,000","$259,000",0-.25 Acres,5,0,0.928,"$215,968.00",No,1,2,4,4,NA,Cary,NC,place
+-78.9069195413458,35.8136799187306,521 Portstewart Drive,Cary Park,2056,2016,4,4,1,Attached,"$266,730","$259,703",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,153,153,NA,Cary,NC,place
+-78.857324721711,35.77235875,103 Old Dock Trail,Park Village,1698,1996,3,2,1,Detached,"$254,900","$259,900",0-.25 Acres,7,0,0.9505,"$237,155.00",No,1,1,4,4,NA,Cary,NC,building
+-78.800269,35.75878,203 Leeward Court,Kildaire Farms,2466,1988,3,2,1,Detached,"$260,000","$260,000",0-.25 Acres,7,0,0.957,"$293,614.00",No,1,2,62,62,NA,Cary,NC,place
+-78.779674,35.752716,104 Connors Circle,Wimbledon,1665,1994,4,2,0,Detached,"$260,000","$260,000",0-.25 Acres,6,0,0.9845,"$235,784.00",No,1,0,6,6,NA,Cary,NC,place
+-78.7932364854193,35.7586051289858,510 Lochness Lane,Kildaire Farms,1568,1977,3,2,0,Detached,"$260,000","$260,000",.26-.5 Acres,7,609,0.9505,"$212,905.00",No,1,0,4,4,NA,Cary,NC,place
+-78.9069479065474,35.8137416639761,513 Portstewart Drive,Cary Park,2061,2016,4,4,1,Attached,"$268,198","$260,198",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,14,14,NA,Cary,NC,place
+-78.812472,35.783429,101 CAVENDISH Drive,Hampstead Park,1651,1986,3,2,1,Detached,"$259,000","$260,500",.26-.5 Acres,8,0,0.9845,"$217,756.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7550835403816,35.7733941524498,1023 Ivy Lane,Ivy Meadows,2074,1972,4,2,1,Detached,"$265,000","$261,000",.26-.5 Acres,8,0,0.96,"$188,548.00",No,1,1,76,0,NA,Cary,NC,place
+-78.8022815289904,35.7818611882676,105 Stoneford Court,EdgeHill Farms,1693,1987,3,2,1,Detached,"$249,500","$261,300",0-.25 Acres,6,0,0.9505,"$209,688.00",No,1,0,3,3,NA,Cary,NC,place
+-78.77214782591,35.7820667680117,114 Penny Lane,Coronado Village,1573,1978,3,2,0,Detached,"$250,000","$261,500",.26-.5 Acres,6,0,0.98,"$234,995.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8061405916898,35.7688707003906,920 Balmoral Drive,Scottish Hills,1807,1989,3,2,1,Detached,"$249,900","$261,500",0-.25 Acres,7,0,0.9845,"$191,542.00",No,1,0,4,4,NA,Cary,NC,place
+-78.7948024708823,35.8142544791322,129 W Skyhawk Drive,Silvercrest,1623,1990,3,2,0,Detached,"$249,900","$261,500",0-.25 Acres,7,0,0.9505,"$219,415.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7414265,35.7489735,4021 Yellowfield Way,Creekside at Tryon Village,1868,2011,3,3,1,Attached,"$262,000","$262,000",0-.25 Acres,5,0,0.9505,"$239,242.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7687406539309,35.7820421932401,420 Holtz Lane,Iron Gate,1487,1978,3,2,0,Detached,"$250,000","$262,000",.26-.5 Acres,6,216,0.9505,"$206,049.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8510070926148,35.7751978,210 Mint Hill Drive,Park Village,1716,1994,3,2,1,Detached,"$259,900","$262,000",0-.25 Acres,7,0,0.864,"$234,280.00",No,1,1,2,2,NA,Cary,NC,building
+-78.9063629,35.8135785,315 Rosapenna Lane,Cary Park,2060,2016,4,4,1,Attached,"$264,975","$262,326",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.8214550603546,35.7584838783508,202 Dundalk Way,Kilarney Woods,1978,1979,4,2,1,Detached,"$259,900","$262,400",.26-.5 Acres,8,0,0.9505,"$201,790.00",No,1,0,39,39,NA,Cary,NC,place
+-78.9069124500454,35.8136644824192,523 Portstewart Drive,Cary Park,2060,2016,4,4,1,Attached,"$270,871","$262,871",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,15,15,NA,Cary,NC,place
+-78.9060242,35.8129161,111 Ballyliffen Lane,Cary Park,2062,2016,4,4,1,Attached,"$269,925","$262,925",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.910212969169,35.8315492651108,4127 Overcup Oak Lane,Amberly,1785,2013,3,2,1,Attached,"$265,000","$263,000",0-.25 Acres,6,0,0.9505,"$253,910.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9060242,35.8129161,117 Ballyliffen Lane,Cary Park,2055,2016,4,4,1,Attached,"$263,460","$263,460",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.9116653199283,35.8427200927608,832 Finnbar Drive,Carolina Preserve,1342,2011,2,2,0,Attached,"$271,000","$265,000",0-.25 Acres,6,0,0.983,"$210,686.00",No,0,2,21,21,NA,Cary,NC,place
+-78.7557959500523,35.7478802051382,204 Durington Place,Wellington Place,2084,1990,4,2,1,Detached,"$270,000","$265,000",0-.25 Acres,8,0,0.95,"$252,216.00",No,1,2,62,62,NA,Cary,NC,place
+-78.8005857611923,35.7944658228034,109 Brass Ring Court,Carrousel Park,2012,1994,3,2,1,Detached,"$270,000","$265,000",0-.25 Acres,8,0,0.95,"$239,239.00",No,1,2,8,8,NA,Cary,NC,place
+-78.9131726547575,35.8251645169863,1131 Seattle Slew Lane,Washington Sq at Amberly,1628,2008,2,2,0,Attached,"$265,000","$265,000",0-.25 Acres,7,0,0.89,"$249,618.00",No,0,2,166,166,NA,Cary,NC,place
+-78.9060242,35.8129161,107 Ballyliffen Lane,Cary Park,2058,2016,4,4,1,Attached,"$265,334","$265,334",0-.25 Acres,9,0,0.098,"$265,000.00",Yes,0,0,0,0,NA,Cary,NC,highway
+-78.7794618494253,35.7956580899681,724 Kornegay Place,Northwoods,2917,1976,5,3,0,Detached,"$274,000","$266,000",.26-.5 Acres,11,0,0.9505,"$238,196.00",No,1,0,10,10,NA,Cary,NC,place
+-78.7740337708002,35.7989539372021,305 Gregory Drive,Northwoods,2486,1986,3,2,2,Detached,"$269,900","$266,000",.26-.5 Acres,10,0,0.6145,"$240,202.00",No,1,2,49,49,NA,Cary,NC,place
+-78.9063629,35.8135785,313 Rosapenna Lane,Cary Park,2058,2016,4,4,1,Attached,"$274,877","$267,000",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,118,118,NA,Cary,NC,highway
+-78.803594,35.764079,1201 Balmoral Drive,Scottish Hills,1767,1971,3,2,0,Detached,"$260,000","$267,000",.26-.5 Acres,7,0,0.9505,"$240,202.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9060242,35.8129161,115 Ballyliffen Lane,Cary Park,2055,2016,4,4,1,Attached,"$263,100","$267,090",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.9063629,35.8135785,317 Rosapenna Lane,Cary Park,2055,2016,4,4,1,Attached,"$267,917","$267,917",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,153,153,NA,Cary,NC,highway
+-78.7603139744097,35.7666851841521,1329 Doylin Drive,Greenwood Acres,2123,1977,3,2,1,Detached,"$275,000","$268,000",.26-.5 Acres,9,125,0.95,"$235,035.00",No,1,1,8,8,NA,Cary,NC,place
+-78.9069549978478,35.8137571002874,511 Portstewart Drive,Cary Park,2057,2016,4,4,1,Attached,"$276,630","$268,630",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,137,137,NA,Cary,NC,place
+-78.8566211375233,35.77202175,102 New Holland Place,Park Village,1641,1995,3,2,1,Detached,"$275,000","$269,000",0-.25 Acres,7,441,0.9505,"$232,210.00",No,1,1,15,15,NA,Cary,NC,building
+-78.8223427755132,35.7685996305572,210 Copper Green Street,Brookgreen Forest,1604,1994,3,3,0,Detached,"$275,000","$269,000",0-.25 Acres,7,259,0.95,"$247,050.00",No,1,1,9,9,NA,Cary,NC,place
+-78.867359625,35.81103775,110 Sawgrass Hill Court,Heritage Pines,2e3,2002,2,2,0,Attached,"$279,000","$269,000",0-.25 Acres,7,0,0.9845,"$272,347.00",No,1,2,66,66,NA,Cary,NC,place
+-78.9063629,35.8135785,307 Rosapenna Lane,Cary Park,2062,2016,4,4,1,Attached,"$276,330","$269,330",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,1,1,NA,Cary,NC,highway
+-78.798621985164,35.758587455747,108 Keeton Lane,Kildaire Farms,1742,1992,3,2,1,Detached,"$269,900","$269,474",.26-.5 Acres,6,361,0.9505,"$232,386.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9162646531498,35.8223810869676,3021 Remington Oaks Circle,Lexington Park at Amberly,1911,2006,3,2,1,Detached,"$271,500","$269,500",0-.25 Acres,7,0,0.9505,"$247,131.00",No,0,2,3,3,NA,Cary,NC,place
+-78.7502045692576,35.7722491354642,1051 Dunsford Place,Walnut Hills,2405,1973,5,3,0,Detached,"$269,900","$269,900",.26-.5 Acres,10,0,0.9505,"$240,948.00",No,1,0,4,4,NA,Cary,NC,place
+-78.9163634940452,35.8220550770432,3037 Remington Oaks Circle,Amberly,1898,2007,3,2,1,Detached,"$275,000","$270,000",0-.25 Acres,8,0,0.9505,"$257,856.00",No,0,2,5,5,NA,Cary,NC,place
+-78.8086586153249,35.8144892639319,234 Langford Valley Way,Weston Place,1691,2010,3,2,1,Attached,"$275,000","$270,000",0-.25 Acres,6,0,0.896,"$250,620.00",No,1,2,19,19,NA,Cary,NC,place
+-78.9049309770525,35.8438755075515,504 Panorama Park Place,Stonewater,2256,2009,3,2,2,Attached,"$284,500","$270,000",0-.25 Acres,8,0,1.02,"$247,722.00",No,1,2,160,160,NA,Cary,NC,place
+-78.9060242,35.8129161,105 Ballyliffen Lane,Cary Park,2063,2016,4,4,1,Attached,"$266,825","$270,674",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.9014115209737,35.8057805234047,1080 Indigo Ridge Place,Greystone,1880,2009,3,2,1,Attached,"$275,000","$271,000",0-.25 Acres,7,515,0.9505,"$220,263.00",No,1,2,6,6,NA,Cary,NC,place
+-78.9035456138984,35.8173235600426,219 Broadgait Brae Road,Cary Park,2615,2004,3,2,1,Attached,"$272,000","$271,700",0-.25 Acres,7,0,0.98,"$275,900.00",No,1,2,7,7,NA,Cary,NC,place
+-78.8122039222378,35.7776926500701,103 FOX Court,Trappers Run,1518,1983,3,2,1,Detached,"$275,000","$272,000",.26-.5 Acres,9,0,0.9845,"$206,763.00",No,1,2,24,5,NA,Cary,NC,place
+-78.9063629,35.8135785,305 Rosapenna Lane,Cary Park,2058,2016,4,4,1,Attached,"$268,075","$272,065",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.87609305,35.783102,305 Caraway Lane,Ashley Woods,1574,1999,3,2,1,Detached,"$259,900","$272,500",0-.25 Acres,6,0,0.959,"$244,597.00",No,1,2,3,3,NA,Cary,NC,building
+-78.7531516122449,35.7757128571429,1195 Champion Drive,Ivy Meadows,1922,1972,4,3,0,Detached,"$279,900","$273,000",.26-.5 Acres,7,1926,0.95,"$174,117.00",No,1,0,15,15,NA,Cary,NC,place
+-78.9063629,35.8135785,311 Rosapenna Lane,Cary Park,2064,2016,4,4,1,Attached,"$280,173","$273,173",0-.25 Acres,9,0,1.484,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.8633919134785,35.8077053943497,313 Indian Elm Lane,Heritage Pines,1575,2005,2,2,0,Detached,"$275,000","$273,500",0-.25 Acres,6,0,0.956,"$273,987.00",No,1,2,54,54,NA,Cary,NC,place
+-78.7900106981254,35.818383021316,111 Silverridge Court,Silverton,2352,1992,3,3,1,Detached,"$279,500","$275,000",0-.25 Acres,9,0,0.09845,"$246,149.00",No,1,1,65,23,NA,Cary,NC,place
+-78.8550448328324,35.78359325,116 Hilda Grace Lane,Upchurch Farms,1897,2003,4,2,1,Attached,"$275,000","$275,000",0-.25 Acres,9,0,0.9505,"$251,223.00",No,1,2,3,3,NA,Cary,NC,building
+-78.8188060543667,35.7739857746555,102 Fallsworth Drive,Oxxford Hunt,1876,1988,3,2,1,Detached,"$275,000","$275,000",.26-.5 Acres,9,0,0.9505,"$246,583.00",No,1,1,0,0,NA,Cary,NC,place
+-78.8000321690147,35.7590315938958,111 Leeward Court,Harbour Town,1964,1987,3,2,1,Detached,"$280,000","$275,000",0-.25 Acres,8,0,0.9845,"$248,175.00",No,1,0,26,26,NA,Cary,NC,place
+-78.8318578433421,35.7782022565274,322 Bond Lake Drive,Bond Pointe,1712,1990,3,2,1,Detached,"$280,000","$275,000",0-.25 Acres,8,0,1.024,"$253,192.00",No,1,2,10,10,NA,Cary,NC,place
+-78.7798762211454,35.7562790666332,1019 Thistle Briar Place,Troon at Kildaire,1591,2003,2,2,0,Condo,"$289,900","$275,000",0-.25 Acres,5,0,0.95,"$256,062.00",No,1,2,86,86,NA,Cary,NC,place
+-78.7546256186963,35.773659605658,1037 Ivy Lane,Ivy Meadows,2310,1972,4,3,0,Detached,"$245,000","$275,000",.26-.5 Acres,8,30,0.93,"$218,088.00",No,1,0,1,1,NA,Cary,NC,place
+-78.7880208883372,35.7844351673051,334 Willow Street,Montclair,1458,1998,3,2,1,Detached,"$269,900","$275,000",0-.25 Acres,8,0,0.95,"$193,373.00",No,1,0,0,0,NA,Cary,NC,place
+-78.8601359103227,35.8141907269032,109 Lake Hickory Court,LakeridgeTownhomes,2016,1996,3,2,1,Attached,"$275,500","$275,500",0-.25 Acres,8,0,0.95,"$237,591.00",No,1,2,38,3,NA,Cary,NC,place
+-78.8412788529667,35.7652373211311,108 Churchview Street,Weathersby,1925,2005,3,2,1,Attached,"$276,000","$276,000",0-.25 Acres,8,56,0.96,"$252,500.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7529110839273,35.7732845197191,1223 Askham Drive,Walnut Hills,2450,1971,5,3,0,Detached,"$284,900","$277,000",.26-.5 Acres,9,112,0.9845,"$230,624.00",No,1,0,109,109,NA,Cary,NC,place
+-78.7514950537291,35.7661054917689,1215 Nottingham Drive,Walnut Ridge,2073,1978,4,2,1,Detached,"$279,900","$277,900",.26-.5 Acres,8,0,0.96,"$282,872.00",No,1,2,4,4,NA,Cary,NC,place
+-78.781695,35.755342,601 Rigside Place,Troon at Kildaire,1580,2001,2,2,0,Condo,"$285,000","$278,500",0-.25 Acres,7,530,0.9924,"$251,796.00",No,1,2,40,40,NA,Cary,NC,place
+-78.799504544037,35.7942215125613,111 Candy Apple Court,Carrousel Park,1616,1993,3,2,1,Detached,"$270,000","$279,000",.26-.5 Acres,10,0,0.95,"$219,170.00",No,1,2,5,5,NA,Cary,NC,place
+-78.7879564678262,35.7127110765779,207 Forest Run Place,Westchester Woods,2013,1997,3,2,1,Detached,"$295,000","$279,000",.26-.5 Acres,7,0,1.255,"$270,009.00",No,1,1,93,93,NA,Cary,NC,place
+-78.9130471387339,35.8391822308751,124 Sabiston Court,Carolina Preserve,1414,2009,2,2,0,Attached,"$279,000","$279,000",0-.25 Acres,6,0,0.983,"$177,600.00",No,0,2,25,25,NA,Cary,NC,place
+-78.80148,35.685047,4800 Holly Brook Drive,Holly Brook,2101,2000,3,2,1,Detached,"$279,900","$279,900",0-.25 Acres,8,0,1,"$254,304.00",No,1,2,16,16,NA,Cary,NC,place
+-78.8036567173403,35.768830095194,309 Trimble Avenue,Scottish Hills,2154,1988,4,3,0,Detached,"$279,900","$280,000",0-.25 Acres,7,180,0.95,"$235,073.00",No,1,0,64,64,NA,Cary,NC,place
+-78.849494998989,35.8143025610133,235 Murray Glen Drive,Westover Park,1849,2006,3,2,1,Attached,"$280,000","$280,000",0-.25 Acres,6,0,0.9845,"$246,709.00",No,1,1,4,4,NA,Cary,NC,place
+-78.8221366296127,35.7688904313952,115 Laurel Branch Drive,Brook Green Forest,2176,1994,4,2,1,Detached,"$286,500","$280,000",.26-.5 Acres,8,0,0.874,"$261,140.00",No,1,2,33,33,NA,Cary,NC,place
+-78.7569679358472,35.7613599044374,209 Lawrence Road,Beaver Pond,2528,1984,3,2,1,Detached,"$285,000","$280,000",.26-.5 Acres,8,0,1,"$278,068.00",No,1,2,128,128,NA,Cary,NC,place
+-78.7902596788482,35.8183745230802,102 Silverridge Court,Silverton,1709,1992,3,2,1,Detached,"$299,500","$280,000",0-.25 Acres,8,0,0.9505,"$231,063.00",No,1,0,24,24,NA,Cary,NC,place
+-78.8604491578947,35.8309510526316,325 Scotlow Way,Manchester Park,1820,2012,3,2,1,Attached,"$275,000","$280,000",0-.25 Acres,6,0,0.91,"$239,203.00",No,1,2,5,5,NA,Cary,NC,place
+-78.7800774787992,35.7964050629543,802 Northampton Drive,Northwoods,2268,1990,3,2,1,Detached,"$279,999","$280,000",.26-.5 Acres,8,0,0.9505,"$250,076.00",No,1,2,45,45,NA,Cary,NC,place
+-78.851835142223507,35.81554625,106 Beeley Court,Madison Place,1821,1999,3,2,0,Attached,"$267,000","$280,000",0-.25 Acres,7,137,0.9505,"$254,825.00",No,1,2,1,1,NA,Cary,NC,highway
+-78.9052721984022,35.8396958262123,133 Skyros Loop,Townes at Amberly,1715,2013,3,2,1,Attached,"$287,000","$280,000",0-.25 Acres,6,0,0.884,"$228,564.00",No,0,2,20,20,NA,Cary,NC,place
+-78.7770752616426,35.8008285819555,106 McWaine Lane,Northwoods,2744,1987,4,3,1,Detached,"$290,000","$280,000",.26-.5 Acres,10,515,0.9845,"$271,733.00",No,1,2,18,18,NA,Cary,NC,place
+-78.768927,35.78675,600 WEBSTER Street,Iron Gate,2362,1974,5,3,0,Detached,"$292,000","$280,000",.26-.5 Acres,9,0,0.9505,"$260,231.00",No,2,1,17,17,NA,Cary,NC,place
+-78.76559148071,35.7530914736518,1675 Glengarry Drive,MacDonald Woods,2945,1979,5,3,0,Detached,"$285,000","$280,500",.26-.5 Acres,9,0,0.9505,"$241,320.00",No,0,0,75,75,NA,Cary,NC,place
+-78.8196349145912,35.7690403252222,232 Amberglow Place,Brookgreen Forest,1911,1993,3,2,1,Detached,"$289,000","$281,000",0-.25 Acres,9,0,0.9505,"$263,230.00",No,1,2,6,6,NA,Cary,NC,place
+-78.8407334465435,35.7648296957908,206 Royal Tower Way,Weathersby,1979,2005,3,2,1,Attached,"$277,000","$281,000",0-.25 Acres,8,0,0.9505,"$246,979.00",No,1,2,5,5,NA,Cary,NC,place
+-78.783723776611,35.7783646764414,114 Avery Circle,Pine Valley,2428,1966,5,2,1,Detached,"$280,000","$281,000",.26-.5 Acres,10,0,0.9505,"$234,582.00",No,2,2,5,5,NA,Cary,NC,place
+-78.9040839684706,35.8174954526013,235 Broadgait Brae,Cary Park,2564,2005,3,2,2,Attached,"$295,000","$281,000",.26-.5 Acres,8,0,0.98,"$269,654.00",No,1,2,2,2,NA,Cary,NC,place
+-78.806065330162,35.8141372131284,2081 Weston Green Loop,Weston Place,1880,2011,3,2,1,Attached,"$289,900","$283,000",0-.25 Acres,8,0,0.9845,"$260,756.00",No,1,2,12,12,NA,Cary,NC,place
+-78.7974167876564,35.7875404424687,730 Magnolia Drive,Oakwood Heights,2023,1975,4,2,0,Detached,"$280,000","$284,000",.26-.5 Acres,9,0,0.9845,"$189,981.00",No,1,0,3,3,NA,Cary,NC,place
+-78.9163779617374,35.8265588894636,826 Endhaven Place,Carolina Preserve,1563,2007,3,2,0,Detached,"$284,900","$284,900",0-.25 Acres,7,0,0.9,"$238,934.00",No,0,2,7,7,NA,Cary,NC,place
+-78.7804504614931,35.7595796403744,210 Hanover Place,Hanover Place,1676,1987,2,2,1,Attached,"$285,000","$285,000",0-.25 Acres,8,0,0.95,"$224,483.00",No,1,1,10,10,NA,Cary,NC,place
+-78.9144882078316,35.8330167664385,105 Hennigan Drive,Carolina Preserve,1531,2007,3,2,0,Detached,"$285,000","$285,000",0-.25 Acres,6,0,0.9838,"$234,745.00",No,0,2,25,25,NA,Cary,NC,place
+-78.8538544354838,35.78121045,405 Tresa Brook Court,Upchurch Farms,2002,2006,4,2,1,Attached,"$289,900","$285,000",0-.25 Acres,9,0,0.93,"$268,020.00",No,1,2,85,85,NA,Cary,NC,building
+-78.801742234672,35.7859803019411,115 Braintree Court,Goodwood,2365,1994,3,2,1,Detached,"$274,950","$285,000",0-.25 Acres,8,454,0.95,"$240,550.00",No,2,0,3,3,NA,Cary,NC,place
+-78.8106286204708,35.7594814644831,108 Coatbridge Circle,Scottish Hills,1812,1979,4,3,0,Detached,"$275,000","$285,700",.26-.5 Acres,8,252,0.9586,"$249,113.00",No,1,0,3,3,NA,Cary,NC,place
+-78.9015396504588,35.8052960663409,1012 Indigo Ridge Place,Greystone,2536,2008,3,3,1,Attached,"$285,900","$285,900",0-.25 Acres,8,0,0.9505,"$277,012.00",No,1,1,91,91,NA,Cary,NC,place
+-78.9063629,35.8135785,303 Rosapenna Lane,Cary Park,2063,2016,4,4,1,Attached,"$281,050","$286,405",0-.25 Acres,9,0,0.098,"$292,000.00",Yes,0,0,55,55,NA,Cary,NC,highway
+-78.9063629,35.8135785,303 Rosapenna Lane,Cary Park,2061,2016,4,4,1,Attached,"$286,405","$286,405",0-.25 Acres,9,0,1.464,$0.00,Yes,0,0,0,0,NA,Cary,NC,highway
+-78.8336604341238,35.7756061890767,215 Wintermist Drive,Carrington,2130,1990,4,2,1,Detached,"$290,000","$287,000",0-.25 Acres,9,0,0.98,"$248,199.00",No,1,1,23,23,NA,Cary,NC,place
+-78.7795918116298,35.7267089184802,112 Quarter Path,Williamsburg Commons,1964,1988,3,2,1,Detached,"$300,000","$287,000",0-.25 Acres,6,665,0.9845,"$274,007.00",No,1,1,60,60,NA,Cary,NC,place
+-78.9188873954127,35.8114982747133,710 Broward Lane,Weldon Ridge,1852,2009,3,2,1,Attached,"$285,000","$287,000",0-.25 Acres,6,0,0.9505,"$264,238.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9068982674446,35.8136336097965,527 Portstewart Drive,Cary Park,2054,2016,4,4,1,Attached,"$287,300","$287,300",0-.25 Acres,9,0,1.398,$0.00,Yes,0,0,0,0,NA,Cary,NC,place
+-78.9068982674446,35.8136336097965,527 Portstewart Drive,Cary Park,2063,2016,4,4,1,Attached,"$300,297","$287,300",0-.25 Acres,9,0,0.98,$0.00,Yes,0,0,51,51,NA,Cary,NC,place
+-78.8083283655835,35.7585368264097,1218 Wishaw Court,Scottish Hills,1922,1974,4,2,1,Detached,"$295,000","$287,500",.26-.5 Acres,8,1,0.98,"$233,356.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8358479552524,35.7840620496322,113 Fairfax Lane,Fairfax Of The Parkway,3131,1991,5,3,1,Detached,"$310,000","$287,500",0-.25 Acres,10,0,0.99207,"$352,201.00",No,1,2,48,48,NA,Cary,NC,place
+-78.8360746753444,35.7838470349518,102 Fairfax Lane,Fairfax Of The Parkway,2050,1992,4,2,1,Detached,"$299,999","$288,000",0-.25 Acres,10,0,0.9845,"$292,160.00",No,1,2,123,123,NA,Cary,NC,place
+-78.8245967688592,35.7740106270777,109 Swallow Hill Court,Oxxford Hunt,1771,1989,4,2,0,Detached,"$279,900","$289,000",0-.25 Acres,7,0,0.95,"$235,765.00",No,1,2,1,1,NA,Cary,NC,place
+-78.7817148979698,35.7559909896667,803 Coalburn Place,Troon at Kildaire,1568,2001,2,2,0,Condo,"$290,500","$289,000",0-.25 Acres,7,1568,0.9505,"$262,335.00",No,1,2,25,25,NA,Cary,NC,place
+-78.8574225892061,35.814373081128,105 Lake Tillery Drive,Lakeridge,2048,1997,3,2,1,Attached,"$289,500","$289,500",0-.25 Acres,7,0,0.864,"$252,151.00",No,1,2,12,12,NA,Cary,NC,place
+-78.918883,35.811498,708 Broward Lane,Weldon Ridge,1889,2009,3,2,1,Attached,"$289,900","$289,900",0-.25 Acres,7,135,0.9845,"$267,625.00",No,1,2,3,3,NA,Cary,NC,place
+-78.7428682596744,35.7492259617339,8635 Macedonia Lake Drive,Creekside at Tryon Village,2296,2010,4,2,1,Attached,"$290,000","$290,000",0-.25 Acres,6,0,0.9505,"$257,086.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8045926,35.7912351,1015 Contessa Drive,Weatherfield,1895,2015,3,2,1,Attached,"$289,900","$290,000",0-.25 Acres,6,0,0.95,"$259,626.00",No,1,2,4,4,NA,Cary,NC,highway
+-78.8697978770894,35.8149776409361,715 Grace Hodge Drive,Olde Carpenter,1746,2009,3,2,1,Attached,"$279,900","$290,000",0-.25 Acres,6,0,0.864,"$231,902.00",No,0,2,3,3,NA,Cary,NC,place
+-78.850604,35.814575,1068 Kingston Grove Drive,Westover Park,2383,2007,3,2,1,Attached,"$299,000","$290,000",0-.25 Acres,9,0,0.95,"$269,739.00",No,1,1,25,25,NA,Cary,NC,place
+-78.8172185047289,35.7757910836219,105 S Becket Street,Oxxford Hunt,2282,1988,3,2,1,Detached,"$290,000","$290,000",0-.25 Acres,8,0,0.9845,"$252,820.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8366650342213,35.7800970368538,106 Bebington Drive,Kenilworth,2204,1993,4,2,1,Detached,"$300,500","$290,000",0-.25 Acres,9,0,0.96,"$288,292.00",No,1,2,113,113,NA,Cary,NC,place
+-78.9038828932448,35.8433922301898,416 Panorama Park Place,Stonewater,2535,2007,4,3,1,Attached,"$298,000","$290,000",0-.25 Acres,7,0,0.9845,"$265,449.00",No,1,2,63,63,NA,Cary,NC,place
+-78.9140138889393,35.8327682243881,220 Callum Place,Carolina Preserve,1439,2006,3,2,0,Detached,"$294,500","$291,000",0-.25 Acres,6,0,0.96,"$266,546.00",No,0,2,4,4,NA,Cary,NC,place
+-78.7919564773712,35.7729318943989,910 Union Street,Wishing Well Village,2249,1971,4,2,1,Detached,"$299,990","$291,000",.26-.5 Acres,11,0,0.9845,"$216,982.00",No,1,1,9,9,NA,Cary,NC,place
+-78.9049363105935,35.8432627094698,482 Panorama Park Place,Stonewater,2551,2007,3,2,2,Attached,"$299,000","$292,000",0-.25 Acres,8,0,0.9505,"$266,534.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8742964647976,35.780204,507 Catlin Road,Chesney Glen,1719,1994,3,2,1,Detached,"$295,000","$292,000",.51-.75 Acres,6,0,0.985,"$250,465.00",No,1,2,18,18,NA,Cary,NC,building
+-78.9147947074435,35.8321670568351,320 Easton Grey Loop,Carolina Preserve,1440,2008,3,2,0,Detached,"$296,500","$292,000",0-.25 Acres,6,0,0.99,"$238,181.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8495009217127,35.8152692087684,1042 Kingston Grove Drive,Westover Park,2402,2007,3,2,1,Attached,"$295,000","$292,000",0-.25 Acres,7,0,0.9505,"$274,843.00",No,1,1,8,8,NA,Cary,NC,place
+-78.7427761985746,35.7492942060318,8627 Macedonia Lake Drive,Creekside at Tryon Village,2201,2010,3,3,1,Attached,"$290,000","$292,500",0-.25 Acres,5,0,0.9505,"$256,622.00",No,1,2,1,1,NA,Cary,NC,place
+-78.9127746794518,35.8312944683655,126 Arvind Oaks Circle,Carolina Preserve,1428,2007,2,2,0,Attached,"$295,000","$295,000",0-.25 Acres,6,0,0.9505,"$233,500.00",No,0,2,2,2,NA,Cary,NC,place
+-78.7973192620776,35.7929214598907,202 Oscar Lane,Madison Oaks,1794,1988,4,3,0,Detached,"$295,000","$295,000",0-.25 Acres,6,0,0.928,"$245,299.00",No,1,2,26,26,NA,Cary,NC,place
+-78.7713050377493,35.773583566346304,524 Ellynn Drive,Greenwood Forest,2068,1967,3,2,1,Detached,"$280,000","$295,000",.26-.5 Acres,8,246,0.98,"$220,823.00",No,1,0,2,2,NA,Cary,NC,place
+-78.8191498569849,35.7666733570955,106 Pocono Lane,The Forest,2004,1987,3,2,1,Detached,"$299,900","$295,000",0-.25 Acres,10,0,0.9358,"$265,813.00",No,1,2,41,41,NA,Cary,NC,place
+-78.9144707803949,35.833023560185,109 Hennigan Drive,Carolina Preserve,1441,2007,2,2,0,Detached,"$299,900","$295,000",0-.25 Acres,6,0,0.984,"$240,413.00",No,0,2,6,6,NA,Cary,NC,place
+-78.8686614,35.8074189,415 Knotts Valley Lane,Heritage Pines,1705,2002,3,2,0,Detached,"$299,900","$295,000",0-.25 Acres,5,0,0.93,"$301,778.00",No,1,2,19,19,NA,Cary,NC,highway
+-78.8343247403519,35.7747498933119,112 Wintermist Drive,Carrington,2224,1989,3,2,1,Detached,"$299,000","$296,000",0-.25 Acres,9,0,0.9505,"$250,535.00",No,1,1,17,17,NA,Cary,NC,place
+-78.8410340482807,35.7789795092913,111 Riva Trace Drive,Canterbury,2123,1993,3,2,1,Detached,"$299,900","$296,950",0-.25 Acres,11,0,0.9505,"$292,947.00",No,1,2,8,8,NA,Cary,NC,place
+-78.8665899496043,35.8090226796156,203 Crystal Brook Lane,Heritage Pines,1680,2003,3,2,0,Detached,"$300,000","$297,500",0-.25 Acres,7,147,0.9505,"$293,439.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9036721431786,35.8433669503988,413 Panorama Park Place,Stonewater,2387,2009,4,3,1,Attached,"$297,500","$297,500",0-.25 Acres,6,0,1.02,"$262,664.00",No,1,2,22,22,NA,Cary,NC,place
+-78.8963284,35.842348,4222 Vallonia Drive,The Village at Evans Farm,2149,2016,3,2,1,Attached,"$299,990","$298,580",0-.25 Acres,6,0,0.9845,$0.00,Yes,1,1,172,172,NA,Cary,NC,highway
+-78.9039052507374,35.8429914045467,431 Panorama Park Place,Stonewater,2407,2007,3,2,2,Attached,"$299,000","$299,000",0-.25 Acres,10,0,1.01,"$266,240.00",No,1,2,14,14,NA,Cary,NC,place
+-78.7878041973227,35.7047533955544,114 Canterstone Court,Glenridge,2085,1996,4,2,1,Detached,"$299,000","$299,000",.26-.5 Acres,7,0,0.9505,"$301,622.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8063820734094,35.7545873393156,410 King George Loop,Royal Ridge,2741,1986,4,2,1,Detached,"$309,800","$299,000",.26-.5 Acres,11,0,0.957,"$304,585.00",No,1,1,84,84,NA,Cary,NC,place
+-78.7986824753365,35.7935111045114,849 Madison Avenue,Madison Oaks,2366,2016,4,3,1,Detached,"$299,000","$299,000",0-.25 Acres,10,0,0.9845,"$8,000.00",Yes,1,0,60,60,NA,Cary,NC,place
+-78.896035,35.8412762,1219 Alston Forest Drive,The Village at Evans Farm,2157,2016,3,2,1,Attached,"$299,752","$299,252",0-.25 Acres,5,0,0.9845,"$299,752.00",Yes,1,1,0,0,NA,Cary,NC,highway
+-78.780555,35.727305,200 Palace Green,Lochmere,2319,1993,3,2,1,Detached,"$299,900","$299,900",0-.25 Acres,8,0,0.9505,"$316,106.00",No,1,2,15,15,NA,Cary,NC,place
+-78.8037056834939,35.7640913464866,1205 Balmoral Drive,Scottish Hills,2537,1971,5,2,1,Detached,"$299,900","$299,900",.26-.5 Acres,9,0,0.95,"$301,571.00",No,0,2,146,146,NA,Cary,NC,place
+-78.8518596,35.8370724,606 Berry Chase Way,Twin Lakes,2321,2014,3,3,1,Attached,"$295,000","$300,000",0-.25 Acres,7,0,1,"$249,428.00",No,0,1,2,2,NA,Cary,NC,highway
+-78.810317,35.779265,1017 Castalia Drive,Trappers Run,2413,1981,4,3,1,Detached,"$325,000","$300,000",.26-.5 Acres,9,201,0.9505,"$252,966.00",No,1,0,23,23,NA,Cary,NC,place
+-78.800750113783,35.8078992613541,315 Stromer Drive,Silver Creek,2179,1997,3,2,1,Detached,"$300,000","$300,000",0-.25 Acres,8,0,0.9845,"$294,334.00",No,1,2,43,43,NA,Cary,NC,place
+-78.87432215,35.7914552,105 Grandtree Court,Fieldstone Village,1843,1995,4,2,1,Detached,"$289,900","$300,000",.26-.5 Acres,7,400,0.95,"$256,546.00",No,1,2,3,3,NA,Cary,NC,building
+-78.8005770580285,35.809987096048,416 New Rail Drive,Silver Oaks at Silverton,2037,1994,3,2,1,Detached,"$308,750","$300,000",.26-.5 Acres,7,380,0.957,"$311,299.00",No,1,2,47,47,NA,Cary,NC,place
+-78.9159535054905,35.8323716710499,426 Easton Grey Loop,Carolina Preserve,1395,2008,3,2,0,Detached,"$300,000","$300,000",0-.25 Acres,6,0,0.9838,"$240,127.00",No,0,2,5,5,NA,Cary,NC,place
+-78.824920896016,35.771594724004,103 Maumee Court,Oxxford Hunt,2065,1993,4,2,1,Detached,"$305,000","$301,000",0-.25 Acres,9,0,0.35,"$245,391.00",No,1,1,5,5,NA,Cary,NC,place
+-78.8186227768398,35.7666922284823,213 Pocono Lane,The Forest,2015,1989,3,2,1,Detached,"$305,000","$302,000",.26-.5 Acres,9,0,0.9505,"$271,651.00",No,2,2,5,5,NA,Cary,NC,place
+-78.9082160460886,35.8433986124129,410 Windy Peak Loop,Stonewater,2062,2010,3,2,1,Detached,"$304,900","$302,000",0-.25 Acres,9,0,0.955,"$264,055.00",No,1,2,3,3,NA,Cary,NC,place
+-78.7581794301405,35.7652120349936,1318 Doylin Drive,Greenwood Acres,2477,1974,4,2,1,Detached,"$309,900","$302,500",1-2.9 Acres,9,0,0.958,"$249,090.00",No,1,2,5,5,NA,Cary,NC,place
+-78.896035,35.8412762,1216 Alston Forest Drive,The Village at Evans Farm,2110,2016,3,2,1,Attached,"$304,398","$304,398",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,14,14,NA,Cary,NC,highway
+-78.7892626456179,35.8146065977573,113 Oakmist Drive,Springbrooke,3018,1993,5,3,1,Detached,"$299,900","$305,000",0-.25 Acres,11,504,0.9845,"$299,861.00",No,1,1,202,202,NA,Cary,NC,place
+-78.8013921625691,35.6854701919645,4816 Holly Brook Drive,Holly Brook,2351,1989,4,2,1,Detached,"$314,900","$305,000",0-.25 Acres,9,0,0.9845,"$274,958.00",No,1,3,22,22,NA,Cary,NC,place
+-78.7685596592915,35.7666359572267,102 Fernwood Circle,Tanglewood,2497,1967,4,3,0,Detached,"$299,900","$305,000",.26-.5 Acres,8,0,0.955,"$268,169.00",No,1,0,3,3,NA,Cary,NC,place
+-78.7638004684375,35.7488013122917,205 Duncan Hill Court,Lake Wellingborough,2250,1990,4,2,0,Detached,"$310,000","$305,000",.26-.5 Acres,9,0,0.9505,"$288,883.00",No,1,2,17,17,NA,Cary,NC,place
+-78.7689858150325,35.770208483464,909 Tanglewood Drive,Tanglewood,1543,1968,3,2,0,Detached,"$325,000","$305,000",.26-.5 Acres,6,0,0.95,"$279,101.00",No,1,1,12,12,NA,Cary,NC,place
+-78.742377104462,35.75014282743,8811 Macedonia Lake Drive,Creekside at Tryon Village,2291,2011,3,3,1,Attached,"$303,000","$305,000",0-.25 Acres,6,0,0.9505,"$262,887.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8137585,35.8131846,453 Talons Rest Way,The Creeks at Weston,2009,2016,3,2,1,Attached,"$304,990","$305,000",0-.25 Acres,6,407,0.9845,$0.00,Yes,1,1,141,141,NA,Cary,NC,highway
+-78.7775224799808,35.7958892083752,106 Beasley Court,Kings Wood,2190,1994,3,2,1,Detached,"$315,000","$305,000",.26-.5 Acres,8,0,0.85,"$287,858.00",No,1,2,58,58,NA,Cary,NC,place
+-78.807239015485,35.8147172521339,2029 Weston Green Loop,Weston Place,2359,2010,3,4,0,Attached,"$315,000","$305,000",0-.25 Acres,7,753,0.95,"$290,054.00",No,1,2,18,18,NA,Cary,NC,place
+-78.896035,35.8412762,1217 Alston Forest Drive,The Village at Evans Farm,2156,2016,3,2,1,Attached,"$305,549","$305,549",0-.25 Acres,6,0,0.9845,$0.00,Yes,1,1,1,1,NA,Cary,NC,highway
+-78.896035,35.8412762,1206 Alston Forest Drive,The Village at Evans Farm,2092,2016,3,2,1,Attached,"$306,282","$306,282",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.896035,35.8412762,1230 Alston Forest Drive,The Village at Evans Farm,2118,2016,3,2,1,Attached,"$306,480","$306,790",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8148044,35.812575,167 Wildfell Trail,The Creeks at Weston,1854,2016,3,2,1,Attached,"$314,990","$307,000",0-.25 Acres,6,610,0.9845,$0.00,Yes,1,2,141,141,NA,Cary,NC,highway
+-78.8148044,35.812575,171 Wildfell Trail,The Creeks at Weston,1848,2016,3,2,1,Attached,"$314,990","$307,000",0-.25 Acres,6,610,0.9845,$0.00,Yes,1,2,135,135,NA,Cary,NC,highway
+-78.9052465917024,35.825396,4009 Jockey Club Circle,Arlington Park at Amberly,2247,2007,4,2,1,Detached,"$314,900","$307,000",0-.25 Acres,8,0,0.9505,"$282,577.00",No,1,2,34,34,NA,Cary,NC,place
+-78.7514201562806,35.7661952049091,1219 Nottingham Drive,Walnut Ridge,2044,1977,4,2,1,Detached,"$325,000","$307,500",.51-.75 Acres,7,0,0.9505,"$253,491.00",No,1,0,28,28,NA,Cary,NC,place
+-78.8665024157023,35.76587645,100 Daleshire Drive,Devereaux,2258,2001,4,2,1,Detached,"$315,900","$307,500",.26-.5 Acres,7,0,0.978,"$293,692.00",No,1,2,57,57,NA,Cary,NC,building
+-78.8961417,35.8405716,911 Rosepine Drive,The Village at Evans Farm,2115,2016,3,2,1,Attached,"$319,990","$307,630",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,131,131,NA,Cary,NC,highway
+-78.750538480275,35.7752439917558,1009 Askham Drive,Walnut Hills,2686,1972,4,2,1,Detached,"$312,000","$308,000",.26-.5 Acres,11,0,0.9505,"$254,806.00",No,1,1,5,5,NA,Cary,NC,place
+-78.7531429373614,35.7602593915125,1212 Kingston Ridge Road,Hillsdale Forest,1943,1964,3,2,0,Detached,"$308,000","$308,000",.51-.75 Acres,9,0,0.9505,"$250,337.00",No,1,2,0,0,NA,Cary,NC,place
+-78.850417,35.815058,1066 Kingston Grove Drive,Westover Park,2390,2007,3,2,1,Attached,"$309,900","$308,000",0-.25 Acres,6,0,0.95,"$270,777.00",No,0,1,10,10,NA,Cary,NC,place
+-78.8963284,35.842348,4252 Vallonia Drive,The Village at Evans Farm,2151,2017,3,2,1,Attached,"$320,152","$308,821",0-.25 Acres,6,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.7933348213674,35.8143169005401,212 Dalmeny Drive,Springbrooke,2239,1988,4,2,1,Detached,"$309,000","$309,000",0-.25 Acres,10,0,0.9505,"$260,142.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7698527533679,35.769089166163,522 Elm Street,Tanglewood,2667,1967,3,2,0,Detached,"$300,000","$309,000",.26-.5 Acres,8,1118,0.9505,"$272,910.00",No,1,1,1,1,NA,Cary,NC,place
+-78.7530065831486,35.7603765220166,1216 Kingston Ridge Road,Hillsdale Forest,2399,1965,4,3,0,Detached,"$309,900","$309,900",.51-.75 Acres,9,0,0.9505,"$243,041.00",No,1,2,68,68,NA,Cary,NC,place
+-78.8137585,35.8131846,449 Talons Rest Way,The Creeks at Weston,2008,2016,3,2,1,Attached,"$320,799","$309,912",0-.25 Acres,6,407,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.840192,35.78012,222 Trailview Drive,Canterbury,2160,1994,3,2,1,Detached,"$311,900","$310,000",0-.25 Acres,8,120,0.9505,"$282,766.00",No,1,2,3,3,NA,Cary,NC,place
+-78.760292,35.749347,100 Victoria Station Court,Wellington Place,2557,1988,4,2,1,Detached,"$314,900","$310,000",.26-.5 Acres,11,0,0.991,"$290,679.00",No,1,2,78,78,NA,Cary,NC,place
+-78.800507044054,35.8099860441167,412 New Rail Drive,Silver Oaks at Silverton,1811,1994,3,2,1,Detached,"$305,000","$310,000",.26-.5 Acres,8,0,0.957,"$294,813.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7741034764242,35.7611753896394,412 Farmington Woods Drive,Kildaire Farms,2916,1974,4,3,1,Detached,"$315,000","$310,000",.26-.5 Acres,10,0,0.9505,"$298,919.00",No,1,2,7,7,NA,Cary,NC,place
+-78.8414516098412,35.7651116550079,103 Churchview Street,Weathersby,2768,2005,3,2,1,Attached,"$314,500","$310,000",0-.25 Acres,5,0,1.09,"$279,240.00",No,1,2,102,2,NA,Cary,NC,place
+-78.8073544374908,35.8146686042908,2025 Weston Green Loop,Weston Place,2418,2010,3,4,0,Attached,"$315,000","$310,000",0-.25 Acres,8,0,0.95,"$290,054.00",No,1,2,48,48,NA,Cary,NC,place
+-78.8862173,35.8006923,4954 Highcroft Drive,Fryars Gate,2288,2014,4,3,1,Attached,"$315,000","$311,000",0-.25 Acres,11,209,0.9845,"$269,422.00",No,1,2,22,22,NA,Cary,NC,highway
+-78.8548768313563,35.77894595,361 Luke Meadow Lane,Upchurch Farms,2010,2005,3,2,1,Attached,"$309,900","$311,000",0-.25 Acres,8,0,0.9505,"$274,315.00",No,1,2,6,6,NA,Cary,NC,building
+-78.8347551013482,35.7652574032245,111 Kindred Way,Olde Salem,2518,2000,4,2,1,Detached,"$320,000","$313,000",0-.25 Acres,8,0,0.95665,"$325,058.00",No,1,2,41,41,NA,Cary,NC,place
+-78.8662956040707,35.785394,103 Parkspring Court,West Park,2123,1990,4,2,1,Detached,"$315,000","$314,900",0-.25 Acres,9,634,0.9845,"$309,027.00",No,1,1,56,56,NA,Cary,NC,building
+-78.8081981441985,35.8136894663248,407 Weatherbrook Way,Weston Place,2361,2008,3,2,1,Attached,"$314,900","$314,900",0-.25 Acres,9,0,0.9505,"$292,648.00",No,1,2,7,7,NA,Cary,NC,place
+-78.8603614118064,35.7681648,602 Wakehurst Drive,Devereaux,2019,1997,3,2,0,Detached,"$309,900","$315,000",0-.25 Acres,6,0,0.95,"$291,069.00",No,1,2,3,3,NA,Cary,NC,building
+-78.840316506332,35.7989212766967,110 Crestpoint Court,Preston,1718,1988,3,2,0,Detached,"$319,900","$315,000",0-.25 Acres,7,0,0.95,"$264,186.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8071235934792,35.814765899977,2033 Weston Green Loop,Weston Place,2353,2010,3,3,1,Attached,"$319,000","$315,000",0-.25 Acres,8,120,0.9505,"$291,980.00",No,1,2,10,10,NA,Cary,NC,place
+-78.8117535490139,35.7810552492011,125 Antler Point Drive,Trappers Run,1987,1997,4,2,1,Detached,"$300,000","$315,000",.51-.75 Acres,7,0,0.9505,"$242,392.00",No,1,2,3,3,NA,Cary,NC,place
+-78.87723025,35.7925015,122 Northcote Drive,Fieldstone Village,2274,1997,3,2,1,Detached,"$315,000","$315,500",.26-.5 Acres,9,0,0.98,"$274,026.00",No,1,2,11,11,NA,Cary,NC,building
+-78.8859256,35.808306,5415 Cambridgeshire Loop,Fryars Gate,2507,2016,3,3,1,Attached,"$313,540","$316,540",0-.25 Acres,7,0,0.98,"$315,290.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8859256,35.808306,5415 Cambridgeshire Loop,Fryars Gate,2498,2016,3,3,0,Attached,"$316,540","$316,540",0-.25 Acres,7,0,0.98,"$316,000.00",Yes,1,2,20,20,NA,Cary,NC,highway
+-78.8963284,35.842348,4236 Vallonia Drive,The Village at Evans Farm,2136,2016,3,2,1,Attached,"$317,118","$316,618",0-.25 Acres,6,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8277365849441,35.771775302583,210 Red Field Street,Oxxford Hunt,2269,1994,4,2,1,Detached,"$315,000","$317,000",0-.25 Acres,8,0,0.958,"$274,573.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8963284,35.842348,4254 Vallonia Drive,The Village at Evans Farm,2134,2016,3,2,1,Attached,"$317,352","$317,352",0-.25 Acres,6,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8677077633277,35.8090818761029,2024 Heritage Pines Drive,Heritage Pines,1950,2001,3,2,0,Detached,"$339,000","$317,500",0-.25 Acres,9,270,0.98,"$304,092.00",No,1,2,58,58,NA,Cary,NC,place
+-78.791599,35.696669,101 Beckford Road,Cotswold,2680,2001,4,2,1,Detached,"$335,000","$317,500",.26-.5 Acres,12,0,1.033,"$296,335.00",No,1,2,41,41,NA,Cary,NC,place
+-78.8148044,35.812575,205 Wildfell Trail,The Creeks at Weston,1850,2016,3,2,1,Attached,"$326,990","$319,990",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,164,164,NA,Cary,NC,highway
+-78.8756076857336,35.7796306,101 Ashtree Court,Chesney Glen,2468,1994,4,2,1,Detached,"$300,000","$320,000",.26-.5 Acres,8,116,0.9845,"$269,772.00",No,1,2,97,97,NA,Cary,NC,building
+-78.7761723811294,35.7501244955441,102 Agassi Court,Wimbledon,2347,1993,3,2,1,Detached,"$325,000","$320,000",0-.25 Acres,9,0,0.9845,"$301,240.00",No,1,2,79,79,NA,Cary,NC,place
+-78.7905797716674,35.6897992379626,4405 Reedy Branch Place,Glenmitt Stone,2536,1999,3,2,1,Detached,"$325,000","$320,000",.26-.5 Acres,8,0,0.9505,"$294,636.00",No,1,2,144,54,NA,Cary,NC,place
+-78.8963284,35.842348,4133 Vallonia Drive,The Village at Evans Farm,2680,2015,3,3,1,Attached,"$325,000","$320,000",0-.25 Acres,8,0,0.9845,"$333,065.00",No,1,1,77,77,NA,Cary,NC,highway
+-78.9067913693067,35.8240394738771,1149 Brookhill Way,Arlington Park at Amberly,2360,2006,4,2,1,Detached,"$319,000","$320,000",0-.25 Acres,10,0,0.9505,"$290,718.00",No,1,2,0,0,NA,Cary,NC,place
+-78.918199,35.812405,627 Sealine Drive,Weldon Ridge,2325,2010,3,2,1,Attached,"$323,900","$320,400",0-.25 Acres,7,0,0.985,"$261,420.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8148044,35.812575,142 Wildfell Trail,The Creeks at Weston,2008,2016,3,2,1,Attached,"$335,987","$320,490",0-.25 Acres,6,407,0.9845,$0.00,Yes,1,1,98,98,NA,Cary,NC,highway
+-78.775266,35.762148,400 Woodland Court,Kildaire Farms,2661,1979,5,3,0,Detached,"$319,900","$321,100",.26-.5 Acres,9,65,0.9575,"$287,084.00",No,1,2,5,5,NA,Cary,NC,place
+-78.7850419908599,35.8067231285413,106 Cobalt Drive,Verde Park,2561,1995,4,2,1,Detached,"$335,000","$322,000",0-.25 Acres,8,0,0.95,"$261,262.00",No,1,2,79,79,NA,Cary,NC,place
+-78.8137585,35.8131846,406 Talons Rest Way,The Creeks at Weston,1852,2016,3,2,1,Attached,"$324,990","$322,990",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,118,118,NA,Cary,NC,highway
+-78.9092555361403,35.8398160016375,2329 Pindos Drive,Overlook at Amberly,2225,2013,3,3,1,Detached,"$332,000","$323,000",0-.25 Acres,7,0,0.9845,"$282,860.00",No,1,2,95,95,NA,Cary,NC,place
+-78.7737453448939,35.7635536261898,413 Holly Circle,Stoneybrook,2483,1968,5,4,0,Detached,"$329,900","$323,100",.51-.75 Acres,10,0,0.864,"$311,332.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8490906271757,35.8143553320054,252 Murray Glen Drive,Westover Park,2290,2007,4,2,1,Attached,"$329,000","$323,809",0-.25 Acres,9,118,0.9505,"$290,780.00",No,1,2,9,9,NA,Cary,NC,place
+-78.8963284,35.842348,4228 Vallonia Drive,The Village at Evans Farm,2720,2016,3,3,1,Attached,"$329,990","$324,000",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,177,177,NA,Cary,NC,highway
+-78.8436805877586,35.8291296456546,306 Lime Creek Court,Twin Lakes,2307,2007,3,2,1,Detached,"$335,000","$324,000",0-.25 Acres,8,0,0.9505,"$320,988.00",No,1,2,44,44,NA,Cary,NC,place
+-78.8137585,35.8131846,447 Talons Rest Way,The Creeks at Weston,1909,2016,3,2,1,Attached,"$324,020","$324,160",0-.25 Acres,7,494,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9095335,35.8313133,607 Balsam Fir Drive,Amberly,2085,2016,4,3,1,Attached,"$339,990","$324,990",0-.25 Acres,7,400,0.9845,"$346,433.00",Yes,1,2,99,99,NA,Cary,NC,highway
+-78.834868011681,35.7890630428304,302 Arlington Ridge Road,Arlington Ridge,2405,1989,4,2,1,Detached,"$320,000","$325,000",0-.25 Acres,8,420,0.35,"$289,002.00",No,1,1,16,16,NA,Cary,NC,place
+-78.77812925,35.75605325,3010 Leith Meadow Court,Troon at Kildaire,1788,2004,2,2,0,Condo,"$325,000","$325,000",0-.25 Acres,7,0,0.95,"$304,299.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8473080810546,35.7997097364746,105 Halpen Drive,Preston Crossing,2172,1993,3,2,1,Detached,"$339,900","$325,000",0-.25 Acres,7,0,0.9845,"$303,736.00",No,0,2,55,55,NA,Cary,NC,place
+-78.7822276397769,35.7530975425215,105 Coventry Lane,Wimbledon,2162,1989,3,2,0,Detached,"$349,900","$325,000",0-.25 Acres,8,0,0.9845,"$310,569.00",No,1,2,33,33,NA,Cary,NC,place
+-78.8464963540169,35.76963075,201 Sherwood Forest Place,Sherwood Greens,2342,2000,4,2,1,Detached,"$335,000","$325,000",0-.25 Acres,8,0,0.96,"$299,522.00",No,1,2,55,55,NA,Cary,NC,building
+-78.7761765371453,35.7499182730374,110 Agassi Court,Wimbledon,1897,1993,3,2,1,Detached,"$325,000","$325,000",0-.25 Acres,7,0,0.9505,"$297,014.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8334722477906,35.7821936281615,306 Fairfax Lane,Fairfax,2187,1994,4,2,1,Detached,"$325,000","$325,000",0-.25 Acres,9,0,0.9505,"$308,196.00",No,1,2,8,8,NA,Cary,NC,place
+-78.8999306,35.8215381,1660 Cary Reserve Drive,Glencroft Townhomes,1953,2016,3,2,1,Attached,"$319,990","$325,262",0-.25 Acres,7,0,0.9845,$0.00,Yes,0,2,4,4,NA,Cary,NC,highway
+-78.8148044,35.812575,173 Wildfell Trail,The Creeks at Weston,1852,2016,3,2,1,Attached,"$325,266","$325,266",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8663317408055,35.7672125,804 Wakehurst Drive,Devereaux,2249,1997,4,2,1,Detached,"$314,000","$326,000",.26-.5 Acres,10,120,0.9505,"$269,780.00",No,1,2,1,1,NA,Cary,NC,building
+-78.8297196774405,35.7638972087421,112 Hidden Bluff Lane,Linville Ridge,2074,1994,3,2,1,Detached,"$315,000","$327,475",0-.25 Acres,8,890,0.9845,"$312,046.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8443619341037,35.8298032035569,514 Front Ridge Drive,Twin Lakes,2287,2007,3,2,1,Detached,"$335,000","$327,600",0-.25 Acres,9,0,0.95,"$303,199.00",No,1,2,2,2,NA,Cary,NC,place
+-78.7792075777674,35.8000425793736,112 Airlie Court,Northwoods,3058,1990,5,3,1,Detached,"$333,000","$327,975",.26-.5 Acres,11,60,0.9505,"$280,125.00",No,1,2,15,15,NA,Cary,NC,place
+-78.8963284,35.842348,4226 Vallonia Drive,The Village at Evans Farm,2718,2016,3,3,1,Attached,"$332,990","$328,000",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,137,137,NA,Cary,NC,highway
+-78.7724308280887,35.775875458129,506 Carolyn Court,Allenbrook,2793,1985,3,2,2,Detached,"$325,000","$328,000",.26-.5 Acres,10,381,0.89,"$331,463.00",No,1,2,73,73,NA,Cary,NC,place
+-78.8963284,35.842348,4212 Vallonia Drive,The Village at Evans Farm,2713,2016,3,3,1,Attached,"$337,339","$328,839",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,106,106,NA,Cary,NC,highway
+-78.7992314154895,35.6886094912545,4624 Holly Brook Drive,Holly Brook,2639,1987,4,2,1,Detached,"$329,000","$329,000",0-.25 Acres,11,0,1,"$272,328.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9095335,35.8313133,609 Balsam Fir Drive,Amberly,2085,2016,4,3,1,Attached,"$329,990","$329,990",0-.25 Acres,7,400,0.9845,"$348,637.00",Yes,1,2,101,101,NA,Cary,NC,highway
+-78.9095335,35.8313133,619 Balsam Fir Drive,Amberly,2087,2016,4,3,1,Attached,"$338,962","$330,000",0-.25 Acres,7,400,0.9845,"$338,962.00",Yes,1,1,15,15,NA,Cary,NC,highway
+-78.8958123180533,35.8396426107563,4162 Vallonia Drive,The Village at Evans Farm,2247,2015,3,2,1,Attached,"$334,900","$330,000",0-.25 Acres,7,175,0.9845,"$309,664.00",No,0,2,103,103,NA,Cary,NC,place
+-78.8440735399973,35.7863045,117 Hidden Rock Court,Fenton Estates,2333,1995,4,2,1,Detached,"$330,000","$330,000",.51-.75 Acres,8,552,0.9505,"$318,187.00",No,1,2,5,5,NA,Cary,NC,building
+-78.870192,35.814337,611 Katy Stella Drive,Olde Carpenter,2383,2008,3,2,1,Attached,"$335,000","$330,000",0-.25 Acres,8,516,0.9509,"$270,920.00",No,1,1,4,4,NA,Cary,NC,place
+-78.9049198951782,35.8238641386873,534 EMERALD DOWNS Road,Arlington Park at Amberly,2607,2006,3,2,1,Detached,"$339,900","$331,000",0-.25 Acres,8,0,0.94,"$304,402.00",No,1,2,164,59,NA,Cary,NC,place
+-78.8148044,35.812575,165 Wildfell Trail,The Creeks at Weston,1854,2016,3,2,1,Attached,"$331,120","$331,120",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.896035,35.8412762,1204 Alston Forest Drive,The Village at Evans Farm,2192,2016,3,2,1,Attached,"$331,584","$331,584",0-.25 Acres,10,0,0.9845,$0.00,Yes,1,2,1,1,NA,Cary,NC,highway
+-78.8148044,35.812575,207 Wildfell Trail,The Creeks at Weston,1853,2016,3,2,1,Attached,"$330,990","$331,650",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,127,127,NA,Cary,NC,highway
+-78.8137585,35.8131846,402 Talons Rest Way,The Creeks at Weston,1913,2016,3,2,1,Attached,"$334,246","$334,246",0-.25 Acres,8,96,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8999306,35.8215381,1656 Cary Reserve Drive,Glencroft Townhomes,2146,2016,3,2,1,Attached,"$335,990","$334,430",0-.25 Acres,7,0,0.9845,$0.00,Yes,0,2,14,14,NA,Cary,NC,highway
+-78.87495905,35.7772187,309 Catlin Road,Chesney Glen,2509,1994,3,2,1,Detached,"$334,900","$335,000",0-.25 Acres,8,0,0.96,"$267,374.00",No,1,2,2,2,NA,Cary,NC,building
+-78.796128,35.806264,420 Silvergrove Drive,Silvercreek,2176,1997,4,2,1,Detached,"$335,000","$335,000",0-.25 Acres,9,0,0.9505,"$297,828.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9051295299332,35.8222867887625,2118 Yates Store Road,Amberly,2345,2013,3,2,2,Attached,"$329,000","$335,000",0-.25 Acres,7,0,0.9505,"$267,527.00",No,1,2,3,3,NA,Cary,NC,place
+-78.76907,35.763418,109 W Gerrell Court,Maynard Oaks,2686,1986,3,2,1,Detached,"$325,000","$335,000",.26-.5 Acres,9,0,0.9505,"$299,979.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8753919358301,35.7834464,102 Capistrane Drive,Ashley Woods,2242,1998,3,3,0,Detached,"$339,000","$335,000",0-.25 Acres,8,1003,0.9505,"$298,946.00",No,1,2,5,5,NA,Cary,NC,building
+-78.7475978082909,35.7394919232667,207 Ravenstone Drive,Coventry Glen,2466,1994,4,2,1,Detached,"$335,000","$335,000",0-.25 Acres,9,0,0.9505,"$313,645.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8072401915984,35.7759692383197,102 Eaglesham Way,Westfield,2350,1989,4,2,1,Detached,"$344,499","$335,000",.26-.5 Acres,8,0,0.928,"$296,171.00",No,1,2,162,162,NA,Cary,NC,place
+-78.769899,35.756494000000004,153 Brannigan Place,Stonehaven,2566,1991,4,3,1,Detached,"$334,900","$335,000",.26-.5 Acres,10,0,0.957,"$305,170.00",No,1,2,6,6,NA,Cary,NC,place
+-78.896035,35.8412762,1223 Alston Forest Drive,The Village at Evans Farm,2714,2016,3,3,1,Attached,"$336,204","$335,704",0-.25 Acres,7,0,0.9845,"$336,204.00",Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8467700457971,35.7695861,203 Sherwood Forest Place,Sherwood Greens,2346,2000,4,2,1,Detached,"$339,900","$336,000",0-.25 Acres,9,0,0.9572,"$295,053.00",No,1,2,38,38,NA,Cary,NC,building
+-78.8498172234448,35.77045905,404 Sherwood Forest Place,Sherwood Greens,2252,2000,4,2,1,Detached,"$345,000","$336,000",0-.25 Acres,9,0,0.9505,"$297,416.00",No,1,2,15,15,NA,Cary,NC,building
+-78.7921081099594,35.705484521895,205 Langston Mill Court,Glenridge,2621,1993,3,2,1,Detached,"$339,900","$337,000",.26-.5 Acres,9,432,0.884,"$336,664.00",No,1,2,119,119,NA,Cary,NC,place
+-78.834247379214,35.7819379333833,117 Huntsmoor Lane,Huntsmoor,2317,1992,4,2,1,Detached,"$349,900","$337,000",0-.25 Acres,10,507,0.9505,"$320,806.00",No,1,2,29,29,NA,Cary,NC,place
+-78.8120913013004,35.7808104337668,105 Fawn Court,Hampstead Park,3028,1986,4,3,1,Detached,"$340,000","$337,500",.26-.5 Acres,13,693,0.9505,"$258,783.00",No,1,2,5,5,NA,Cary,NC,place
+-78.896035,35.8412762,1221 Alston Forest Drive,The Village at Evans Farm,2716,2016,3,3,1,Attached,"$337,961","$337,961",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8744104795142,35.78795475,202 Lyncroft Lane,Landsdowne,2417,1994,3,2,1,Detached,"$350,000","$338,000",0-.25 Acres,9,249,0.989,"$309,057.00",No,1,2,36,36,NA,Cary,NC,building
+-78.8309244526941,35.7764591198747,216 Custer Trail,Charleston Woods,2187,1990,4,2,1,Detached,"$344,900","$338,000",.26-.5 Acres,9,0,0.96,"$352,855.00",No,1,1,53,7,NA,Cary,NC,place
+-78.896035,35.8412762,1215 Alston Forest Drive,The Village at Evans Farm,2714,2016,3,3,1,Attached,"$339,286","$338,276",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8963284,35.842348,4224 Vallonia Drive,The Village at Evans Farm,2718,2016,3,3,1,Attached,"$340,970","$338,470",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,55,55,NA,Cary,NC,highway
+-78.8457116723892,35.8316830867879,402 Otter Cliff Way,Twin Lakes,2336,2006,3,2,1,Detached,"$339,800","$339,500",0-.25 Acres,7,0,1.0188,"$308,567.00",No,1,2,20,20,NA,Cary,NC,place
+-78.9095335,35.8313133,621 Balsam Fir Drive,Amberly,2083,2016,4,3,1,Attached,"$344,990","$339,990",0-.25 Acres,7,400,0.9845,"$355,349.00",Yes,1,2,116,116,NA,Cary,NC,highway
+-78.7795264128484,35.7276139291822,305 Palace Green,Lochmere,2594,1993,4,2,1,Detached,"$339,500","$340,000",0-.25 Acres,8,0,0.9845,"$306,387.00",No,1,2,42,42,NA,Cary,NC,place
+-78.9095335,35.8313133,611 Balsam Fir Drive,Amberly,2088,2016,4,3,1,Attached,"$349,990","$340,000",0-.25 Acres,7,400,0.9845,"$361,268.00",Yes,1,2,92,92,NA,Cary,NC,highway
+-78.8697769253496,35.77253065,106 Milley Brook Court,Brookstone,2466,1998,4,2,1,Detached,"$344,900","$340,000",0-.25 Acres,9,0,0.957,"$308,507.00",No,1,2,67,67,NA,Cary,NC,building
+-78.7980892117593,35.7575042462071,123 Keithwood Lane,Kingsmill,2924,1994,4,3,1,Detached,"$330,000","$340,000",.51-.75 Acres,9,280,0.0096,"$261,267.00",No,1,2,4,4,NA,Cary,NC,place
+-78.7888574654387,35.7891273124211,312 Wood Street,Not in a Subdivision,2641,2016,3,3,0,Attached,"$349,900","$340,000",0-.25 Acres,7,314,0.9505,$0.00,Yes,1,2,97,97,NA,Cary,NC,place
+-78.9080196081025,35.8249383405516,215 Northlands Drive,Amberly,2591,2005,3,2,1,Detached,"$340,000","$340,000",0-.25 Acres,7,652,0.975,"$300,366.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8599717995436,35.76847035,508 Wakehurst Drive,Devereaux,3203,1999,3,2,1,Detached,"$340,000","$340,000",0-.25 Acres,12,0,0.9505,"$335,537.00",No,2,2,3,3,NA,Cary,NC,building
+-78.7800881112644,35.7260687418566,123 Palace Green,Williamsburg Commons,2328,1990,3,2,1,Detached,"$339,000","$340,000",.26-.5 Acres,8,0,0.9505,"$320,265.00",No,1,2,36,36,NA,Cary,NC,place
+-78.7888083763452,35.7891296978247,314 Wood Street,Not in a Subdivision,2637,2016,3,3,0,Attached,"$349,900","$340,000",0-.25 Acres,7,314,0.9505,"$74,445.00",Yes,1,2,97,97,NA,Cary,NC,place
+-78.7880735334537,35.7129542570631,107 Aspen Hollow Court,Westchester Woods,2713,1997,4,2,1,Detached,"$342,000","$340,000",.26-.5 Acres,10,0,0.95,"$321,122.00",No,1,2,15,15,NA,Cary,NC,place
+-78.8148044,35.812575,169 Wildfell Trail,The Creeks at Weston,2247,2016,3,3,1,Attached,"$339,990","$340,830",0-.25 Acres,7,610,0.9845,$0.00,Yes,1,2,142,142,NA,Cary,NC,highway
+-78.8503809245676,35.7724855,111 Deep Gap Run,Park Village,2397,1995,4,2,1,Detached,"$349,000","$341,000",.26-.5 Acres,8,0,0.9505,"$290,822.00",No,1,2,5,5,NA,Cary,NC,building
+-78.7749020841229,35.75220985,109 Ridgepath Way,Ridgepath,3092,1987,4,2,1,Detached,"$349,000","$342,000",.26-.5 Acres,10,0,0.93,"$301,822.00",No,2,2,24,15,NA,Cary,NC,landuse
+-78.8348526100811,35.7890059995468,306 Arlington Ridge Road,Arlington Ridge,2338,1988,3,2,1,Detached,"$334,900","$342,000",0-.25 Acres,8,0,0.9845,"$283,731.00",No,1,2,2,2,NA,Cary,NC,place
+-78.747775,35.737734,100 Ravenstone Drive,Coventry Glen,2650,1998,4,2,1,Detached,"$350,000","$342,500",.26-.5 Acres,9,0,0.9505,"$336,111.00",No,1,2,17,17,NA,Cary,NC,place
+-78.7460018179927,35.7430303694387,111 Longbridge Drive,Coventry Glen,2301,1997,3,2,1,Detached,"$349,000","$343,000",0-.25 Acres,7,0,0.9505,"$201,379.00",No,1,2,3,3,NA,Cary,NC,place
+-78.7541308536738,35.7504177011873,836 Bentbury Way,Prestwyck,2633,2009,3,2,1,Detached,"$349,900","$343,000",0-.25 Acres,9,0,0.9505,"$327,371.00",No,1,2,6,6,NA,Cary,NC,place
+-78.7617931024521,35.7479431646522,315 W Kirkfield Drive,Woodshire of Wellington Park,2276,1993,4,2,1,Detached,"$329,500","$343,225",.26-.5 Acres,10,0,0.957,"$306,043.00",No,0,2,5,5,NA,Cary,NC,place
+-78.8963284,35.842348,4208 Vallonia Drive,The Village at Evans Farm,2715,2016,3,3,1,Attached,"$343,748","$343,748",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,6,6,NA,Cary,NC,highway
+-78.7602161135011,35.755626003976,1331 Bloomingdale Drive,Hillsdale Forest,2232,1979,4,3,0,Detached,"$345,000","$345,000",0-.25 Acres,7,0,0.9505,"$230,846.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9168908290746,35.8389385507235,811 Blackfriars Loop,Carolina Preserve,1631,2011,2,2,0,Detached,"$350,000","$345,000",0-.25 Acres,6,589,0.9838,"$299,602.00",No,0,2,20,20,NA,Cary,NC,place
+-78.8304461146748,35.7785473159584,306 Bond Lake Drive,Bond Pointe,2253,1991,4,2,1,Detached,"$350,000","$345,000",.26-.5 Acres,9,0,0.91,"$268,585.00",No,1,2,26,26,NA,Cary,NC,place
+-78.8273652448979,35.7712408979592,102 Red Field Street,Oxxford Hunt,3300,1994,4,3,1,Detached,"$350,000","$345,000",0-.25 Acres,10,0,0.984,"$319,942.00",No,1,2,88,88,NA,Cary,NC,place
+-78.832008,35.777681,201 Custer Trail,Charleston Woods,2093,1990,4,2,1,Detached,"$345,000","$345,000",0-.25 Acres,7,326,0.9505,"$345,823.00",No,1,2,10,10,NA,Cary,NC,place
+-78.853546,35.7913609,509 Santorini Drive,Stone Creek Village,2357,2006,3,2,1,Attached,"$348,900","$345,000",0-.25 Acres,8,70,0.9505,"$351,406.00",No,1,1,20,20,NA,Cary,NC,place
+-78.8963284,35.842348,4210 Vallonia Drive,The Village at Evans Farm,2719,2016,3,3,1,Attached,"$345,643","$345,643",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8963284,35.842348,4216 Vallonia Drive,The Village at Evans Farm,2412,2016,4,3,1,Attached,"$346,437","$346,007",0-.25 Acres,7,0,0.9845,"$346,347.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8963284,35.842348,4240 Vallonia Drive,The Village at Evans Farm,2715,2016,3,3,1,Attached,"$347,216","$346,219",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8963284,35.842348,4242 Vallonia Drive,The Village at Evans Farm,2282,2016,3,2,1,Attached,"$347,098","$346,598",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,1,1,NA,Cary,NC,highway
+-78.7802495999393,35.7285986769091,102 Glen Hearth Court,Lochmere,2156,1993,4,2,1,Detached,"$349,900","$347,000",0-.25 Acres,10,0,0.9505,"$297,789.00",No,1,2,7,7,NA,Cary,NC,place
+-78.8480017825505,35.77141525,302 Halls Mill Drive,Park Village,2850,1994,4,2,1,Detached,"$356,000","$348,000",0-.25 Acres,9,0,0.9845,"$306,826.00",No,1,2,75,75,NA,Cary,NC,building
+-78.8961417,35.8405716,915 Rosepine Drive,The Village at Evans Farm,2699,2016,3,3,1,Attached,"$354,990","$348,490",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,1,146,146,NA,Cary,NC,highway
+-78.916595,35.810681,514 Alden Bridge Drive,Cary Park,2451,2005,4,2,1,Detached,"$349,000","$349,000",0-.25 Acres,7,0,0.9505,"$303,355.00",No,1,2,53,53,NA,Cary,NC,place
+-78.8961417,35.8405716,917 Rosepine Drive,The Village at Evans Farm,2519,2016,4,3,1,Attached,"$349,962","$349,926",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8137585,35.8131846,404 Talons Rest Way,The Creeks at Weston,2246,2016,3,3,1,Attached,"$349,990","$349,990",0-.25 Acres,7,610,0.9845,$0.00,Yes,1,2,110,110,NA,Cary,NC,highway
+-78.9078090948761,35.8310448520101,1211 Sand Pine Drive,Amberly,2708,2016,3,3,1,Attached,"$349,990","$349,990",0-.25 Acres,8,200,0.9845,"$360,587.00",Yes,1,1,105,105,NA,Cary,NC,place
+-78.9095335,35.8313133,615 Balsam Fir Drive,Amberly,2083,2016,4,3,1,Attached,"$356,523","$350,000",0-.25 Acres,7,400,0.9845,"$348,623.00",Yes,1,1,39,39,NA,Cary,NC,highway
+-78.8525683159662,35.8162062971635,233 Anniston Court,Madison Place,3094,2008,4,3,1,Attached,"$350,000","$350,000",0-.25 Acres,8,0,0.93,"$291,674.00",No,1,2,71,71,NA,Cary,NC,place
+-78.7730704690245,35.718697674194,105 Glenrose Lane,Lochmere,2442,1990,3,2,1,Detached,"$355,000","$350,000",.26-.5 Acres,11,760,0.95,"$332,954.00",No,1,2,38,38,NA,Cary,NC,place
+-78.9189980641297,35.8095174911368,3117 Sentinel Ferry Lane,Weldon Ridge,2497,2009,4,2,1,Detached,"$359,900","$350,000",0-.25 Acres,8,0,0.095,"$383,118.00",No,1,2,48,48,NA,Cary,NC,place
+-78.915023892037,35.8112515179938,106 Naperville Drive,Cary Park,2656,2004,4,2,1,Detached,"$370,000","$350,000",0-.25 Acres,9,0,0.9505,"$311,487.00",No,1,2,35,35,NA,Cary,NC,place
+-78.779510004394,35.7261582797364,116 Palace Green,Williamsburg Commons,2145,1988,3,2,1,Detached,"$360,000","$350,000",0-.25 Acres,6,0,0.9505,"$307,202.00",No,1,2,6,6,NA,Cary,NC,place
+-78.8479697641961,35.7687664,409 Halls Mill Drive,Sherwood Greens,2328,2001,4,2,1,Detached,"$350,000","$350,000",0-.25 Acres,12,0,1.3,"$303,127.00",No,1,2,6,6,NA,Cary,NC,building
+-78.896035,35.8412762,1214 Alston Forest Drive,The Village at Evans Farm,2695,2016,3,3,1,Attached,"$350,040","$350,040",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.896035,35.8412762,1213 Alston Forest Drive,The Village at Evans Farm,2410,2016,4,3,1,Attached,"$351,360","$351,240",0-.25 Acres,6,0,0.9845,"$351,360.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8137585,35.8131846,408 Talons Rest Way,The Creeks at Weston,1854,2016,3,2,1,Attached,"$351,814","$351,864",0-.25 Acres,6,96,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8501269,35.79137735,1025 Valleystone Drive,Enclave at Stone Creek Village,2450,2012,4,3,1,Attached,"$359,000","$352,000",0-.25 Acres,8,0,0.9505,"$349,489.00",No,1,2,5,5,NA,Cary,NC,building
+-78.8960468258942,35.8249908089916,949 Vandalia Drive,Cary Park,2596,2010,4,3,1,Detached,"$350,000","$352,000",0-.25 Acres,9,115,0.928,"$331,713.00",No,1,2,62,62,NA,Cary,NC,place
+-78.7872872979616,35.7520828047401,217 BEACHERS BROOK Lane,Woods Of Kildaire,3141,1974,4,3,1,Detached,"$400,000","$354,000",.26-.5 Acres,9,0,0.95,"$343,260.00",No,1,2,15,15,NA,Cary,NC,place
+-78.8961417,35.8405716,913 Rosepine Drive,The Village at Evans Farm,2750,2016,3,3,1,Attached,"$353,696","$354,066",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,1,1,1,NA,Cary,NC,highway
+-78.8682128461595,35.7746056,104 Castlebury Creek Court,Brookstone,2428,1998,4,2,1,Detached,"$350,000","$355,000",0-.25 Acres,9,0,0.9505,"$309,804.00",No,1,2,0,0,NA,Cary,NC,building
+-78.9168236,35.8327652,205 Dowington Lane,Carolina Preserve,1621,2008,2,2,0,Detached,"$355,000","$355,000",0-.25 Acres,7,0,0.9838,"$275,661.00",No,1,2,20,20,NA,Cary,NC,highway
+-78.763008,35.74947,101 Flemington Court,Lake Wellingborough,3110,1991,5,3,1,Detached,"$369,900","$355,000",.26-.5 Acres,11,2523,0.9845,"$357,045.00",No,1,2,177,177,NA,Cary,NC,place
+-78.7984103583095,35.8133984740521,111 Winfair Drive,Silver Oaks at Silverton,2428,1995,4,2,1,Detached,"$360,000","$355,000",.26-.5 Acres,9,496,0.9505,"$333,987.00",No,1,2,32,32,NA,Cary,NC,place
+-78.7720261213501,35.7757911379708,519 Carolyn Court,Allenbrook,2654,1985,4,2,1,Detached,"$350,000","$355,000",.26-.5 Acres,9,0,0.89,"$303,382.00",No,1,2,119,119,NA,Cary,NC,place
+-78.8471662560475,35.8290923584665,523 Tranquil Sound Drive,Twin Lakes,2280,2006,3,2,0,Detached,"$365,000","$355,000",0-.25 Acres,7,0,0.9845,"$334,668.00",No,1,2,49,49,NA,Cary,NC,place
+-78.7565251811449,35.7368465670035,233 Strathburgh Lane,Lochmere,2851,1993,4,2,1,Detached,"$375,000","$355,000",.51-.75 Acres,9,0,0.086,"$369,218.00",No,1,2,128,128,NA,Cary,NC,place
+-78.8475479615341,35.800016088232,202 Halpen Drive,Preston Crossing,2130,1993,3,2,1,Detached,"$345,000","$355,000",.26-.5 Acres,8,369,0.9505,"$302,591.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8824895638406,35.77656695,317 Euphoria Circle,Harmony,2598,2007,4,2,1,Detached,"$365,000","$356,000",0-.25 Acres,9,0,0.9505,"$333,507.00",No,1,2,7,7,NA,Cary,NC,building
+-78.8963284,35.842348,4246 Vallonia Drive,The Village at Evans Farm,2451,2016,4,3,1,Attached,"$355,417","$356,177",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.896035,35.8412762,1234 Alston Forest Drive,The Village at Evans Farm,2521,2016,4,3,1,Attached,"$356,939","$356,439",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8426221609834,35.82994595,624 Piper Stream Circle,Twin Lakes,2596,2008,3,2,1,Detached,"$362,000","$357,000",0-.25 Acres,8,0,0.9845,"$323,795.00",No,1,2,58,58,NA,Cary,NC,building
+-78.8365392028793,35.7802381536124,105 Bebington Drive,Kenilworth,2733,1993,4,2,1,Detached,"$364,900","$357,000",0-.25 Acres,10,0,0.9505,"$317,140.00",No,1,2,18,18,NA,Cary,NC,place
+-78.8148044,35.812575,144 Wildfell Trail,The Creeks at Weston,2492,2016,3,2,1,Attached,"$351,350","$357,458",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.7704880107821,35.7602245744238,505 Farmington Woods Drive,Farmington Woods,2891,1974,4,3,0,Detached,"$369,900","$357,500",.26-.5 Acres,10,417,0.9845,"$310,603.00",No,1,2,10,10,NA,Cary,NC,place
+-78.9094942008627,35.8330505620891,3127 Bluff Oak Drive,Amberly,2231,2013,3,2,1,Detached,"$360,000","$358,000",0-.25 Acres,8,0,0.9845,"$330,955.00",No,1,2,65,41,NA,Cary,NC,place
+-78.8148044,35.812575,140 Wildfell Trail,The Creeks at Weston,1905,2016,3,2,1,Attached,"$356,297","$358,394",0-.25 Acres,7,494,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9104986995312,35.8314966628057,4106 Overcup Oak Lane,Amberly,2399,2013,4,2,1,Detached,"$359,000","$359,000",0-.25 Acres,8,0,0.9505,"$333,611.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8385867227084,35.7695608213456,502 Giverny Place,Giverny,2658,1992,4,3,1,Detached,"$359,000","$359,000",.26-.5 Acres,10,0,0.98,"$338,549.00",No,1,2,5,5,NA,Cary,NC,place
+-78.792437628047,35.7390469387357,307 Tweed Circle,MacGregor Downs,2254,1985,3,2,1,Detached,"$372,000","$359,500",0-.25 Acres,9,0,0.9505,"$312,975.00",No,1,2,15,15,NA,Cary,NC,place
+-78.768408,35.763103,103 W Gerrell Court,Maynard Oaks,3137,1987,4,2,1,Detached,"$359,900","$359,900",.26-.5 Acres,10,0,0.9845,"$316,126.00",No,1,2,87,87,NA,Cary,NC,place
+-78.9109267202017,35.8284762368415,505 Spinnaker Court,Carolina Preserve,1604,2012,2,2,0,Detached,"$360,000","$360,000",0-.25 Acres,6,440,0.9505,"$333,308.00",No,1,2,49,49,NA,Cary,NC,place
+-78.9182738907814,35.8360768434717,668 Lipford Drive,Carolina Preserve,1736,2010,2,2,0,Detached,"$365,000","$360,000",0-.25 Acres,6,0,0.9838,"$303,713.00",No,1,2,44,44,NA,Cary,NC,place
+-78.8469977261617,35.7715517,107 Bell Arthur Drive,Park Village,2729,1994,4,2,1,Detached,"$370,000","$360,000",0-.25 Acres,9,0,0.9845,"$308,615.00",No,1,2,50,50,NA,Cary,NC,building
+-78.8322466277881,35.7774343705082,105 Minute Man Drive,Charleston Woods,2342,1990,4,2,1,Detached,"$368,900","$360,000",0-.25 Acres,9,0,0.9505,"$353,232.00",No,1,2,55,55,NA,Cary,NC,place
+-78.8462094770164,35.830645311082,209 Bog Hill Lane,Twin Lakes,2809,2007,4,2,1,Detached,"$360,000","$360,000",0-.25 Acres,10,0,0.95,"$339,799.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8685792004313,35.7671156,102 drexelbrook Court,Devereaux,2626,1998,3,2,1,Detached,"$354,000","$360,100",0-.25 Acres,9,0,0.9505,"$289,616.00",No,2,2,3,3,NA,Cary,NC,building
+-78.896035,35.8412762,1225 Alston Forest Drive,The Village at Evans Farm,2408,2016,4,3,1,Attached,"$360,135","$360,135",0-.25 Acres,6,0,0.9845,"$360,135.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8137585,35.8131846,451 Talons Rest Way,The Creeks at Weston,2490,2016,3,2,1,Attached,"$361,770","$361,960",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.7942254284084,35.7096797615661,111 Olde Tree Drive,Fernwood,2983,1998,4,2,1,Detached,"$378,000","$362,000",.26-.5 Acres,12,0,0.9505,"$331,704.00",No,1,2,61,61,NA,Cary,NC,place
+-78.8448695,35.8309575,528 Front Ridge Drive,Twin Lakes,3073,2007,4,2,1,Detached,"$374,900","$362,500",0-.25 Acres,8,0,0.98,"$353,176.00",No,1,2,107,26,NA,Cary,NC,place
+-78.7508134055018,35.7411784387006,104 Rivergreen Court,Coventry Woods,3069,1996,5,2,1,Detached,"$365,000","$362,500",.26-.5 Acres,9,0,0.098,"$358,774.00",No,1,2,43,43,NA,Cary,NC,place
+-78.9209619,35.808484,3028 Sentinel Ferry Lane,Weldon Ridge,2452,2009,4,3,1,Detached,"$369,900","$363,000",.26-.5 Acres,9,0,0.98,"$371,072.00",No,1,2,152,1,NA,Cary,NC,highway
+-78.7977465390935,35.7651376073498,210 Fox View Place,Fox Chase,1946,2016,4,2,1,Detached,"$339,900","$363,076",0-.25 Acres,10,0,0.95,$0.00,Yes,1,2,20,20,NA,Cary,NC,place
+-78.8961417,35.8405716,909 Rosepine Drive,The Village at Evans Farm,2524,2016,4,3,1,Attached,"$362,949","$363,289",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8427927769851,35.77562485216,119 Covington Square Drive,MacArthur Park,2523,1994,4,2,1,Detached,"$374,900","$363,500",0-.25 Acres,11,320,0.95,"$311,552.00",No,1,2,11,11,NA,Cary,NC,place
+-78.8725626,35.7887906,206 Highfield Avenue,Landsdowne,2933,2002,5,3,1,Detached,"$379,900","$364,200",0-.25 Acres,8,0,0.9505,"$363,319.00",No,1,2,124,79,NA,Cary,NC,building
+-78.8632704490384,35.8079615275134,508 Quaker Dell Lane,Heritage Pines,2659,2005,3,2,0,Detached,"$375,000","$365,000",0-.25 Acres,9,256,0.98,"$362,953.00",No,1,2,25,25,NA,Cary,NC,place
+-78.8623521795383,35.8081598058132,403 Indian Elm Lane,Heritage Pines,2606,2004,3,2,0,Detached,"$375,000","$365,000",0-.25 Acres,9,252,0.956,"$356,821.00",No,1,2,112,112,NA,Cary,NC,place
+-78.833608,35.762845,210 Moravia Lane,Olde Salem,2696,2000,4,2,1,Detached,"$370,000","$365,000",0-.25 Acres,10,0,0.95,"$345,887.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8271767157518,35.7561695358517,1748 Laurel Park Place,Laurel Park,2644,2008,4,3,1,Detached,"$369,900","$365,000",0-.25 Acres,8,0,0.9845,"$325,785.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8694331933284,35.77127675,120 Milley Brook Court,Brookstone,2650,1998,4,2,1,Detached,"$375,000","$365,000",0-.25 Acres,10,0,0.9505,"$324,688.00",No,1,2,25,25,NA,Cary,NC,building
+-78.7696205283478,35.7567827830957,107 Tulliallan Lane,Stonehaven,2458,1989,4,2,1,Detached,"$355,000","$365,000",.26-.5 Acres,9,342,0.9505,"$313,478.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8452469,35.7795021,200 Graywick Way,Southwick,2378,1993,3,2,1,Detached,"$350,000","$365,000",.26-.5 Acres,8,0,0.9505,"$323,064.00",No,1,2,3,3,NA,Cary,NC,building
+-78.9094341924828,35.832219066611,4005 Overcup Oak Lane,Amberly,2636,2016,3,3,1,Attached,"$368,990","$365,490",0-.25 Acres,8,254,0.9845,"$368,990.00",Yes,1,1,72,72,NA,Cary,NC,place
+-78.9095335,35.8313133,629 Balsam Fir Drive,Amberly,2636,2016,3,3,1,Attached,"$365,991","$365,991",0-.25 Acres,8,0,0.9845,"$365,990.00",Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8963284,35.842348,4234 Vallonia Drive,The Village at Evans Farm,2405,2016,4,3,1,Attached,"$367,170","$366,670",0-.25 Acres,8,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8521703014992,35.8162185106038,301 Anniston Court,Madison Place,3109,2001,3,3,1,Attached,"$374,900","$367,000",0-.25 Acres,8,0,0.9845,"$321,176.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8137585,35.8131846,455 Talons Rest Way,The Creeks at Weston,2486,2016,3,2,1,Attached,"$367,882","$367,882",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9088313470129,35.8239894576614,248 Northlands Drive,Arlington Park at Amberly,3080,2005,3,3,0,Detached,"$370,000","$368,000",0-.25 Acres,10,0,0.9505,"$324,459.00",No,1,2,52,23,NA,Cary,NC,place
+-78.9095335,35.8313133,627 Balsam Fir Drive,Amberly,2711,2016,3,3,1,Attached,"$374,225","$368,950",0-.25 Acres,8,200,0.9845,"$374,225.00",Yes,1,1,47,47,NA,Cary,NC,highway
+-78.9094625962414,35.8322035333055,4003 Overcup Oak Lane,Amberly,2708,2016,3,3,1,Attached,"$368,990","$369,910",0-.25 Acres,8,254,0.9845,"$368,990.00",Yes,1,1,72,72,NA,Cary,NC,place
+-78.8148044,35.812575,182 Wildfell Trail,The Creeks at Weston,2616,2016,3,3,1,Attached,"$369,990","$369,990",0-.25 Acres,8,407,0.9848,$0.00,Yes,1,1,225,225,NA,Cary,NC,highway
+-78.8148044,35.812575,178 Wildfell Trail,The Creeks at Weston,2611,2016,3,3,1,Attached,"$374,990","$370,000",0-.25 Acres,8,407,0.9845,$0.00,Yes,1,1,128,128,NA,Cary,NC,highway
+-78.9170039988318,35.8334675005841,910 Footbridge Place,Carolina Preserve,1916,2007,2,2,0,Detached,"$375,000","$370,000",0-.25 Acres,7,0,0.9838,"$290,556.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8333254603039,35.7631818003405,207 Moravia Lane,Olde Salem,2700,1999,4,2,1,Detached,"$370,000","$370,000",0-.25 Acres,9,0,0.9505,"$350,135.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8599242783717,35.7859675,101 Somersby Court,Wellsley,2515,1994,4,2,1,Detached,"$385,000","$370,000",.26-.5 Acres,9,0,0.9845,"$363,819.00",No,1,2,131,131,NA,Cary,NC,building
+-78.8271770288581,35.7575097373178,1640 Laurel Park Place,Laurel Park,2877,2007,3,2,1,Detached,"$371,900","$371,900",0-.25 Acres,9,0,0.95,"$350,250.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8137585,35.8131846,443 Talons Rest Way,The Creeks at Weston,2486,2016,3,2,1,Attached,"$379,990","$373,000",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,33,33,NA,Cary,NC,highway
+-78.7471621484613,35.7441842816023,102 Franklin Chase Court,Franklin Chase,2856,1994,4,2,1,Detached,"$369,900","$373,000",.26-.5 Acres,8,970,0.9505,"$363,474.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9185663781817,35.8271575335224,509 Garendon Drive,Carolina Preserve,1930,2006,2,2,0,Detached,"$380,000","$373,000",0-.25 Acres,6,0,0.9919,"$299,994.00",No,1,2,44,44,NA,Cary,NC,place
+-78.8148044,35.812575,176 Wildfell Trail,The Creeks at Weston,2611,2016,3,3,1,Attached,"$374,609","$374,829",0-.25 Acres,8,407,0.9845,$0.00,Yes,1,1,0,0,NA,Cary,NC,highway
+-78.8148044,35.812575,146 Wildfell Trail,The Creeks at Weston,2486,2016,3,2,1,Attached,"$374,990","$374,990",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,18,18,NA,Cary,NC,highway
+-78.8698170185911,35.7729215,102 Milley Brook Court,Brookstone,2658,1998,4,2,1,Detached,"$374,900","$375,000",0-.25 Acres,9,0,0.9505,"$343,259.00",No,1,2,8,8,NA,Cary,NC,building
+-78.7807654299937,35.7274530912414,104 Glen Mavis Court,Lochmere,2782,1992,4,2,1,Detached,"$380,000","$375,000",.26-.5 Acres,9,0,0.928,"$339,326.00",No,1,2,46,46,NA,Cary,NC,place
+-78.9157353333333,35.8367573333333,913 Gillinder Place,Carolina Preserve,1717,2009,2,2,0,Detached,"$385,000","$375,000",0-.25 Acres,6,0,0.99,"$321,226.00",No,1,2,115,115,NA,Cary,NC,place
+-78.7712820975094,35.7170811996595,205 Brookridge Drive,Brookridge,2489,1975,4,2,1,Detached,"$394,900","$375,000",1-2.9 Acres,12,0,0.6945,"$374,279.00",No,3,0,59,59,NA,Cary,NC,place
+-78.9081864,35.8298883,1054 Residents Club Drive,Amberly,2559,2016,4,3,1,Attached,"$377,900","$375,000",0-.25 Acres,9,0,0.9845,"$55,000.00",Yes,0,2,203,203,NA,Cary,NC,highway
+-78.86174,35.823634,104 Hamilton Hedge Place,Carpenter Village,2705,2002,3,2,1,Detached,"$389,999","$375,350",0-.25 Acres,9,708,0.9845,"$404,960.00",No,1,2,33,33,NA,Cary,NC,place
+-78.9078069648085,35.8311080440157,1217 Sand Pine Drive,Amberly,2364,2016,4,3,1,Attached,"$376,369","$376,109",0-.25 Acres,8,400,0.9845,"$376,369.00",Yes,1,2,0,0,NA,Cary,NC,place
+-78.9078083848535,35.831065916012,1213 Sand Pine Drive,Amberly,2626,2016,3,3,1,Attached,"$366,086","$377,000",0-.25 Acres,8,200,0.9845,"$366,087.00",Yes,1,1,11,11,NA,Cary,NC,place
+-78.9081864,35.8298883,1052 Residents Club Drive,Amberly,2567,2016,4,3,1,Attached,"$377,900","$377,900",0-.25 Acres,9,0,0.9845,"$55,000.00",Yes,0,2,220,220,NA,Cary,NC,highway
+-78.9172082269503,35.8374905924071,524 Clarenbridge Drive,Carolina Preserve,1910,2009,2,2,0,Detached,"$390,000","$379,000",0-.25 Acres,8,513,0.9838,"$320,312.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8558856088162,35.77446535,105 Point Harbor Drive,Park Village,2538,1997,4,2,1,Detached,"$365,000","$380,000",0-.25 Acres,10,0,0.9845,"$286,768.00",No,1,2,1,1,NA,Cary,NC,building
+-78.8703311738657,35.7756192,101 Janey Brook Court,Brookstone,2768,1998,4,2,1,Detached,"$385,000","$380,000",0-.25 Acres,10,0,0.864,"$338,007.00",No,1,2,4,4,NA,Cary,NC,building
+-78.7578818113192,35.7328589223556,112 Lochwood East Drive,Lochmere,3535,1985,3,2,1,Detached,"$399,500","$380,000",.51-.75 Acres,9,0,0.9845,"$401,297.00",No,1,2,64,64,NA,Cary,NC,place
+-78.8818549461268,35.7765507,309 Euphoria Circle,Harmony,2742,2008,5,3,0,Detached,"$399,000","$380,000",.51-.75 Acres,10,0,0.91,"$350,366.00",No,1,2,46,46,NA,Cary,NC,building
+-78.8148044,35.812575,174 Wildfell Trail,The Creeks at Weston,2633,2016,4,3,1,Attached,"$379,932","$380,605",0-.25 Acres,10,494,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9081864,35.8298883,1056 Residents Club Drive,Amberly,2564,2016,4,3,1,Attached,"$381,900","$381,000",0-.25 Acres,8,0,0.9845,"$55,000.00",Yes,1,2,183,183,NA,Cary,NC,highway
+-78.844889,35.808992,101 Boltstone Court,Preston,2250,1997,4,2,1,Detached,"$393,000","$382,000",.26-.5 Acres,9,0,0.9505,"$356,077.00",No,1,2,60,0,NA,Cary,NC,place
+-78.7871682895775,35.7201225129439,109 Steep Bank Drive,Kildaire Farms,3098,1993,4,2,1,Detached,"$389,000","$382,500",.26-.5 Acres,10,0,0.95,"$361,115.00",No,1,2,96,96,NA,Cary,NC,place
+-78.7577404897959,35.7419376326531,103 Rodwell Court,Lochmere Village,3168,1997,5,2,1,Detached,"$389,000","$382,500",.26-.5 Acres,11,0,0.9505,"$367,534.00",No,1,2,43,43,NA,Cary,NC,place
+-78.9158444081633,35.8389930408163,233 Elverson Place,Carolina Preserve,2057,2012,3,2,0,Detached,"$383,900","$382,900",0-.25 Acres,9,0,0.9838,"$323,121.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8317859338821,35.7776877164784,203 Custer Trail,Charleston Woods,2827,1992,4,2,1,Detached,"$380,000","$383,000",0-.25 Acres,11,0,0.9505,"$398,592.00",No,1,2,4,4,NA,Cary,NC,place
+-78.806021,35.725876,701 Angelica Circle,Renaissance at Regency,2514,2016,4,2,1,Detached,"$399,900","$383,400",0-.25 Acres,7,0,0.93,$0.00,Yes,1,2,253,140,NA,Cary,NC,place
+-78.8432330957621,35.8288432,601 Piper Stream Circle,Twin Lakes,3057,2008,4,3,1,Detached,"$384,900","$384,900",0-.25 Acres,9,0,0.9505,"$360,803.00",No,1,2,5,5,NA,Cary,NC,building
+-78.8484881,35.7839789,210 Daymire Glen Lane,Davis Square,2519,2016,3,3,1,Attached,"$399,900","$384,900",0-.25 Acres,6,0,0.968,$0.00,Yes,1,2,85,85,NA,Cary,NC,highway
+-78.8549018518371,35.8195322658101,405 Carpenter Town Lane,Carpenter Village,2540,1998,3,2,1,Detached,"$385,000","$385,000",0-.25 Acres,9,0,0.9505,"$343,776.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9183475138016,35.8352591382239,705 Eldridge Loop,Carolina Preserve,2156,2010,2,2,0,Detached,"$400,000","$385,000",0-.25 Acres,8,0,0.984,"$330,636.00",No,1,2,12,12,NA,Cary,NC,place
+-78.875124552877,35.78724415,100 Glenmore Road,Landsdowne,2867,1995,4,2,1,Detached,"$385,000","$385,000",.26-.5 Acres,9,0,0.9845,"$335,757.00",No,1,2,5,5,NA,Cary,NC,building
+-78.8688686402885,35.7795399,104 ParkWalk Court,West Park,2518,1993,4,2,1,Detached,"$395,000","$385,000",0-.25 Acres,9,331,0.9505,"$361,136.00",No,1,2,2,2,NA,Cary,NC,building
+-78.9153828456089,35.8434667069338,309 Arvada Drive,Carolina Preserve,1906,2010,2,2,0,Detached,"$385,000","$385,000",0-.25 Acres,7,608,0.98,"$320,090.00",No,1,2,5,5,NA,Cary,NC,place
+-78.770833,35.731507,101 Woodgrove Lane,Lochmere,3580,1985,4,2,1,Detached,"$400,000","$385,000",.26-.5 Acres,11,251,0.9505,"$409,580.00",No,2,2,53,53,NA,Cary,NC,place
+-78.9081864,35.8298883,1050 Residents Club Drive,Amberly,2777,2016,3,3,1,Attached,"$388,900","$387,000",0-.25 Acres,9,0,0.9845,"$55,000.00",Yes,0,2,100,100,NA,Cary,NC,highway
+-78.8204307234703,35.7722935440965,105 Queens Knoll Court,Oxxford Hunt,2872,1992,4,2,1,Detached,"$399,000","$389,000",.26-.5 Acres,10,0,0.93,"$302,827.00",No,1,2,50,50,NA,Cary,NC,place
+-78.8493956,35.7833988,426 Daylin Drive,Davis Square,2515,2016,3,3,1,Attached,"$399,900","$389,900",0-.25 Acres,9,0,0.968,$0.00,Yes,1,2,92,92,NA,Cary,NC,highway
+-78.8540685474666,35.8196638865182,311 Carpenter Town Lane,Carpenter Village,2423,1999,4,3,0,Detached,"$389,900","$390,000",0-.25 Acres,9,0,0.95,"$348,451.00",No,1,2,5,5,NA,Cary,NC,place
+-78.864431,35.79255865,105 Fringe Tree Court,Berkeley,2549,2000,4,2,1,Detached,"$405,000","$390,000",.26-.5 Acres,9,0,0.98,"$361,917.00",No,1,2,98,98,NA,Cary,NC,building
+-78.8668204148174,35.7820296,302 Parkmeadow Drive,Westpark (Cary),3158,1993,4,2,1,Detached,"$399,900","$390,000",0-.25 Acres,12,0,0.985,"$311,579.00",No,1,2,23,23,NA,Cary,NC,building
+-78.7986057746565,35.7551045243044,110 King George Loop,Royal Ridge,2475,1986,4,2,1,Detached,"$395,000","$390,000",.26-.5 Acres,9,0,0.9505,"$333,331.00",No,2,2,7,7,NA,Cary,NC,place
+-78.8595365,35.82555225,135 Presidents Walk Lane,Legacy at Carpenter Village,2833,2005,4,2,1,Detached,"$395,000","$390,000",0-.25 Acres,10,0,0.989,"$351,394.00",No,1,2,9,9,NA,Cary,NC,place
+-78.8321935896998,35.7817018341724,107 Ranchero Court,Fairfax,2417,1993,4,2,1,Detached,"$389,000","$390,250",.26-.5 Acres,9,0,0.9505,"$315,666.00",No,1,2,6,6,NA,Cary,NC,place
+-78.8611447494879,35.8206179609859,907 Carpenter Town Lane,Carpenter Village,2596,2003,3,3,0,Detached,"$398,000","$391,500",0-.25 Acres,8,0,0.9505,"$378,231.00",No,1,2,6,6,NA,Cary,NC,place
+-78.7915033724579,35.6988292436514,1561 Lily Creek Drive,Stonebridge,2417,2011,3,3,0,Detached,"$387,000","$392,000",0-.25 Acres,7,0,0.9505,"$367,910.00",No,1,3,2,2,NA,Cary,NC,place
+-78.7980032173452,35.8062724725667,104 Amber Creek Circle,Silvercreek,2900,1996,4,3,0,Detached,"$395,000","$392,500",.26-.5 Acres,11,0,0.9505,"$345,842.00",No,1,2,46,46,NA,Cary,NC,place
+-78.8484881,35.7839789,224 Daymire Glen Lane,Davis Square,2568,2016,4,3,1,Attached,"$399,900","$393,900",0-.25 Acres,7,0,0.968,$0.00,Yes,0,2,71,71,NA,Cary,NC,highway
+-78.9118531569958,35.8334272328658,5018 Blue Jack Oak Drive,Amberly,2820,2013,4,3,1,Detached,"$409,900","$395,000",0-.25 Acres,0,9,0.9845,"$396,386.00",No,0,2,57,57,NA,Cary,NC,place
+-78.8964445617825,35.8234680407026,805 Vandalia Drive,Cary Park,2631,2012,5,3,0,Detached,"$400,000","$395,000",0-.25 Acres,13,0,0.9505,"$321,824.00",No,1,2,11,11,NA,Cary,NC,place
+-78.8552897,35.7911567,107 Sunstone Drive,Stone Creek Village,2015,2006,3,2,1,Attached,"$410,000","$395,000",0-.25 Acres,7,469,0.9505,"$355,825.00",No,1,2,20,20,NA,Cary,NC,place
+-78.8541293054671,35.8192943960664,114 White Bloom Lane,Carpenter Village,2702,2000,4,2,1,Detached,"$399,000","$395,000",0-.25 Acres,10,0,0.9505,"$364,913.00",No,1,2,34,31,NA,Cary,NC,place
+-78.8493956,35.7833988,429 Daylin Drive,Davis Square,2516,2016,3,3,1,Attached,"$412,900","$397,000",0-.25 Acres,6,0,0.968,$0.00,Yes,1,2,83,83,NA,Cary,NC,highway
+-78.8664444512563,35.78349805,112 Parkmeadow Drive,Westpark (Cary),2753,1993,4,2,1,Detached,"$405,900","$397,500",0-.25 Acres,12,441,0.9505,"$310,679.00",No,1,2,42,42,NA,Cary,NC,building
+-78.8493956,35.7833988,418 Daylin Drive,Davis Square,2515,2016,3,3,1,Attached,"$399,900","$397,900",0-.25 Acres,9,0,0.968,$0.00,Yes,1,2,66,66,NA,Cary,NC,highway
+-78.7734379768963,35.7218231504969,103 Scots Fir Lane,Lochmere,2602,1994,4,2,1,Detached,"$399,900","$399,900",0-.25 Acres,9,630,0.9845,"$372,863.00",No,1,2,11,11,NA,Cary,NC,place
+-78.7492334234531,35.7400612767618,410 Danton Drive,Coventry Woods,2888,1996,4,2,1,Detached,"$405,000","$400,000",0-.25 Acres,10,2891,0.9505,"$348,066.00",No,1,2,29,29,NA,Cary,NC,place
+-78.7557867,35.7355484,102 Cricket Lane,Lochmere,3022,1986,3,2,1,Detached,"$425,000","$400,000",.26-.5 Acres,9,325,0.898,"$415,105.00",No,1,2,74,74,NA,Cary,NC,highway
+-78.865142,35.818671,401 April Bloom Lane,Carpenter Village,2498,2004,3,2,1,Detached,"$399,900","$400,000",.26-.5 Acres,9,0,0.9505,"$383,432.00",No,1,1,2,2,NA,Cary,NC,place
+-78.9093470786655,35.8400265632087,2334 Pindos Drive,Overlook at Amberly,3109,2014,4,3,1,Detached,"$400,000","$400,000",0-.25 Acres,10,0,0.9505,"$367,577.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8220300917946,35.7942605393995,121 High Country Drive,Highlands,2400,1989,4,2,1,Detached,"$389,000","$400,000",0-.25 Acres,8,0,0.9505,"$336,219.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8065234615626,35.7266298215689,1322 English Cottage Lane,Renaissance at Regency,2742,2011,4,2,2,Detached,"$409,900","$401,000",0-.25 Acres,8,0,0.9845,"$404,558.00",No,1,2,35,35,NA,Cary,NC,place
+-78.9152748839429,35.8309173944223,102 Beckingham Loop,Carolina Preserve,2272,2007,3,2,0,Detached,"$409,900","$403,000",0-.25 Acres,8,0,0.864,"$259,887.00",No,1,2,83,4,NA,Cary,NC,place
+-78.8420872181422,35.7723440735281,102 Pacoval Place,MacArthur Park,2716,1992,4,2,1,Detached,"$406,000","$403,000",.26-.5 Acres,8,360,0.864,"$377,436.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8438701972161,35.7784510835077,115 Southwick Court,MacArthur Park,3228,1993,4,2,1,Detached,"$415,000","$403,500",.26-.5 Acres,8,0,0.9505,"$349,985.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9003579649594,35.8083816952865,438 Golden Harvest Loop,Greystone,2772,2007,4,2,1,Detached,"$414,000","$403,800",0-.25 Acres,10,0,0.9505,"$401,288.00",No,1,2,60,60,NA,Cary,NC,place
+-78.8504696685786,35.7962800244824,106 Marblecreek Lane,Riggsbee Farm,2622,1995,4,2,1,Detached,"$415,000","$404,500",.26-.5 Acres,9,0,0.9505,"$389,357.00",No,1,2,38,38,NA,Cary,NC,place
+-78.8539271,35.7914147,501 Santorini Drive,Stone Creek Village,2610,2006,3,2,1,Attached,"$409,900","$404,900",0-.25 Acres,8,310,0.928,"$405,339.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8221016145575,35.7915885,110 LeBlanc Court,Preston,3159,1994,4,2,1,Detached,"$429,900","$405,000",.26-.5 Acres,12,470,0.9845,"$407,431.00",No,1,2,43,43,NA,Cary,NC,building
+-78.7723194692299,35.7760994600008,103 Whispering Pines Court,Allenbrook,2930,1985,4,2,1,Detached,"$405,000","$405,000",.26-.5 Acres,9,2925,0.9505,"$322,740.00",No,1,2,1,1,NA,Cary,NC,place
+-78.7891075876804,35.7556051043292,216 Rosecommon Lane,Woods Of Kildaire,3092,1979,4,2,1,Detached,"$410,000","$405,000",.26-.5 Acres,12,794,0.9915,"$307,248.00",No,1,2,27,27,NA,Cary,NC,place
+-78.8010413340974,35.6966874166905,302 Millsford Hill Place,Windermere,3355,2001,4,3,1,Detached,"$410,000","$405,000",0-.25 Acres,10,0,0.9505,"$406,124.00",No,1,3,9,9,NA,Cary,NC,place
+-78.9012344243728,35.8067014125736,1112 Jewel Creek Drive,Greystone,3083,2008,5,3,0,Detached,"$425,000","$405,000",0-.25 Acres,10,0,0.9505,"$409,048.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8042334489796,35.7097002857143,107 Linecrest Court,Danbury,2770,1998,4,2,1,Detached,"$399,900","$405,000",.26-.5 Acres,12,510,0.9845,"$371,830.00",No,1,2,3,3,NA,Cary,NC,place
+-78.918604377341,35.8350904254737,708 Eldridge Loop,Carolina Preserve,2154,2010,2,2,0,Detached,"$405,000","$405,000",0-.25 Acres,7,449,0.9838,"$330,636.00",No,1,2,5,5,NA,Cary,NC,place
+-78.793746,35.71665,100 Magnolia Tree Court,Magnolia Woods,2853,1998,4,2,1,Detached,"$409,000","$405,399",.26-.5 Acres,10,1394,0.9505,"$438,153.00",No,2,2,139,73,NA,Cary,NC,place
+-78.8690866249846,35.78239375,200 ParkKnoll Lane,Westpark (Cary),3126,1992,4,2,1,Detached,"$399,900","$405,500",.26-.5 Acres,9,600,0.9505,"$373,087.00",No,1,2,3,3,NA,Cary,NC,building
+-78.8484881,35.7839789,216 Daymire Glen Lane,Davis Square,2517,2016,3,3,1,Attached,"$409,900","$406,900",0-.25 Acres,6,0,0.968,$0.00,Yes,1,2,51,51,NA,Cary,NC,highway
+-78.8484881,35.7839789,214 Daymire Glen Lane,Davis Square,2514,2016,3,3,1,Attached,"$409,900","$406,900",0-.25 Acres,6,0,0.968,$0.00,Yes,1,2,63,63,NA,Cary,NC,highway
+-78.7727896595608,35.7153426468346,129 Bonniewood Drive,Lochmere,2691,1991,4,2,1,Detached,"$410,000","$407,000",.26-.5 Acres,10,0,0.9845,"$355,003.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8149564805546,35.7831657699957,209 Darbytown Place,The Battery,3454,2005,4,3,0,Detached,"$399,999","$407,000",0-.25 Acres,9,0,0.96,"$378,026.00",No,1,2,139,139,NA,Cary,NC,place
+-78.8484881,35.7839789,259 Daymire Glen Lane,Davis Square,2656,2016,4,3,1,Attached,"$409,900","$408,000",0-.25 Acres,9,0,0.968,"$80,000.00",Yes,0,2,77,77,NA,Cary,NC,highway
+-78.8936178379552,35.8381982686264,4103 Plum Branch Drive,Evans Farm,2754,2012,4,3,0,Detached,"$414,900","$409,000",0-.25 Acres,9,0,0.9505,"$397,902.00",No,1,2,81,18,NA,Cary,NC,place
+-78.8434565931148,35.8003298596717,202 Firetree Lane,Preston,2557,1993,4,2,1,Detached,"$414,900","$409,900",0-.25 Acres,9,0,0.9865,"$345,486.00",No,1,2,55,55,NA,Cary,NC,place
+-78.8962301037606,35.8404164926166,4015 Vallonia Drive,Evans Farm,2801,2011,4,3,0,Detached,"$419,900","$410,000",0-.25 Acres,9,0,0.92,"$387,811.00",No,1,2,96,96,NA,Cary,NC,place
+-78.9158533061225,35.8389255306122,225 Elverson Place,Carolina Preserve,2722,2011,3,3,0,Detached,"$439,900","$410,000",0-.25 Acres,11,0,0.9919,"$370,426.00",No,1,2,46,46,NA,Cary,NC,place
+-78.9061903746926,35.843995235349,606 Windy Peak Loop,Stonewater,2988,2008,4,3,0,Detached,"$399,000","$410,000",0-.25 Acres,9,492,0.9505,"$362,902.00",No,1,2,4,4,NA,Cary,NC,place
+-78.774262655145,35.7176056818521,106 Windswept Lane,Lochmere Highlands Lake,2716,1991,4,2,1,Detached,"$415,000","$411,000",0-.25 Acres,9,0,0.9505,"$354,627.00",No,1,2,38,38,NA,Cary,NC,place
+-78.7610574150818,35.7631221331307,918 Vickie Drive,Greenwood Acres,3478,1974,3,3,1,Detached,"$410,000","$412,000",.51-.75 Acres,7,0,0.9505,"$303,148.00",No,1,0,3,3,NA,Cary,NC,place
+-78.902354,35.808912,1010 Jewel Creek Drive,Greystone,3005,2007,4,2,1,Detached,"$419,000","$412,000",0-.25 Acres,15,440,0.96,"$399,992.00",No,1,2,76,76,NA,Cary,NC,place
+-78.9068385188707,35.8297046755464,7623 McCrimmon Parkway,Amberly,3404,2008,4,3,1,Attached,"$425,000","$412,500",0-.25 Acres,8,0,0.9505,"$385,498.00",No,1,2,263,9,NA,Cary,NC,place
+-78.8493956,35.7833988,420 Daylin Drive,Davis Square,2517,2016,3,3,1,Attached,"$412,900","$412,900",0-.25 Acres,9,0,0.968,$0.00,Yes,1,2,64,64,NA,Cary,NC,highway
+-78.8833076571924,35.7766961,326 Euphoria Circle,Harmony,3554,2007,5,3,1,Detached,"$415,000","$415,000",.26-.5 Acres,10,923,0.91,"$435,740.00",No,1,2,110,110,NA,Cary,NC,building
+-78.8620100128037,35.7845937,405 Widdington Lane,Wellsley,3417,1995,4,3,1,Detached,"$414,900","$416,000",.26-.5 Acres,12,865,0.9505,"$385,092.00",No,1,2,34,34,NA,Cary,NC,building
+-78.8589628654033,35.8186182027271,507 Commons Walk Circle,Carpenter Village,2738,2004,4,2,1,Detached,"$429,900","$416,900",0-.25 Acres,8,0,0.9845,"$393,182.00",No,1,2,111,111,NA,Cary,NC,place
+-78.8539443,35.7910604,502 Santorini Drive,Stone Creek Village,2608,2006,3,2,1,Attached,"$419,900","$417,000",0-.25 Acres,7,310,0.928,"$410,631.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8834880088252,35.77659605,328 Euphoria Circle,Harmony,3666,2008,5,3,1,Detached,"$415,000","$418,000",0-.25 Acres,12,213,0.9505,"$421,344.00",No,1,2,8,8,NA,Cary,NC,building
+-78.8022381559731,35.8061819239885,101 Silvergrove Drive,Silver Creek,2897,1996,4,2,1,Detached,"$419,000","$419,000",.26-.5 Acres,9,0,0.989,"$358,564.00",No,1,3,2,2,NA,Cary,NC,place
+-78.8099736133933,35.7246507079435,622 Angelica Circle,Regency,2199,2016,3,2,1,Detached,"$447,350","$419,350",0-.25 Acres,7,0,0.98,"$110,000.00",Yes,1,2,95,95,NA,Cary,NC,place
+-78.807164054726,35.7261355712944,1345 English Cottage Lane,Renaissance at Regency,2401,2015,3,3,1,Detached,"$419,900","$419,400",0-.25 Acres,6,0,0.9505,"$415,590.00",No,1,2,8,8,NA,Cary,NC,place
+-78.8589715769355,35.8185854684847,505 Commons Walk Circle,Carpenter Village,2726,2005,3,2,1,Detached,"$419,900","$420,000",0-.25 Acres,9,405,0.9845,"$415,234.00",No,1,2,1,1,NA,Cary,NC,place
+-78.7780323252145,35.7144524787664,117 Greymist Lane,Lochmere,3196,1992,4,2,1,Detached,"$424,000","$420,000",.26-.5 Acres,10,0,0.9505,"$421,075.00",No,1,2,57,57,NA,Cary,NC,place
+-78.8493956,35.7833988,426 Daylin Drive,Davis Square,2514,2016,3,3,1,Attached,"$429,000","$420,000",0-.25 Acres,7,0,0.968,"$80,000.00",No,1,2,48,12,NA,Cary,NC,highway
+-78.7762178358502,35.7184282786528,201 Piperwood Drive,Lochmere,2896,1990,4,2,1,Detached,"$429,000","$420,000",0-.25 Acres,10,702,0.9505,"$380,683.00",No,1,2,19,19,NA,Cary,NC,place
+-78.9191705591743,35.8095944550976,3125 Sentinel Ferry Lane,Weldon Ridge,3161,2009,4,3,1,Detached,"$429,900","$420,000",0-.25 Acres,11,0,0.82,"$422,887.00",No,1,2,63,63,NA,Cary,NC,place
+-78.791554,35.697764,1601 Lily Creek Drive,Stonebridge,3039,2010,5,3,0,Detached,"$435,000","$420,000",0-.25 Acres,11,0,0.9505,"$362,180.00",No,1,3,44,44,NA,Cary,NC,place
+-78.845929,35.829069,600 Sea Salt Court,Twin Lakes,3219,2007,4,2,1,Detached,"$419,900","$421,111",0-.25 Acres,8,0,0.9505,"$379,105.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8148044,35.812575,180 Wildfell Trail,The Creeks at Weston,3181,2016,4,3,1,Attached,"$419,900","$421,240",0-.25 Acres,11,3186,0.9854,$0.00,Yes,1,2,106,106,NA,Cary,NC,highway
+-78.9116481369545,35.833264601136,5033 Blue Jack Oak Drive,Amberly,3017,2013,4,3,0,Detached,"$424,900","$421,500",0-.25 Acres,10,90,0.9845,"$373,310.00",No,1,2,166,1,NA,Cary,NC,place
+-78.8473299106574,35.8292674038655,505 Tranquil Sound Drive,Twin Lakes,3553,2006,4,3,0,Detached,"$435,000","$422,500",0-.25 Acres,12,908,2.3e-4,"$409,176.00",No,1,2,5,5,NA,Cary,NC,place
+-78.8050127368131,35.8117934558315,305 Peachtree Point Court,Silverlake,3557,2001,4,3,1,Detached,"$425,000","$422,500",0-.25 Acres,9,0,1,"$420,068.00",No,1,2,121,121,NA,Cary,NC,place
+-78.8484881,35.7839789,212 Daymire Glen Lane,Davis Square,2516,2016,3,3,1,Attached,"$429,900","$423,000",0-.25 Acres,6,0,0.968,$0.00,Yes,1,2,49,49,NA,Cary,NC,highway
+-78.8210647050701,35.7914091,103 LeBlanc Court,Preston,3219,1994,4,2,1,Detached,"$439,900","$423,500",.26-.5 Acres,10,0,0.0095,"$442,634.00",No,1,2,175,106,NA,Cary,NC,building
+-78.9095099344835,35.8330457494521,3129 Bluff Oak Drive,Amberly,3083,2013,5,4,0,Detached,"$424,900","$424,000",0-.25 Acres,12,0,0.9845,"$394,956.00",No,1,2,61,61,NA,Cary,NC,place
+-78.9232352518499,35.823558,713 Toms Creek Road,Amberly,3136,2012,4,4,0,Detached,"$424,900","$424,900",0-.25 Acres,10,0,1.38,"$388,008.00",No,1,3,57,57,NA,Cary,NC,place
+-78.8099737026738,35.7246327625645,624 Angelica Circle,Regency,2202,2016,3,2,1,Detached,"$424,815","$424,940",0-.25 Acres,6,0,0.98,"$110,000.00",Yes,1,2,0,0,NA,Cary,NC,place
+-78.8393364331681,35.7876173297994,107 Stablegate Drive,Providence Commons,2535,1998,3,2,1,Detached,"$449,900","$425,000",.26-.5 Acres,14,0,1.024,"$3,187.00",No,1,2,49,49,NA,Cary,NC,place
+-78.9095299795918,35.8200526530612,704 Quartz Crystal Place,Blackstone at Amberly,2943,2007,5,2,1,Detached,"$431,990","$425,000",0-.25 Acres,14,0,0.987,"$395,298.00",No,1,2,54,11,NA,Cary,NC,place
+-78.8099732562713,35.7247224894593,614 Angelica Circle,Renaissance at Regency,2336,2016,3,2,1,Detached,"$429,040","$425,000",0-.25 Acres,7,0,0.9845,$0.00,Yes,1,2,97,97,NA,Cary,NC,place
+-78.782223,35.753054,101 Coventry Lane,Wimbledon,2970,1991,4,3,0,Detached,"$439,900","$425,000",.26-.5 Acres,10,0,0.092,"$319,015.00",No,1,2,36,36,NA,Cary,NC,place
+-78.9091936787997,35.8325041653748,4026 Overcup Oak Lane,Amberly,3127,2014,4,3,0,Detached,"$440,000","$425,000",0-.25 Acres,9,0,0.96,"$393,519.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8099730330701,35.7247673529068,609 Angelica Circle,Renaissance at Regency,2342,2016,3,2,1,Detached,"$439,915","$426,415",0-.25 Acres,8,0,0.9845,"$130,000.00",Yes,1,2,146,146,NA,Cary,NC,place
+-78.8151926453095,35.750532877955,223 Kilbreck Drive,Picardy Pointe,2845,1990,4,2,1,Detached,"$434,900","$426,900",.26-.5 Acres,9,0,0.9505,"$387,506.00",No,1,2,29,29,NA,Cary,NC,place
+-78.7987528803048,35.707439515283,112 Darby Gale Drive,Danbury,2945,2001,4,2,1,Detached,"$425,000","$427,000",.26-.5 Acres,10,600,0.9505,"$386,656.00",No,1,2,1,1,NA,Cary,NC,place
+-78.9209619,35.808484,3012 Sentinel Ferry Lane,Weldon Ridge,3095,2010,5,4,0,Detached,"$449,900","$427,500",0-.25 Acres,9,0,0.92,"$411,777.00",No,1,2,67,67,NA,Cary,NC,highway
+-78.8443081797783,35.8082981478177,207 SARAZEN MEADOW Way,Preston,2819,2000,4,2,1,Detached,"$444,900","$429,900",.26-.5 Acres,8,700,0.9865,"$467,938.00",No,1,2,105,105,NA,Cary,NC,place
+-78.8484881,35.7839789,223 Daymire Glen Lane,Davis Square,2516,2016,3,3,1,Attached,"$429,900","$429,900",0-.25 Acres,6,0,0.917,$0.00,Yes,1,2,1,1,NA,Cary,NC,highway
+-78.8113627088409,35.7216573881872,120 Kelekent Lane,Cambridge,3310,1998,4,3,1,Detached,"$430,000","$430,000",.26-.5 Acres,11,208,0.864,"$461,598.00",No,1,2,32,32,NA,Cary,NC,place
+-78.9050845510204,35.8305388571429,1211 Bluff Oak Drive,Amberly,2615,2008,4,3,1,Detached,"$429,900","$430,000",0-.25 Acres,8,0,0.9505,"$379,318.00",No,1,2,10,10,NA,Cary,NC,place
+-78.8770867814394,35.810970754971,3645 Manifest Place,The Oaks at Highcroft,3033,2014,5,4,0,Detached,"$445,000","$430,000",0-.25 Acres,10,0,0.96,"$388,111.00",No,1,2,105,9,NA,Cary,NC,place
+-78.8203121506479,35.79091355,209 Roebling Lane,Preston,2545,1995,4,2,1,Detached,"$439,999","$430,000",.26-.5 Acres,8,0,0.9845,"$358,780.00",No,1,2,33,33,NA,Cary,NC,building
+-78.8209401609359,35.7961801545282,307 Promontory Point Drive,Preston,4153,1993,5,3,1,Detached,"$430,000","$430,000",.26-.5 Acres,15,0,0.928,"$503,059.00",No,2,2,395,395,NA,Cary,NC,place
+-78.7733823417957,35.7149997072755,107 Bonniewood Drive,Lochmere Highlands West,3271,1992,4,2,1,Detached,"$445,000","$430,000",.26-.5 Acres,11,0,0.9505,"$435,646.00",No,1,2,3,3,NA,Cary,NC,place
+-78.7768264095785,35.7609034411003,115 Overview Lane,Kildaire Farms,3039,1979,4,4,2,Detached,"$400,000","$430,000",.26-.5 Acres,9,0,0.9505,"$372,962.00",No,1,2,6,6,NA,Cary,NC,place
+-78.7476924145569,35.7351435743322,102 St Lenville Drive,Camden Forest,3266,1996,4,3,1,Detached,"$435,000","$430,500",.26-.5 Acres,10,0,0.95,"$405,688.00",No,1,2,24,24,NA,Cary,NC,place
+-78.9096604489796,35.8200776326531,710 Quartz Crystal Place,Blackstone at Amberly,3002,2006,5,3,0,Detached,"$444,900","$432,000",0-.25 Acres,11,0,0.9845,"$378,638.00",No,1,2,19,19,NA,Cary,NC,place
+-78.7502863323796,35.7988316997287,203 Sacred Woods Way,Trinity Grove,3338,2006,4,3,0,Detached,"$434,900","$432,900",0-.25 Acres,12,0,0.9505,"$453,430.00",No,1,2,10,10,NA,Cary,NC,place
+-78.792417594977,35.8257837025115,407 Braswell Brook Court,Bexley at Weston,3079,2006,4,2,1,Detached,"$437,990","$433,000",0-.25 Acres,10,0,0.9505,"$439,388.00",No,1,2,34,34,NA,Cary,NC,place
+-78.782273,35.71826,400 Crickentree Drive,Lochmere,3069,1995,4,2,1,Detached,"$435,000","$434,000",0-.25 Acres,9,912,0.865,"$402,083.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8066050548949,35.7265884582824,1326 English Cottage Lane,Renaissance at Regency,2730,2016,4,2,1,Detached,"$445,000","$435,000",0-.25 Acres,10,0,0.95,"$369,638.00",Yes,1,2,68,68,NA,Cary,NC,place
+-78.7906548425806,35.7402686411743,413 Glasgow Road,MacGregor Downs,2673,1972,4,3,0,Detached,"$435,000","$435,000",.76-.99 Acres,12,0,0.9845,"$370,287.00",No,2,2,53,53,NA,Cary,NC,place
+-78.7967508846212,35.8198540714178,209 Battery Point Place,Weston Pointe,2935,1994,4,2,1,Detached,"$434,900","$435,000",.26-.5 Acres,9,0,0.9845,"$359,777.00",No,1,2,1,1,NA,Cary,NC,place
+-78.8621446,35.78215475,100 Willenhall Court,Wellsley,3053,1996,5,2,1,Detached,"$445,000","$435,000",.26-.5 Acres,12,240,0.95,"$403,909.00",No,1,2,93,93,NA,Cary,NC,building
+-78.9108238612707,35.8322675015039,4119 Bluff Oak Drive,Amberly,3080,2013,4,4,1,Detached,"$430,000","$435,000",0-.25 Acres,10,0,0.96,"$414,983.00",No,1,2,3,3,NA,Cary,NC,place
+-78.79091,35.821058,101 Smiths Knoll Court,Weston Pointe,2800,1999,4,2,1,Detached,"$431,900","$436,900",.26-.5 Acres,10,0,0.9505,"$390,317.00",No,2,2,126,85,NA,Cary,NC,place
+-78.8054403041416,35.744577068419,903 Queensferry Road,MacGregor Downs,2639,1976,4,2,1,Detached,"$415,000","$437,000",.51-.75 Acres,9,0,0.9505,"$430,000.00",No,1,2,6,6,NA,Cary,NC,place
+-78.8209100536453,35.7961607181761,303 Promontory Point Drive,Preston,2659,1993,3,2,1,Detached,"$439,900","$437,900",.26-.5 Acres,11,0,0.955,"$408,574.00",No,1,2,62,62,NA,Cary,NC,place
+-78.7760942258553,35.8000760111533,1219 Belhaven Road,Northwoods Mews,2615,2016,4,2,1,Detached,"$438,000","$438,000",0-.25 Acres,9,0,1.18,$0.00,Yes,1,2,46,46,NA,Cary,NC,place
+-78.9232628244428,35.8300509100386,212 Beckingham Loop,Carolina Preserve,2502,2007,3,2,0,Detached,"$465,000","$438,000",0-.25 Acres,9,0,0.932,"$351,239.00",No,1,2,61,61,NA,Cary,NC,place
+-78.8010469602384,35.6965233624315,303 Millsford Hill Place,Windermere,4003,2001,4,3,1,Detached,"$440,000","$438,000",.26-.5 Acres,10,0,0.928,"$442,746.00",No,1,3,70,32,NA,Cary,NC,place
+-78.8148044,35.812575,184 Wildfell Trail,The Creeks at Weston,3183,2016,4,3,1,Attached,"$436,696","$438,726",0-.25 Acres,11,3186,0.9845,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.86464315,35.78595965,102 Rowley Court,Wellsley,2754,1994,4,2,1,Detached,"$441,900","$440,000",.26-.5 Acres,10,532,0.951,"$371,861.00",No,1,2,3,3,NA,Cary,NC,building
+-78.7926626349922,35.7034911075004,106 Sonoma Valley Drive,deVintage,2861,2007,4,3,0,Detached,"$455,000","$440,000",0-.25 Acres,9,0,0.98,"$422,200.00",No,1,2,143,143,NA,Cary,NC,place
+-78.919486447093007,35.8207200760369,124 Painted Turtle Lane,Amberly,2995,2007,5,4,0,Detached,"$450,000","$440,000",0-.25 Acres,9,0,0.98,"$398,928.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9058169149821,35.8329948063008,2143 Bluff Oak Drive,Amberly,2788,2013,4,3,0,Detached,"$445,000","$440,000",0-.25 Acres,9,0,0.9845,"$380,863.00",No,1,2,51,51,NA,Cary,NC,place
+-78.844896,35.797108,125 Council Gap Court,Preston,2659,1998,4,2,1,Detached,"$439,900","$440,000",.26-.5 Acres,9,40,0.9845,"$357,854.00",No,1,2,0,0,NA,Cary,NC,place
+-78.7631558097453,35.749585904494,106 Flemington Court,Lake Wellingborough,3174,1990,4,3,0,Detached,"$450,000","$440,000",.26-.5 Acres,10,0,0.9505,"$363,033.00",No,2,2,144,26,NA,Cary,NC,place
+-78.8552627584563,35.7683807,201 Montford Hall Court,Tatton Place,3054,1996,4,2,1,Detached,"$439,900","$444,000",.26-.5 Acres,10,200,0.9845,"$438,313.00",No,1,3,60,60,NA,Cary,NC,building
+-78.8037222012791,35.6962035570743,308 Southmoor Oaks Court,Windermere,3761,2003,5,4,0,Detached,"$464,900","$445,000",.26-.5 Acres,11,550,0.928,"$441,519.00",No,1,3,216,216,NA,Cary,NC,place
+-78.7962089283678,35.7538579470543,110 Bruce Drive,MacGregor Downs,3276,1974,4,2,2,Detached,"$459,500","$445,000",.51-.75 Acres,10,0,0.94,"$471,164.00",No,1,4,35,35,NA,Cary,NC,place
+-78.8823367689465,35.77304555,407 Amiable Loop,Harmony,2927,2007,4,3,1,Detached,"$469,900","$445,000",.26-.5 Acres,11,481,0.9845,"$486,953.00",No,1,2,17,17,NA,Cary,NC,building
+-78.8818398252719,35.7737994,414 Amiable Loop,Harmony,3009,2007,5,3,0,Detached,"$464,900","$445,000",0-.25 Acres,10,0,1.02,"$415,439.00",No,1,2,15,15,NA,Cary,NC,building
+-78.8099735241128,35.7246686533224,620 Angelica Circle,Regency,2621,2016,3,3,1,Detached,"$448,690","$448,690",0-.25 Acres,7,0,0.98,"$110,000.00",Yes,1,2,0,0,NA,Cary,NC,place
+-78.8099733455518,35.7247045440804,616 Angelica Circle,Renaissance at Regency,2624,2016,3,3,1,Detached,"$449,490","$449,290",0-.25 Acres,8,0,0.9845,"$130,000.00",Yes,1,2,89,89,NA,Cary,NC,place
+-78.7491133478452,35.7730827639779,1015 Manchester Drive,Walnut Hills,4057,1971,6,4,1,Detached,"$449,900","$449,900",.51-.75 Acres,15,629,0.96,"$332,405.00",No,1,0,16,16,NA,Cary,NC,place
+-78.7997663933577,35.6949041144212,104 Morganford Place,Windermere,3556,2001,5,4,0,Detached,"$459,900","$450,000",.26-.5 Acres,11,130,0.9505,"$448,307.00",No,1,2,79,79,NA,Cary,NC,place
+-78.8484881,35.7839789,208 Daymire Glen Lane,Davis Square,2518,2016,3,3,1,Attached,"$470,600","$450,340",0-.25 Acres,9,0,0.968,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8099734348323,35.7246865987014,618 Angelica Circle,Regency,2444,2016,4,2,1,Detached,"$465,840","$450,840",0-.25 Acres,8,0,0.98,$0.00,Yes,1,2,16,16,NA,Cary,NC,place
+-78.8794085765405,35.810916239755,3528 Manifest Place,The Oaks at Highcroft,3058,2013,4,3,1,Detached,"$459,500","$451,000",0-.25 Acres,11,449,0.99,"$357,528.00",No,1,2,22,22,NA,Cary,NC,place
+-78.9104408447865,35.8211979136144,205 Slate Blue Place,Blackstone at Amberly,2943,2006,5,3,1,Detached,"$460,000","$452,000",0-.25 Acres,9,1467,0.95,"$426,557.00",No,1,2,66,66,NA,Cary,NC,place
+-78.8412972904808,35.8036566013024,212 Preston Pines Drive,Preston,2714,1992,3,3,1,Detached,"$469,900","$452,500",.26-.5 Acres,10,416,0.9845,"$422,242.00",No,1,2,24,24,NA,Cary,NC,place
+-78.911335,35.805867,201 Powers Ferry Road,Weldon Ridge,3341,2007,4,2,1,Detached,"$464,900","$452,500",0-.25 Acres,7,0,0.9845,"$420,753.00",No,1,2,15,15,NA,Cary,NC,place
+-78.8843910948326,35.80443375,224 Candia Lane,Highcroft,2907,2003,4,3,1,Detached,"$459,000","$453,000",0-.25 Acres,10,420,0.989,"$418,680.00",No,1,2,50,0,NA,Cary,NC,building
+-78.904086,35.849354,520 Sandy Whispers Place,Stonewater,3269,2009,5,4,0,Detached,"$469,900","$455,000",0-.25 Acres,11,0,0.9845,"$423,114.00",No,1,2,35,35,NA,Cary,NC,place
+-78.8652306,35.7824747,121 Barriedale Circle,Wellsley,2957,1995,4,2,1,Detached,"$474,900","$455,000",.26-.5 Acres,12,0,0.9845,"$385,410.00",No,1,2,37,37,NA,Cary,NC,building
+-78.789564,35.6994355,8409 Rosiere Drive,Kildaire Crossing,2882,2016,4,2,1,Detached,"$459,999","$455,200",0-.25 Acres,9,0,0.985,$0.00,Yes,1,2,35,35,NA,Cary,NC,highway
+-78.790809,35.824904,301 Juliet Circle,Bexley at Weston,3098,2006,4,3,0,Detached,"$459,900","$455,900",0-.25 Acres,11,0,0.9505,"$431,667.00",No,1,2,13,5,NA,Cary,NC,place
+-78.770331,35.734228,101 Loch Haven Lane,Lochmere,3201,1985,5,2,1,Detached,"$459,900","$456,000",.51-.75 Acres,10,350,0.9505,"$429,229.00",No,1,2,5,5,NA,Cary,NC,place
+-78.815004,35.750686,209 Kilbreck Drive,Picardy Pointe,3031,1990,4,2,1,Detached,"$464,900","$457,000",.26-.5 Acres,9,400,0.884,"$398,934.00",No,1,2,45,45,NA,Cary,NC,place
+-78.8632178437739,35.8194462777946,133 Barclay Valley Drive,Carpenter Village,2927,2001,4,2,1,Detached,"$459,900","$457,900",0-.25 Acres,11,683,0.9505,"$424,686.00",No,1,2,85,5,NA,Cary,NC,place
+-78.7727262353176,35.8181115616705,106 Livingstone Drive,Harrison Place,3349,1994,4,3,1,Detached,"$479,900","$460,000",.51-.75 Acres,10,0,1.013,"$468,558.00",No,1,2,196,196,NA,Cary,NC,place
+-78.91629,35.8363213846154,933 Gillinder Place,Carolina Preserve,2548,2009,3,3,0,Detached,"$449,900","$460,000",0-.25 Acres,10,0,0.99,"$381,987.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8816266526652,35.77298255,402 Amiable Loop,Harmony,2978,2007,4,3,1,Detached,"$469,900","$460,000",.26-.5 Acres,10,0,0.9505,"$432,416.00",No,1,2,5,5,NA,Cary,NC,building
+-78.8458891831836,35.8293842796004,720 Pierside Drive,Twin Lakes,4083,2008,5,4,0,Detached,"$474,900","$461,000",0-.25 Acres,10,0,0.9505,"$423,753.00",No,1,2,10,10,NA,Cary,NC,place
+-78.8414067694995,35.8035035576061,209 Preston Pines Drive,Preston,3149,1993,4,3,1,Detached,"$464,900","$461,500",0-.25 Acres,11,490,0.9845,"$439,191.00",No,1,2,98,98,NA,Cary,NC,place
+-78.7772050119087,35.8003557203626,1211 Belhaven Road,Northwoods Mews,2578,2016,4,3,0,Detached,"$440,000","$462,000",0-.25 Acres,9,0,1.18,$0.00,Yes,1,2,29,29,NA,Cary,NC,place
+-78.8099738812348,35.7245968718066,628 Angelica Circle,Regency,2570,2016,3,2,1,Detached,"$464,090","$462,590",0-.25 Acres,7,0,0.98,"$110,000.00",Yes,1,2,0,0,NA,Cary,NC,place
+-78.8969242,35.8008702,1013 Riggins Mill Road,Hilliard Forest,3426,2012,5,2,1,Detached,"$464,900","$464,000",.26-.5 Acres,11,0,0.928,"$456,678.00",No,1,2,199,199,NA,Cary,NC,highway
+-78.8900178921997,35.82471185576,2819 Cameron Pond Drive,Cameron Pond,2867,2008,4,4,0,Detached,"$464,000","$464,000",0-.25 Acres,9,417,1,"$425,863.00",No,1,2,195,195,NA,Cary,NC,place
+-78.9051155559519,35.8284562539024,814 Water Hickory Drive,Amberly,3270,2007,4,4,1,Detached,"$475,000","$465,000",0-.25 Acres,8,0,0.9505,"$426,464.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8634711778932,35.7780776,126 Barnes Spring Court,Wellsley,2855,1997,4,3,1,Detached,"$474,900","$465,000",.26-.5 Acres,8,52,0.9845,"$380,527.00",No,1,2,24,24,NA,Cary,NC,building
+-78.8827660958514,35.8023875,505 Chandler Grant Drive,Highcroft,3165,2006,4,4,0,Detached,"$475,000","$465,000",0-.25 Acres,9,0,0.95,"$439,000.00",No,1,2,18,18,NA,Cary,NC,building
+-78.9063546815483,35.8462513519354,208 Clear River Place,Stonewater,3377,2010,5,4,0,Detached,"$475,000","$465,500",0-.25 Acres,13,0,0.9845,"$419,477.00",No,1,2,14,14,NA,Cary,NC,place
+-78.8461246077464,35.829354053377,717 Pierside Drive,Twin Lakes,3947,2007,4,3,1,Detached,"$479,900","$466,000",0-.25 Acres,12,850,0.9845,"$416,109.00",No,1,2,7,7,NA,Cary,NC,place
+-78.9121143921193,35.833256200142,5005 Blue Jack Oak Drive,Amberly,3532,2014,5,4,0,Detached,"$484,499","$467,000",0-.25 Acres,10,0,0.9845,"$443,652.00",No,1,2,54,54,NA,Cary,NC,place
+-78.9069048494162,35.846467779632,109 Hidden Quail Court,Stonewater,3380,2009,5,4,0,Detached,"$469,900","$468,000",0-.25 Acres,11,0,0.9505,"$419,124.00",No,1,2,2,2,NA,Cary,NC,place
+-78.7739231088699,35.7458370881821,204 Larkwood Lane,Summerwinds,3538,1984,4,2,1,Detached,"$475,000","$468,350",1-2.9 Acres,12,1059,0.9845,"$445,907.00",No,2,2,0,0,NA,Cary,NC,place
+-78.8641187,35.7792104,206 Wittenham Drive,Wellsley,3028,1996,5,3,1,Detached,"$465,000","$470,000",.26-.5 Acres,10,191,0.96,"$401,012.00",No,1,2,4,4,NA,Cary,NC,building
+-78.8635882879786,35.78262485,505 Cranborne Lane,Wellsley,3313,1997,4,3,0,Detached,"$489,900","$470,000",.26-.5 Acres,12,112,0.951,"$428,740.00",No,1,2,47,47,NA,Cary,NC,building
+-78.7898045233022,35.8069602003099,315 Evans Estates Drive,Evans Estates,4199,2002,4,3,1,Detached,"$479,900","$470,000",0-.25 Acres,15,152,0.985,"$463,695.00",No,1,2,103,103,NA,Cary,NC,place
+-78.7595920744225,35.7147519255775,3516 Pinnacle Drive,Hermitage,3552,1989,4,2,1,Detached,"$495,000","$470,000",.76-.99 Acres,11,0,0.6965,"$480,654.00",No,1,2,43,43,NA,Cary,NC,place
+-78.904603945788,35.8292470659628,7531 McCrimmon Parkway,Amberly,3550,2007,4,3,1,Detached,"$480,000","$472,000",0-.25 Acres,11,327,0.9505,"$438,546.00",No,1,2,152,152,NA,Cary,NC,place
+-78.9205693265306,35.8270248571429,104 Repton Court,Carolina Preserve,2320,2006,3,2,0,Detached,"$469,900","$472,000",0-.25 Acres,8,0,0.991,"$353,066.00",No,1,2,2,2,NA,Cary,NC,place
+-78.88985,35.823715,309 Russo Valley Drive,Cameron Pond,3063,2011,5,3,0,Detached,"$480,000","$472,000",0-.25 Acres,10,300,0.95506,"$438,503.00",No,1,2,73,73,NA,Cary,NC,place
+-78.7761757472835,35.8000800373642,1215 Belhaven Road,Northwoods Mews,2775,2016,4,3,0,Detached,"$475,000","$473,010",0-.25 Acres,8,373,0.9505,$0.00,Yes,1,2,152,152,NA,Cary,NC,place
+-78.823017793386,35.7940475354934,109 High Country Drive,Preston,3257,1988,4,3,1,Detached,"$490,000","$475,000",0-.25 Acres,10,0,0.955,"$400,508.00",No,1,2,9,9,NA,Cary,NC,place
+-78.8120341929117,35.721997391751,113 Poppleford Place,Cambridge,3970,2000,5,3,1,Detached,"$495,000","$475,000",.26-.5 Acres,12,156,0.9845,"$486,928.00",No,1,2,136,136,NA,Cary,NC,place
+-78.878941,35.8062291825412,3145 Misty Rise Drive,The Oaks at Highcroft,3553,2014,4,2,1,Detached,"$500,000","$475,000",0-.25 Acres,11,0,0.92,"$461,785.00",No,1,2,29,29,NA,Cary,NC,place
+-78.8630021683872,35.8210285272844,1111 Carpenter Town Lane,Carpenter Village,3052,2002,4,2,1,Detached,"$473,900","$475,900",0-.25 Acres,9,0,0.9845,"$439,856.00",No,1,2,7,7,NA,Cary,NC,place
+-78.922925,35.832294,274 Beckingham Loop,Carolina Preserve,2438,2008,3,2,1,Detached,"$500,000","$480,000",0-.25 Acres,8,308,0.99,"$347,698.00",No,1,2,65,65,NA,Cary,NC,place
+-78.848110784814,35.8297847826623,526 Tranquil Sound Drive,Twin Lakes,4012,2007,5,4,0,Detached,"$489,500","$480,000",0-.25 Acres,13,0,0.96,"$415,690.00",No,1,2,19,19,NA,Cary,NC,place
+-78.7789649716068,35.7172958993747,230 Winding Ridge Drive,Hemlock Ridge,4242,1983,4,4,1,Detached,"$499,000","$480,000",1-2.9 Acres,11,0,0.6005,"$385,616.00",No,1,2,24,24,NA,Cary,NC,place
+-78.8862307458976,35.8028962,5300 Highcroft Drive,Highcroft,3143,2003,4,3,1,Detached,"$475,000","$480,500",0-.25 Acres,10,860,0.9845,"$496,253.00",No,1,2,114,30,NA,Cary,NC,building
+-78.9095956530612,35.8092487755102,1012 Grogans Mill Drive,Cary Park,3801,2004,5,3,1,Detached,"$494,000","$482,000",0-.25 Acres,12,0,0.99,"$467,449.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8912893885061,35.8239735097634,2605 Cameron Pond Drive,Cameron Pond,3700,2006,4,3,0,Detached,"$489,000","$484,000",0-.25 Acres,10,0,0.98,"$481,742.00",No,1,2,56,56,NA,Cary,NC,place
+-78.8844669462291,35.80201375,416 Chandler Grant Drive,Highcroft,3182,2006,4,4,0,Detached,"$479,000","$484,000",0-.25 Acres,10,0,0.989,"$436,418.00",No,1,2,2,2,NA,Cary,NC,building
+-78.8082439972242,35.7150627272508,209 Killingsworth Drive,Cambridge,3426,1995,4,3,1,Detached,"$498,000","$484,645",.51-.75 Acres,9,373,0.9845,"$414,634.00",No,2,2,29,29,NA,Cary,NC,place
+-78.9075871673393,35.8325463167339,3928 Overcup Oak Lane,Amberly,3637,2013,5,4,0,Detached,"$499,900","$489,000",0-.25 Acres,10,0,0.9505,"$436,041.00",No,1,2,41,41,NA,Cary,NC,place
+-78.8643926705593,35.78655405,120 Tutbury Place,Wellsley,3110,1994,4,2,1,Detached,"$489,900","$489,900",.26-.5 Acres,11,278,0.9505,"$415,427.00",No,1,2,3,3,NA,Cary,NC,building
+-78.9210245102041,35.8365715102041,308 Treborman Court,Carolina Preserve,2919,2011,3,3,1,Detached,"$495,000","$490,000",0-.25 Acres,9,0,0.9838,"$420,233.00",No,1,2,52,52,NA,Cary,NC,place
+-78.9086204693877,35.8039292653061,705 Sumter Court,Greystone,3513,2012,5,3,0,Detached,"$498,500","$491,500",0-.25 Acres,11,0,0.989,"$458,312.00",No,1,2,83,54,NA,Cary,NC,place
+-78.777194803192,35.8003543379323,1213 Belhaven Road,Northwoods Mews,3045,2016,4,4,0,Detached,"$491,650","$491,650",0-.25 Acres,10,350,1.18,$0.00,Yes,2,2,3,3,NA,Cary,NC,place
+-78.7983468890299,35.740022292018,1206 Queensferry Road,MacGregor Downs,3965,1987,5,4,0,Detached,"$499,000","$492,000",1-2.9 Acres,10,0,0.9845,"$496,989.00",No,1,2,15,15,NA,Cary,NC,place
+-78.7762980257185,35.8000861512859,1209 Belhaven Road,Northwoods Mews,2896,2016,4,3,1,Detached,"$492,000","$492,000",0-.25 Acres,9,0,1.18,$0.00,Yes,1,2,29,7,NA,Cary,NC,place
+-78.9069522290734,35.8481402584443,929 River Song Place,Stonewater,3467,2010,5,4,0,Detached,"$509,000","$492,000",.26-.5 Acres,11,1545,0.9845,"$450,342.00",No,1,2,30,30,NA,Cary,NC,place
+-78.9100764372947,35.8035643740416,425 Powers Ferry Road,Greystone,3557,2012,5,3,0,Detached,"$499,000","$495,000",0-.25 Acres,10,0,0.9505,"$448,706.00",No,1,2,54,54,NA,Cary,NC,place
+-78.9065064332608,35.8324340433261,3914 Overcup Oak Lane,Amberly,3595,2014,4,4,0,Detached,"$510,000","$496,000",0-.25 Acres,10,0,0.9505,"$440,487.00",No,1,2,61,61,NA,Cary,NC,place
+-78.8838355,35.8071808,5013 Trembath Lane,Fryars Gate,3270,2016,5,4,0,Detached,"$497,945","$499,500",0-.25 Acres,10,0,0.94,"$536,990.00",Yes,1,2,60,60,NA,Cary,NC,highway
+-78.7633387421978,35.724432646682,102 Whisperwood Drive,Lochmere,4024,1991,4,3,1,Detached,"$515,000","$500,000",.51-.75 Acres,10,0,0.928,"$553,377.00",No,1,2,210,210,NA,Cary,NC,place
+-78.8540021027668,35.76875295,110 Heck Andrews Way,Tatton Place,3728,1998,4,3,1,Detached,"$520,000","$500,000",.51-.75 Acres,12,1816,0.95,"$442,531.00",No,1,2,64,64,NA,Cary,NC,building
+-78.8149478571429,35.7509795306122,103 Highloch Court,Picardy Pointe,3007,1991,4,2,1,Detached,"$475,000","$500,000",.26-.5 Acres,11,1280,0.9505,"$420,507.00",No,1,2,3,3,NA,Cary,NC,place
+-78.9113808431757,35.8126023401126,905 Grogans Mill Drive,Cary Park,4166,2004,5,3,1,Detached,"$500,000","$504,500",.26-.5 Acres,11,0,0.98,"$487,709.00",No,1,2,2,2,NA,Cary,NC,place
+-78.7967328466615,35.8111927034719,824 Laurel Garden Way,Wedgewood,3245,2013,4,3,1,Detached,"$525,000","$505,000",0-.25 Acres,11,309,0.9505,"$455,132.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8838355,35.8071808,5009 Trembath Lane,Fryars Gate,3704,2014,4,3,1,Detached,"$517,640","$505,000",0-.25 Acres,9,0,0.98,"$475,606.00",Yes,1,3,1,1,NA,Cary,NC,highway
+-78.9060636530586,35.8308249770201,3021 Bear Oak Lane,Amberly,3886,2008,4,4,1,Detached,"$519,900","$510,000",0-.25 Acres,11,327,0.9845,"$426,184.00",No,1,2,106,106,NA,Cary,NC,place
+-78.861454458737,35.79232,109 Myers Farm Court,Berkeley,3946,1999,5,3,0,Detached,"$525,000","$510,000",.26-.5 Acres,12,520,0.9505,"$418,773.00",No,1,2,94,94,NA,Cary,NC,building
+-78.8812692,35.8020259,969 Lemster Lane,Oaks at Sears Farm,3159,2016,5,4,1,Detached,"$507,772","$511,093",0-.25 Acres,11,0,0.984,$0.00,Yes,1,2,71,71,NA,Cary,NC,highway
+-78.7823028798307,35.7184329936352,409 Crickentree Drive,Lochmere,4528,1996,6,4,1,Detached,"$515,000","$513,000",.26-.5 Acres,15,387,0.95,"$473,962.00",No,3,2,2,2,NA,Cary,NC,place
+-78.760456,35.738782,101 Fox Briar Lane,Lochmere,3679,1993,4,3,1,Detached,"$520,000","$514,000",.51-.75 Acres,10,256,0.9549,"$452,317.00",No,1,2,13,13,NA,Cary,NC,place
+-78.827646,35.7936620588323,108 Flying Hills Circle,Preston,3022,1992,4,3,0,Detached,"$539,900","$517,500",.51-.75 Acres,9,0,0.9505,"$687,986.00",No,1,2,8,8,NA,Cary,NC,place
+-78.9066676867733,35.8454517039334,817 River Song Place,Stonewater,4197,2008,5,4,0,Detached,"$540,000","$520,000",0-.25 Acres,13,62,0.9845,"$477,407.00",No,1,2,313,257,NA,Cary,NC,place
+-78.9149478854876,35.813663797287,122 Brookbank Hill Place,Cary Park,4265,2005,5,4,1,Detached,"$537,900","$520,000",0-.25 Acres,12,0,0.95,"$515,570.00",No,1,2,29,29,NA,Cary,NC,place
+-78.7623574758764,35.7337159102256,306 Lochside Drive,Lochmere,3398,1988,4,3,1,Detached,"$520,000","$520,000",.26-.5 Acres,10,0,0.9845,"$456,248.00",No,1,2,2,2,NA,Cary,NC,place
+-78.869355,35.818789,607 April Bloom Lane,Olde Carpenter,4238,2007,5,4,1,Detached,"$550,000","$520,000",0-.25 Acres,10,0,0.9845,"$621,595.00",No,1,2,10,10,NA,Cary,NC,place
+-78.9057041382046,35.8296350598486,7554 McCrimmon Parkway,Amberly,3691,2007,4,3,1,Attached,"$535,000","$521,500",0-.25 Acres,9,84,0.9845,"$483,380.00",No,2,3,43,43,NA,Cary,NC,place
+-78.8093198,35.7722466,224 Oakmere Drive,The Estates at Young Landing,3123,2016,5,2,1,Detached,"$522,400","$522,400",0-.25 Acres,10,0,0.98,$0.00,Yes,1,2,26,26,NA,Cary,NC,highway
+-78.8000508979592,35.7001016326531,302 Allenhurst Place,Windermere,4605,2005,6,5,0,Detached,"$534,800","$534,800",.26-.5 Acres,11,0,1.14,"$509,376.00",No,1,3,161,161,NA,Cary,NC,place
+-78.8013677068354,35.750022731173,604 Queensferry Road,MacGregor Downs,4271,1976,3,2,2,Detached,"$550,000","$535,000",.76-.99 Acres,9,0,0.9505,"$441,905.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9030478115235,35.8390510072893,612 Rye Ridge Road,Hortons Creek,3291,2011,5,4,0,Detached,"$550,000","$535,000",0-.25 Acres,10,968,0.9505,"$490,982.00",No,1,2,17,17,NA,Cary,NC,place
+-78.8899881755235,35.8199898819645,302 Beacon Falls Court,Cameron Pond,3321,2006,4,3,1,Detached,"$539,500","$535,600",0-.25 Acres,10,735,0.9505,"$581,412.00",No,1,2,8,8,NA,Cary,NC,place
+-78.763185337516,35.723807868886,213 Whisperwood Drive,Lochmere,3399,1992,4,2,1,Detached,"$539,900","$536,000",.26-.5 Acres,10,600,0.9505,"$531,452.00",No,1,3,3,3,NA,Cary,NC,place
+-78.7894228545115,35.7039999703114,313 Mt Eden Place,deVintage,3105,2009,4,3,0,Detached,"$549,900","$540,000",0-.25 Acres,9,492,0.9845,"$507,807.00",No,1,2,22,22,NA,Cary,NC,place
+-78.8015385375709,35.7409404690488,1119 Queensferry Road,MacGregor Downs,2926,1979,3,2,1,Detached,"$575,000","$540,000",.76-.99 Acres,10,0,0.9505,"$445,480.00",No,1,0,40,40,NA,Cary,NC,place
+-78.9053135450889,35.8293795358082,7545 McCrimmon Parkway,Amberly,4021,2006,5,4,1,Detached,"$568,888","$545,000",0-.25 Acres,11,250,0.9845,"$448,990.00",No,1,2,66,66,NA,Cary,NC,place
+-78.8633024952128,35.7941967,410 Sir Walker Lane,Hadley Place,3278,2006,5,4,0,Detached,"$545,000","$545,000",.26-.5 Acres,11,918,0.97,"$500,778.00",No,1,3,3,3,NA,Cary,NC,building
+-78.9128526425934,35.8305366484663,102 Arvind Oaks Circle,Carolina Preserve,4331,2006,4,4,1,Detached,"$549,900","$546,000",0-.25 Acres,11,611,0.9845,"$552,081.00",No,1,2,86,86,NA,Cary,NC,place
+-78.9241251,35.8194649,1120 Queensdale Drive,Amberly,3256,2016,5,4,0,Detached,"$549,990","$549,990",.26-.5 Acres,11,0,0.98,$0.00,Yes,1,3,180,19,NA,Cary,NC,highway
+-78.8333498,35.7671095,128 Brushy Lake Drive,The Estates at Westhigh,3595,2015,5,4,1,Detached,"$569,900","$550,000",0-.25 Acres,12,0,0.9845,"$530,119.00",No,1,2,257,62,NA,Cary,NC,highway
+-78.79792,35.742113,200 Edinburgh Drive,MacGregor Downs,4888,1985,4,3,1,Attached,"$650,000","$550,000",0-.25 Acres,10,0,0.9845,"$680,817.00",No,2,2,319,144,NA,Cary,NC,place
+-78.86767235,35.7936813,103 Ticonderoga Road,Somerset,3504,1998,4,3,1,Detached,"$558,000","$552,000",.26-.5 Acres,14,0,0.95,"$467,984.00",No,1,2,156,131,NA,Cary,NC,building
+-78.9241251,35.8194649,1112 Queensdale Drive,Amberly,3480,2016,5,4,0,Detached,"$564,990","$554,000",.26-.5 Acres,10,0,0.98,"$616,958.00",Yes,1,3,110,110,NA,Cary,NC,highway
+-78.8537652085575,35.7928488600235,525 Hickorywood Boulevard,Riggsbee Farm,3799,2002,5,4,0,Detached,"$565,900","$555,000",.26-.5 Acres,11,0,0.9845,"$502,654.00",No,1,2,32,32,NA,Cary,NC,place
+-78.8142150666617,35.7472720579743,407 Versailles Drive,MacGregor West,3622,1993,4,3,1,Detached,"$575,000","$555,000",.26-.5 Acres,10,0,0.9505,"$584,481.00",No,1,2,51,51,NA,Cary,NC,place
+-78.7895907179736,35.7987243807932,114 Buckhurst Drive,Buckhurst West,3399,2003,4,3,2,Detached,"$550,000","$556,000",.26-.5 Acres,10,0,0.9505,"$523,984.00",No,1,2,2,2,NA,Cary,NC,place
+-78.8994318,35.7902928,328 Karpen Lane,Toscana,4006,2012,4,3,1,Detached,"$575,000","$559,000",.26-.5 Acres,11,0,0.9845,"$539,091.00",No,1,3,39,39,NA,Cary,NC,building
+-78.790826105833,35.7264022431994,211 Lions Gate Drive,Lions Gate at Regency Park,3673,2004,4,4,1,Attached,"$565,000","$560,000",0-.25 Acres,11,0,0.984,"$517,710.00",No,1,2,171,171,NA,Cary,NC,place
+-78.8560727142857,35.8115712040816,102 Considine Court,Preston Village,3204,1998,5,4,0,Detached,"$560,000","$560,000",.26-.5 Acres,12,1585,0.989,"$602,312.00",No,1,2,0,0,NA,Cary,NC,place
+-78.799648,35.695202,301 Wayfield Lane,Windermere,5426,2001,6,5,0,Detached,"$564,000","$564,000",.51-.75 Acres,19,210,0.9845,"$498,583.00",No,1,3,71,71,NA,Cary,NC,place
+-78.7835250816327,35.8276132040816,104 Whittshire Court,Wessex,3161,1994,4,2,1,Detached,"$559,900","$565,000",.51-.75 Acres,9,2265,0.9505,"$554,970.00",No,1,2,4,4,NA,Cary,NC,place
+-78.8161905399951,35.7869677759389,307 Belrose Drive,Highland Oaks,3698,2007,5,4,1,Detached,"$572,000","$565,000",0-.25 Acres,10,150,0.884,"$555,590.00",No,2,2,9,9,NA,Cary,NC,place
+-78.7701645367763,35.729866069923,105 Echowood Lane,Lochmere,3849,1985,4,3,1,Detached,"$565,000","$565,000",.51-.75 Acres,11,0,0.9505,"$480,631.00",No,1,2,8,8,NA,Cary,NC,place
+-78.789564,35.6994355,8308 Rosiere Drive,Kildaire Crossing,2902,2016,4,3,1,Detached,"$567,175","$567,175",0-.25 Acres,10,0,0.928,"$470,000.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.800757244898,35.695541244898,504 Allenhurst Place,Windermere,4489,2001,5,5,1,Detached,"$574,000","$567,500",.26-.5 Acres,14,0,0.98,"$528,204.00",No,1,3,48,48,NA,Cary,NC,place
+-78.8549130816326,35.7940134693877,102 Marble Falls Way,Riggsbee Farm,3781,1999,4,3,1,Detached,"$575,000","$570,000",.26-.5 Acres,10,0,0.9845,"$516,099.00",No,1,2,28,28,NA,Cary,NC,place
+-78.836334,35.789526,100 N Coslett Court,Preston,3133,1995,5,2,1,Detached,"$600,000","$570,000",.26-.5 Acres,11,1913,0.959,"$561,701.00",No,1,2,88,88,NA,Cary,NC,place
+-78.8869230744191,35.82255100402,504 Buxton Grant Drive,Cameron Pond,3640,2016,4,4,1,Detached,"$565,000","$572,423",.26-.5 Acres,8,0,0.9845,"$148,000.00",Yes,1,2,12,12,NA,Cary,NC,place
+-78.8017071137967,35.7498065635524,111 Greenock Court,MacGregor Downs,4928,1977,5,4,0,Detached,"$579,000","$575,000",.51-.75 Acres,15,203,0.9505,"$484,397.00",No,2,2,50,50,NA,Cary,NC,place
+-78.902477341582,35.840317829209,624 Peach Orchard Place,Hortons Creek,3887,2010,4,3,1,Detached,"$599,000","$580,000",0-.25 Acres,12,0,0.95,"$546,083.00",No,1,2,30,30,NA,Cary,NC,place
+-78.9146984,35.8032392,821 Uprock Drive,Weldon Ridge,3802,2014,5,4,0,Detached,"$599,000","$580,000",.26-.5 Acres,8,0,0.9845,"$589,295.00",No,1,2,387,164,NA,Cary,NC,highway
+-78.8014224322974,35.7407403478412,1114 Queensferry Road,MacGregor Downs,4049,1999,3,3,1,Detached,"$599,000","$580,000",.76-.99 Acres,8,300,0.9505,"$602,153.00",No,2,2,67,67,NA,Cary,NC,place
+-78.841739106383,35.762430212766,307 Churchview Street,Bishops Gate,4816,2007,4,4,0,Detached,"$588,000","$580,000",.26-.5 Acres,13,0,0.9505,"$608,159.00",No,2,2,6,6,NA,Cary,NC,place
+-78.8640456364195,35.8168501250247,1006 Dominion Hill Drive,Carpenter Village,4256,2005,5,5,0,Detached,"$625,000","$585,000",0-.25 Acres,13,0,0.93,"$644,079.00",No,1,2,95,95,NA,Cary,NC,place
+-78.9078180092272,35.8024064503513,1025 Austin Pond Drive,Greystone,4214,2010,5,4,1,Detached,"$590,000","$585,000",.26-.5 Acres,10,1380,0.98,"$582,240.00",No,1,3,64,64,NA,Cary,NC,place
+-78.799775,35.696161,412 Allenhurst Place,Windermere,4788,2005,5,4,1,Detached,"$599,000","$585,000",.26-.5 Acres,12,0,0.951,"$530,563.00",No,1,3,166,18,NA,Cary,NC,place
+-78.8880182485239,35.79447335,5812 Highcroft Drive,Highcroft,4275,2007,5,4,1,Detached,"$619,000","$588,000",.26-.5 Acres,13,0,0.989,"$523,109.00",No,1,2,76,76,NA,Cary,NC,building
+-78.8870106711885,35.7961496,918 Strathorn Drive,Highcroft,3658,2005,4,3,1,Detached,"$594,686","$588,000",.26-.5 Acres,12,200,0.88,"$555,000.00",No,1,2,1,1,NA,Cary,NC,building
+-78.870083,35.817835,110 William Henry Way,Olde Carpenter,4341,2008,5,4,0,Detached,"$599,900","$588,000",0-.25 Acres,12,2353,0.93,"$643,648.00",No,1,2,302,33,NA,Cary,NC,place
+-78.8999392,35.7920382,100 Silverbow Court,Toscana,4125,2012,4,3,1,Detached,"$592,000","$588,000",.26-.5 Acres,12,0,0.9505,"$551,111.00",No,1,3,11,11,NA,Cary,NC,building
+-78.8784421,35.8134412,2805 Banks Knoll Drive,Sedgefield,3215,2016,4,4,1,Detached,"$597,800","$589,000",0-.25 Acres,10,947,0.95,"$116,000.00",Yes,1,2,74,74,NA,Cary,NC,highway
+-78.9146984,35.8032392,924 Uprock Drive,Weldon Ridge,3596,2016,4,4,0,Detached,"$626,008","$590,000",.26-.5 Acres,9,0,0.93,"$112,000.00",Yes,1,2,143,143,NA,Cary,NC,highway
+-78.8558417145714,35.8069531803817,103 Chariot Court,Preston Village,3490,1997,4,3,0,Detached,"$599,900","$592,900",.26-.5 Acres,11,102,0.9505,"$564,760.00",No,2,2,80,80,NA,Cary,NC,place
+-78.9231137,35.8173442,225 Keythorpe Lane,Amberly,3622,2016,5,3,1,Detached,"$595,797","$595,797",.26-.5 Acres,11,0,0.98,"$596,000.00",Yes,1,3,0,0,NA,Cary,NC,highway
+-78.7695171982191,35.7437499304475,103 Larkwood Lane,Summerwinds,4009,1989,5,3,2,Detached,"$599,000","$599,000",1-2.9 Acres,12,0,0.9505,"$619,612.00",No,1,2,4,4,NA,Cary,NC,place
+-78.87695,35.8148104,2765 Belmont View Loop,Sedgefield,3263,2016,4,3,1,Detached,"$599,900","$599,900",0-.25 Acres,9,958,0.984,"$116,000.00",Yes,1,2,210,210,NA,Cary,NC,highway
+-78.7658775485536,35.7179427257232,103 Woodsage Way,Lochmere,4603,1994,5,4,1,Detached,"$619,000","$600,000",.51-.75 Acres,12,0,0.0095,"$584,751.00",No,1,2,18,18,NA,Cary,NC,place
+-78.8526432926927,35.8048665989453,204 Beeston Court,Preston Village,3192,1996,4,3,0,Detached,"$625,000","$601,000",.51-.75 Acres,9,0,0.98,"$554,280.00",No,1,2,52,52,NA,Cary,NC,place
+-78.8784421,35.8134412,2825 Banks Knoll Drive,Sedgefield,3313,2016,5,4,1,Detached,"$601,300","$601,300",0-.25 Acres,10,674,0.928,"$110,000.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9241251,35.8194649,1081 Queensdale Drive,Amberly,3487,2016,5,4,0,Detached,"$601,048","$603,045",.26-.5 Acres,11,0,0.098,"$601,048.00",Yes,1,2,0,0,NA,Cary,NC,highway
+-78.9024017,35.8310132,404 Bolton Grant Drive,Braemore,4329,2016,5,4,1,Detached,"$674,990","$605,000",.26-.5 Acres,12,0,0.985,"$124,000.00",Yes,1,3,140,140,NA,Cary,NC,highway
+-78.7469721849075,35.7501708490752,128 Arabella Court,Tryon Villas,3408,2010,3,3,1,Attached,"$625,000","$610,000",0-.25 Acres,8,0,0.9505,"$611,095.00",No,1,2,27,27,NA,Cary,NC,place
+-78.9014602142857,35.831127,372 Bolton Grant Drive,Braemore,4327,2016,5,4,1,Detached,"$694,805","$610,000",.26-.5 Acres,12,0,0.985,"$124,000.00",Yes,1,3,98,98,NA,Cary,NC,place
+-78.9172400949007,35.8162253469974,709 Rolling Springs Drive,Cary Park,3912,2013,4,3,1,Detached,"$670,000","$612,500",.26-.5 Acres,11,791,0.98,"$677,152.00",No,1,2,77,77,NA,Cary,NC,place
+-78.789564,35.6994355,8220 Rosiere Drive,Kildaire Crossing,4368,2016,5,4,1,Detached,"$613,647","$613,647",0-.25 Acres,12,0,0.985,$0.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.8543462777793,35.8102880882314,107 Peckskill Court,Preston Village,3949,1996,5,3,1,Detached,"$629,999","$615,000",0-.25 Acres,11,295,0.9845,"$579,385.00",No,1,2,156,44,NA,Cary,NC,place
+-78.87695,35.8148104,2704 Belmont View Loop,Sedgefield,3368,2016,4,3,1,Detached,"$629,900","$616,000",0-.25 Acres,9,510,0.928,"$110,000.00",Yes,1,3,290,290,NA,Cary,NC,highway
+-78.9146984,35.8032392,944 Uprock Drive,Weldon Ridge,3751,2016,5,4,0,Detached,"$615,912","$616,364",.26-.5 Acres,11,0,0.9845,$0.00,Yes,1,2,105,105,NA,Cary,NC,highway
+-78.8984981633657,35.79128055,208 Listening Ridge Lane,Toscana,3959,2010,4,3,1,Detached,"$629,900","$618,000",.26-.5 Acres,11,0,0.95,"$560,096.00",No,2,3,14,14,NA,Cary,NC,building
+-78.9058759,35.803121,512 Slate Creek Place,Greystone,4227,2014,5,4,1,Detached,"$625,000","$618,500",.26-.5 Acres,12,0,0.9845,"$577,361.00",No,1,3,42,42,NA,Cary,NC,highway
+-78.801401,35.715087,101 Moreland Court,Wyndfall,4003,1997,4,3,1,Detached,"$619,900","$619,900",.51-.75 Acres,14,484,0.928,"$609,708.00",No,1,3,116,4,NA,Cary,NC,place
+-78.87695,35.8148104,2757 Belmont View Loop,Sedgefield,4120,2016,5,5,1,Detached,"$620,000","$620,000",0-.25 Acres,11,200,0.948,$116.00,Yes,1,2,0,0,NA,Cary,NC,highway
+-78.774778,35.829132,200 Midenhall Way,Wessex,4455,1992,4,3,3,Detached,"$629,900","$620,000",.26-.5 Acres,13,0,0.9505,"$665,041.00",No,3,2,121,9,NA,Cary,NC,place
+-78.7811069832736,35.8252279680368,504 Midenhall Way,Wessex,4420,1995,4,4,1,Detached,"$634,900","$620,000",.26-.5 Acres,14,0,0.9505,"$596,837.00",No,1,2,12,12,NA,Cary,NC,place
+-78.909791115955,35.8189574487114,114 Morris Branch Court,Cary Park,4197,2001,5,3,1,Detached,"$600,000","$620,000",.26-.5 Acres,13,0,0.95,"$557,467.00",No,1,2,2,2,NA,Cary,NC,place
+-78.9035816,35.8337726,541 Weycroft Grant Drive,Weycroft,3760,2009,5,4,0,Detached,"$639,000","$623,500",.26-.5 Acres,11,336,0.9505,"$650,971.00",No,2,3,42,42,NA,Cary,NC,highway
+-78.9014692619048,35.831127,352 Bolton Grant Drive,Braemore,4256,2016,5,4,1,Detached,"$727,985","$624,000",0-.25 Acres,16,4260,0.985,"$727,985.00",Yes,1,3,82,82,NA,Cary,NC,place
+-78.9014597619048,35.831127,373 Bolton Grant Drive,Braemore,4789,2016,5,5,1,Detached,"$694,990","$625,000",0-.25 Acres,17,0,0.9505,$0.00,Yes,1,3,90,90,NA,Cary,NC,place
+-78.805410064034,35.7268769881168,814 Angelica Circle,Renaissance at Regency,3875,2008,4,4,2,Detached,"$639,000","$631,500",0-.25 Acres,9,602,0.928,"$665,458.00",No,1,2,182,182,NA,Cary,NC,place
+-78.9231137,35.8173442,229 Keythorpe Lane,Amberly,3124,2016,4,3,1,Detached,"$634,608","$634,608",.26-.5 Acres,10,0,0.98,"$635,000.00",Yes,1,3,0,0,NA,Cary,NC,highway
+-78.799738,35.752437,128 Bruce Drive,MacGregor Downs,4317,1973,5,4,0,Detached,"$649,000","$635,000",.51-.75 Acres,10,0,0.9505,"$472,799.00",No,2,2,41,41,NA,Cary,NC,place
+-78.8584478041038,35.8071680102044,115 Parmalee Court,Preston Village,4033,1999,5,4,1,Detached,"$649,500","$636,500",.26-.5 Acres,11,0,0.9845,"$642,965.00",No,1,3,115,77,NA,Cary,NC,place
+-78.810827,35.742957,103 Chalon Drive,MacGregor West,3428,1999,4,3,1,Detached,"$685,000","$640,000",1-2.9 Acres,12,702,0.9505,"$645,375.00",No,1,2,28,28,NA,Cary,NC,place
+-78.9146984,35.8032392,912 Uprock Drive,Weldon Ridge,4454,2016,5,5,1,Detached,"$650,000","$645,000",.26-.5 Acres,11,0,0.93,"$112,000.00",Yes,1,2,256,111,NA,Cary,NC,highway
+-78.8532752089753,35.8076296172138,115 Goldenthal Court,Preston Village,3280,1998,4,3,1,Detached,"$629,000","$645,000",.51-.75 Acres,10,200,0.9505,"$586,920.00",No,1,3,4,4,NA,Cary,NC,place
+-78.8819029221586,35.8077282248257,3516 Sienna Hill Place,Westvale,3848,2016,5,4,1,Detached,"$679,000","$648,970",0-.25 Acres,11,1144,0.984,$0.00,Yes,1,3,125,125,NA,Cary,NC,place
+-78.9111222177267,35.8083766905736,3010 Mill Gate Lane,Southbridge at Cary Park,4206,2007,5,4,1,Detached,"$670,000","$650,000",.26-.5 Acres,10,1849,0.95,"$668,090.00",No,1,2,30,30,NA,Cary,NC,place
+-78.87695,35.8148104,2717 Belmont View Loop,Sedgefield,4068,2016,5,3,1,Detached,"$639,900","$650,000",0-.25 Acres,11,375,0.928,$0.00,Yes,1,3,247,247,NA,Cary,NC,highway
+-78.87695,35.8148104,2764 Belmont View Loop,Sedgefield,3751,2014,5,4,0,Detached,"$669,900","$650,000",0-.25 Acres,11,403,0.95,"$631,251.00",No,1,2,76,76,NA,Cary,NC,highway
+-78.7473725942307,35.7498540902395,178 Arabella Court,Tryon Villas,4904,2007,5,5,0,Attached,"$665,000","$655,000",0-.25 Acres,12,0,0.9845,"$672,187.00",No,1,2,43,43,NA,Cary,NC,place
+-78.9035816,35.8337726,304 Weycroft Grant Drive,Weycroft,3915,2008,5,3,1,Detached,"$665,000","$657,500",.26-.5 Acres,12,2443,0.9845,"$742,429.00",No,2,2,412,216,NA,Cary,NC,highway
+-78.7469265602338,35.7501847172433,122 Arabella Court,Tryon Villas,3396,2008,4,4,0,Attached,"$679,000","$660,000",0-.25 Acres,10,0,0.09,"$636,668.00",No,1,2,13,13,NA,Cary,NC,place
+-78.8016319397881,35.7168902145308,203 Whitcomb Lane,Wyndfall,5239,1997,6,5,1,Detached,"$699,900","$660,000",.76-.99 Acres,19,961,0.985,"$646,614.00",No,2,2,170,170,NA,Cary,NC,place
+-78.9014746904762,35.831127,340 Bolton Grant Drive,Braemore,4035,2016,5,4,1,Detached,"$692,640","$660,255",.26-.5 Acres,19,0,0.985,"$692,640.00",Yes,1,3,32,32,NA,Cary,NC,place
+-78.8705306230691,35.816806692072,116 William Henry Way,Olde Carpenter,5325,2008,5,4,0,Detached,"$687,500","$663,000",.26-.5 Acres,15,0,0.864,"$675,807.00",No,1,2,46,46,NA,Cary,NC,place
+-78.9031966091704,35.8391691658608,611 Rye Ridge Road,Hortons Creek,4647,2008,5,4,1,Detached,"$675,000","$668,780",0-.25 Acres,13,0,0.9505,"$583,322.00",No,1,2,31,31,NA,Cary,NC,place
+-78.8016983101782,35.7112514841372,410 Devonhall Lane,Kensington at Regency,4001,2002,5,3,1,Detached,"$679,900","$670,000",.26-.5 Acres,10,0,0.9505,"$725,548.00",No,2,3,60,0,NA,Cary,NC,place
+-78.9173839817883,35.8158244477561,517 Waverly Hills Drive,Wrenhurst,4217,2014,5,4,0,Detached,"$696,000","$675,000",.26-.5 Acres,12,1100,0.95,"$696,327.00",No,1,2,22,22,NA,Cary,NC,place
+-78.8972152,35.7937962,505 Holsten Bank Way,Toscana,5706,2011,6,5,1,Detached,"$719,000","$681,000",.26-.5 Acres,15,226,0.9845,"$633,011.00",No,1,2,48,48,NA,Cary,NC,building
+-78.87695,35.8148104,2760 Belmont View Loop,Sedgefield,3856,2014,5,4,1,Detached,"$673,000","$683,039",0-.25 Acres,11,1090,0.95,"$145,000.00",Yes,1,3,0,0,NA,Cary,NC,highway
+-78.8664888508899,35.8231108521273,1436 Carpenter Town Lane,Magnolia Estates,5385,2005,5,4,1,Detached,"$715,000","$685,000",.26-.5 Acres,14,0,0.98,"$647,020.00",No,1,3,63,63,NA,Cary,NC,place
+-78.7467078691122,35.7501649742948,102 Arabella Court,Tryon Villas,3765,2007,4,4,0,Attached,"$699,000","$685,000",0-.25 Acres,10,100,0.945,"$648,318.00",No,1,2,12,12,NA,Cary,NC,place
+-78.8051471104088,35.7173921048221,108 Bosswood Court,Wyndfall,5138,1996,5,4,1,Detached,"$724,800","$685,000",.51-.75 Acres,12,0,0.9505,"$675,403.00",No,1,3,236,132,NA,Cary,NC,place
+-78.860665586544,35.8197616912176,109 Monument View Lane,Carpenter Village,3956,2004,5,4,0,Detached,"$699,900","$688,000",.51-.75 Acres,11,660,0.984,"$620,480.00",No,1,2,164,164,NA,Cary,NC,place
+-78.8049599811334,35.7174189395412,116 Bosswood Court,Wyndfall,4435,1996,4,3,1,Detached,"$725,000","$695,000",.76-.99 Acres,11,2995,0.987,"$743,060.00",No,1,3,153,153,NA,Cary,NC,place
+-78.8023895921942,35.7100640305092,307 Devonhall Lane,Kensington at Regency,4825,2002,4,4,1,Detached,"$725,000","$696,000",.26-.5 Acres,10,0,0.9845,"$909,408.00",No,1,3,77,77,NA,Cary,NC,place
+-78.9061386285721,35.8080995465506,913 Blackmar Street,Southbridge at Cary Park,4903,2008,5,5,0,Detached,"$699,999","$699,900",.26-.5 Acres,14,0,0.98,"$686,357.00",No,1,2,3,3,NA,Cary,NC,place
+-78.7954972371156,35.7505590663924,104 Dumbarton Court,MacGregor Downs,4114,1972,4,4,0,Detached,"$725,000","$700,000",.51-.75 Acres,16,2097,0.9505,"$625,763.00",No,1,3,7,7,NA,Cary,NC,place
+-78.9146984,35.8032392,909 Uprock Drive,Weldon Ridge,4456,2016,5,4,1,Detached,"$705,982","$705,982",.26-.5 Acres,11,0,0.98,$0.00,Yes,1,3,0,0,NA,Cary,NC,highway
+-78.9231137,35.8173442,221 Keythorpe Lane,Amberly,4936,2017,6,5,0,Detached,"$708,770","$707,715",.26-.5 Acres,12,0,0.98,"$710,000.00",Yes,1,3,0,0,NA,Cary,NC,highway
+-78.8467875966383,35.8051839516239,104 Reinhold Lane,Preston,3443,1995,3,3,1,Detached,"$759,900","$715,000",.26-.5 Acres,9,0,0.9505,"$715,456.00",No,1,2,6,6,NA,Cary,NC,place
+-78.9146984,35.8032392,956 Uprock Drive,Weldon Ridge,4434,2016,5,4,1,Detached,"$718,010","$718,010",.26-.5 Acres,11,0,0.93,"$112,000.00",Yes,1,3,0,0,NA,Cary,NC,highway
+-78.9146984,35.8032392,936 Uprock Drive,Weldon Ridge,4406,2016,5,4,1,Detached,"$719,111","$719,111",.26-.5 Acres,13,0,0.98,"$112,000.00",Yes,1,2,132,132,NA,Cary,NC,highway
+-78.9146984,35.8032392,905 Uprock Drive,Weldon Ridge,4433,2016,5,4,1,Detached,"$727,422","$727,422",.26-.5 Acres,11,0,0.98,$0.00,Yes,1,3,0,0,NA,Cary,NC,highway
+-78.8051942358099,35.717388065502,106 Bosswood Court,Wyndfall,5140,1996,5,5,2,Detached,"$775,000","$730,000",.51-.75 Acres,13,736,0.9505,"$764,016.00",No,3,3,15,15,NA,Cary,NC,place
+-78.9178345770154,35.8158545363515,716 Rolling Springs Drive,Wrenhurst,4550,2013,5,4,1,Detached,"$789,000","$740,000",.26-.5 Acres,12,1300,0.98,"$722,743.00",No,1,3,39,39,NA,Cary,NC,place
+-78.8621156231915,35.8177587814007,503 Ballad Creek Court,Carpenter Village,4301,2001,4,3,1,Detached,"$775,000","$750,000",.26-.5 Acres,10,900,0.9505,"$637,983.00",No,1,3,90,90,NA,Cary,NC,place
+-78.838825,35.804403,206 Turquoise Creek Drive,Preston,3200,1992,4,3,1,Detached,"$749,900","$752,000",.26-.5 Acres,10,0,0.96,"$665,648.00",No,1,2,3,3,NA,Cary,NC,place
+-78.8066266879779,35.7232810499769,102 Telmew Court,Wyndfall,4928,2000,5,4,1,Detached,"$769,900","$760,000",.51-.75 Acres,13,405,0.9845,"$808,890.00",No,3,3,141,141,NA,Cary,NC,place
+-78.9146984,35.8032392,840 Uprock Drive,Weldon Ridge,4431,2016,5,4,1,Detached,"$750,000","$760,000",0-.25 Acres,11,0,0.98,$0.00,Yes,2,2,33,33,NA,Cary,NC,highway
+-78.7989567692217,35.7127369930613,605 Devonhall Lane,Kensington at Regency,4504,2000,5,4,1,Detached,"$778,000","$763,000",.76-.99 Acres,14,0,0.9845,"$777,364.00",No,1,2,57,57,NA,Cary,NC,place
+-78.8121656045972,35.7950687,1006 Oldham Forest Crossing,Glenkirk,5119,2005,5,4,1,Detached,"$775,000","$767,500",.26-.5 Acres,15,0,0.9845,"$672,913.00",No,1,3,8,8,NA,Cary,NC,building
+-78.909933,35.806838,1119 Grogans Mill Drive,Southbridge at Cary Park,6859,2007,7,5,2,Detached,"$749,900","$772,000",.26-.5 Acres,16,629,0.9505,"$744,918.00",No,1,3,19,19,NA,Cary,NC,place
+-78.8049402981509,35.7139014010596,120 Royal Glen Drive,Sherwood,4645,2016,4,4,1,Detached,"$799,900","$799,900",.51-.75 Acres,10,0,0.98,"$127,400.00",Yes,1,3,63,63,NA,Cary,NC,place
+-78.8092529457304,35.747786126885,110 Ronsard Lane,MacGregor West,5088,1994,4,4,1,Detached,"$819,000","$808,000",.76-.99 Acres,12,0,0.95,"$834,053.00",No,1,2,22,22,NA,Cary,NC,place
+-78.8017212665121,35.7112181848396,406 Devonhall Lane,Kensington at Regency,4856,2000,5,5,1,Detached,"$825,000","$810,000",.26-.5 Acres,12,0,0.9505,"$787,752.00",No,3,3,3,3,NA,Cary,NC,place
+-78.810335,35.743771,201 Raphael Drive,MacGregor West,3964,1993,4,3,2,Detached,"$849,000","$815,000",.26-.5 Acres,10,1550,0.864,"$791,305.00",No,2,3,197,197,NA,Cary,NC,place
+-78.813478278535,35.7939045,3008 Olde Weatherstone Way,Glenkirk,7052,2005,6,6,1,Detached,"$895,000","$815,000",.51-.75 Acres,19,1753,0.9845,"$895,319.00",No,1,3,177,57,NA,Cary,NC,building
+-78.8491426953606,35.8111884611861,108 Caviston Way,Preston Village,4296,1999,4,4,1,Detached,"$819,900","$819,000",.26-.5 Acres,11,0,0.9845,"$662,240.00",No,3,4,4,4,NA,Cary,NC,place
+-78.859624768059,35.8134475713648,804 Preston Village Way,Preston Village,5604,2002,4,4,1,Detached,"$840,000","$820,000",.51-.75 Acres,15,436,0.9845,"$782,592.00",No,3,2,13,13,NA,Cary,NC,place
+-78.7962346731025,35.7211239354235,104 Richelieu Drive,Regency Park Estates,5146,1995,5,4,1,Detached,"$875,000","$820,000",1-2.9 Acres,15,0,0.95,"$838,738.00",No,1,2,115,115,NA,Cary,NC,place
+-78.8268444019544,35.795104,109 Balsamwood Court,Preston,4508,1990,5,3,1,Detached,"$875,000","$820,000",.26-.5 Acres,12,563,0.9845,"$911,072.00",No,1,2,79,79,NA,Cary,NC,place
+-78.7973385775733,35.740448312907,1347 Queensferry Road,MacGregor Downs,4203,2016,4,3,1,Attached,"$822,400","$822,400",0-.25 Acres,9,0,0.9845,$0.00,Yes,1,2,10,10,NA,Cary,NC,place
+-78.9106713,35.8462438,836 Mountain Vista Lane,The Piazza at Stonewater,5753,2016,5,6,1,Detached,"$832,525","$832,525",.26-.5 Acres,14,920,1,"$840,000.00",Yes,1,2,10,10,NA,Cary,NC,highway
+-78.800758,35.711895,500 Devonhall Lane,Kensington at Regency,5709,2000,5,4,1,Detached,"$850,000","$835,000",.26-.5 Acres,14,0,0.9845,"$952,909.00",No,1,3,58,58,NA,Cary,NC,place
+-78.8007232511843,35.7119039781629,502 Devonhall Lane,Kensington at Regency,5025,2006,6,5,1,Detached,"$830,000","$835,000",.26-.5 Acres,12,0,0.864,"$933,201.00",No,1,4,8,8,NA,Cary,NC,place
+-78.8304127450298,35.7965364331737,102 Pond Bluff Way,Preston,4232,1995,5,3,1,Detached,"$874,900","$836,000",.26-.5 Acres,12,0,0.9505,"$916,550.00",No,1,3,491,119,NA,Cary,NC,place
+-78.9106713,35.8462438,832 Mountain Vista Lane,The Piazza at Stonewater,5378,2016,6,6,1,Detached,"$846,000","$842,116",.26-.5 Acres,14,920,1,"$841,000.00",Yes,1,3,1,1,NA,Cary,NC,highway
+-78.8903369,35.8212252,3000 Montville Valley Court,Cameron Pond,5840,2006,5,5,1,Detached,"$899,000","$870,000",.26-.5 Acres,15,0,0.864,"$940,230.00",No,1,3,16,16,NA,Cary,NC,highway
+-78.7937693876779,35.7228951845327,105 Avenue of the Estates,Regency Park Estates,5580,1997,6,4,2,Detached,"$875,000","$870,000",1-2.9 Acres,14,728,0.9845,"$1,130,806.00",No,1,3,605,223,NA,Cary,NC,place
+-78.8038002363352,35.7248672166951,406 Michelangelo Way,Renaissance at Regency,4419,2012,4,5,1,Detached,"$900,000","$875,000",.26-.5 Acres,12,0,0.9845,"$773,691.00",No,1,3,103,103,NA,Cary,NC,place
+-78.8058228148098,35.7237354771885,104 Buffwood Court,Wyndfall,8419,1998,6,5,2,Detached,"$949,000","$925,292",.51-.75 Acres,18,456,0.9845,"$1,054,981.00",No,NA,3,226,226,NA,Cary,NC,place
+-78.860559,35.81116,601 Preston Village Way,Preston,6307,2007,6,5,0,Detached,"$930,000","$930,000",.51-.75 Acres,16,0,0.9845,"$793,944.00",No,2,3,4,4,NA,Cary,NC,place
+-78.9024017,35.8310132,401 Bolton Grant Drive,Braemore,5919,2014,6,6,1,Detached,"$1,100,000","$965,000",0-.25 Acres,15,0,0.9505,"$722,810.00",No,1,3,81,81,NA,Cary,NC,highway
+-78.827697,35.797227,301 Pond Bluff Way,Preston,5196,1996,5,3,2,Detached,"$1,099,500","$985,000",.51-.75 Acres,14,0,0.98,"$927,246.00",No,1,3,207,87,NA,Cary,NC,place
+-78.7886811454902,35.7445849536475,112 Lochinvar Court,MacGregor Downs,5607,1986,6,5,1,Detached,"$1,200,000","$1,000,000",.76-.99 Acres,12,976,0.9845,"$978,820.00",No,1,2,17,17,NA,Cary,NC,place
+-78.9120233382833,35.793220033935,6832 Palaver Lane,Copperleaf,5729,2010,5,5,1,Detached,"$1,190,000","$1,060,000",.51-.75 Acres,11,0,0.9845,"$865,143.00",No,2,3,162,162,NA,Cary,NC,place
+-78.918275664936,35.7944193662165,7008 Copperleaf Place,Copperleaf,5267,2012,5,4,1,Detached,"$1,099,000","$1,075,000",.51-.75 Acres,12,1514,0.9505,"$1,037,139.00",No,1,3,52,9,NA,Cary,NC,place
+-78.8092920968011,35.7477983649555,112 Ronsard Lane,MacGregor West,5960,1996,5,4,1,Detached,"$1,200,000","$1,100,000",.51-.75 Acres,15,1245,0.9505,"$839,109.00",No,NA,3,46,46,NA,Cary,NC,place
+-78.8034588736844,35.724823534386,102 Highclere Lane,Renaissance at Regency,5616,2014,5,5,2,Detached,"$1,295,000","$1,200,000",.26-.5 Acres,11,0,0.9505,"$1,086,482.00",Yes,2,3,318,318,NA,Cary,NC,place
+-78.8029498882234,35.7239149851881,107 Michelangelo Way,Renaissance at Regency,5197,2016,5,5,1,Detached,"$1,199,000","$1,212,000",.26-.5 Acres,13,800,0.9845,$200.00,Yes,2,3,127,127,NA,Cary,NC,place
+-78.8038920530096,35.7247298801839,414 Michelangelo Way,Renaissance at Regency,5553,2016,5,5,2,Detached,"$1,225,000","$1,225,000",.26-.5 Acres,14,800,0.9845,"$200,000.00",Yes,1,3,259,259,NA,Cary,NC,place
+-78.8074209297388,35.7617850384789,1249 Gatehouse Drive,Scottish Hills,1398,1976,3,2,0,Detached,"$264,900","$262,500,000",.26-.5 Acres,6,234,0.95,"$217,584.00",No,1,2,4,4,NA,Cary,NC,place

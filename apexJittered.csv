@@ -1,0 +1,346 @@
+X,Y,Address,Subdivisio,LvngAreaSF,YrBlt,Beds,FBths,HBths,Property T,List Price,Sold Price,Acres,# of Rooms,Total Othe,Tax Rate,Tax Value,New Constr,Fireplace,Garage,Cumulative,Days On Ma,Geocode Qu,city,state,addrtype,addrlocat
+-78.8524412264363,35.7361431118729,305 Hunter Street,Hunters Ridge,1055,1989,2,2,1,Attached,"$145,000","$140,000",0-.25 Acres,8,0,0.9805,"$136,287.00",No,1,0,6,6,0.97,NA,Apex,NC,place
+-78.8573812432056,35.7181449834896,112 Shelter Haven Drive,West Haven Townhomes,1098,2007,2,2,1,Attached,"$140,000","$140,000",0-.25 Acres,4,0,0.996,"$124,558.00",No,1,0,6,6,1,NA,Apex,NC,place
+-78.855177,35.719851,2 Sparta Lane,Perry Hills,1157,1998,3,2,1,Detached,"$115,000","$140,000",0-.25 Acres,6,0,0.9805,"$145,495.00",No,0,1,2,2,1.22,NA,Apex,NC,place
+-78.8698510946662,35.7447528578194,430 Eyam Hall Lane,Haddon Hall,1029,2003,2,1,0,Condo,"$150,000","$145,000",0-.25 Acres,5,0,1.0045,"$129,363.00",No,0,1,46,46,0.97,NA,Apex,NC,place
+-78.8426733028606,35.7231675608212,821 James Street,Damont Hills,1103,1971,3,2,0,Detached,"$158,000","$149,000",.26-.5 Acres,5,0,0.98,"$125,912.00",No,0,0,7,7,0.94,NA,Apex,NC,place
+-78.857672,35.716136,100 Anterbury Drive,Bradley Terrace,1475,2004,3,2,1,Attached,"$155,000","$158,000",0-.25 Acres,6,0,0.9805,"$139,784.00",No,1,0,3,3,1.02,NA,Apex,NC,place
+-78.8428800816327,35.7299736326531,303 Center Heights Court,Center Heights,1301,1996,3,2,1,Attached,"$155,500","$158,000",0-.25 Acres,6,0,0.9805,"$126,713.00",No,1,0,4,4,1.02,NA,Apex,NC,place
+-78.858319,35.72549,300 Lynch Street,Not in a Subdivision,1065,2008,3,2,0,Detached,"$155,000","$159,000",0-.25 Acres,5,0,0.7499,"$155,479.00",No,0,0,11,11,1.03,NA,Apex,NC,place
+-78.8569027686498,35.7155355920469,107 Eldon Lane,Bradley Terrace,1452,2004,3,2,1,Attached,"$168,500","$159,500",0-.25 Acres,6,0,0.994,"$138,000.00",No,0,0,9,9,0.95,NA,Apex,NC,place
+-78.8573704534578,35.7181816430153,108 Shelter Haven Drive,West Haven,1345,2007,2,2,1,Attached,"$155,000","$160,000",0-.25 Acres,5,0,0.9805,"$135,938.00",No,0,0,5,5,1.03,NA,Apex,NC,place
+-78.8160099,35.7190184,7324 Ten Ten Road,Not in a Subdivision,1316,1977,3,2,0,Detached,"$167,900","$160,000",.76-.99 Acres,6,0,0.69,"$140,647.00",No,1,0,2,2,0.95,NA,Apex,NC,highway
+-78.8628917095211,35.7222879302566,130 Licorice Drive,Townes At Sugarland,1448,1999,3,2,1,Attached,"$161,900","$162,200",0-.25 Acres,7,0,0.9805,"$136,779.00",No,1,0,4,4,1,NA,Apex,NC,place
+-78.8564853333333,35.715137,116 Forthview Way,Bradley Terrace,1453,2003,3,2,1,Attached,"$162,500","$162,500",0-.25 Acres,7,92,0.9805,"$141,801.00",No,1,0,4,4,1,NA,Apex,NC,place
+-78.8845770183559,35.7246195763775,1128 Scotts Ridge Trail,Scotts Mill,1374,2002,2,2,1,Attached,"$169,900","$162,992",0-.25 Acres,5,0,1.0045,"$145,800.00",No,0,0,5,5,0.96,NA,Apex,NC,place
+-78.8615849619418,35.7416855201669,204 Knightsborough Way,Golders Green,1448,1998,2,2,1,Attached,"$165,000","$165,000",0-.25 Acres,8,0,0.98,"$139,766.00",No,1,0,0,0,1,NA,Apex,NC,place
+-78.8692403529186,35.7442705490271,200 Eyam Hall Lane,Haddon Hall,1383,2005,3,2,0,Condo,"$175,000","$165,000",0-.25 Acres,6,0,0.9805,"$162,765.00",No,1,0,83,83,0.94,NA,Apex,NC,place
+-78.8831790156629,35.7242118307992,1210 Scotts Ridge Trail,Scotts Mill at Bungalow Park,1334,2001,2,2,1,Attached,"$168,900","$167,500",0-.25 Acres,5,0,0.9805,"$148,472.00",No,1,0,21,21,0.99,NA,Apex,NC,place
+-78.8754437748309,35.7272102332378,539 Village Loop Drive,Green at Scotts Mill,1401,2004,3,2,0,Attached,"$159,900","$168,000",0-.25 Acres,7,0,1.08,"$155,738.00",No,1,0,3,3,1.05,NA,Apex,NC,place
+-78.8732974961815,35.7425333969229,117 Watertree Lane,Carriage Downs,1444,2003,3,2,1,Attached,"$167,000","$168,245",0-.25 Acres,6,0,1.02,"$133,762.00",No,1,0,2,2,1.01,NA,Apex,NC,place
+-78.8699828413951,35.7445912638111,421 Eyam Hall Lane,Haddon Hall,1361,2003,3,2,0,Condo,"$167,900","$169,000",0-.25 Acres,6,0,0.9805,"$161,469.00",No,1,0,15,15,1.01,NA,Apex,NC,place
+-78.8355744725265,35.7401683406948,1002 Cherokee Court,Indian Trail,1635,1983,3,2,1,Detached,"$209,000","$170,000",.26-.5 Acres,9,0,0.9805,"$197,069.00",No,1,0,43,43,0.81,NA,Apex,NC,place
+-78.8613769475276,35.7257460070639,204 Gumdrop Path,Sugarland Run,1297,2000,3,2,1,Detached,"$179,900","$172,500",0-.25 Acres,7,400,0.97,"$165,104.00",No,1,0,77,11,0.96,NA,Apex,NC,place
+-78.825780907549,35.6880227145563,823 Straywhite Avenue,Miramonte,1591,2006,3,2,1,Attached,"$176,900","$174,000",0-.25 Acres,8,229,0.989,"$164,215.00",No,1,1,22,22,0.98,NA,Apex,NC,place
+-78.8860248761517,35.7239260867536,1047 Mica Lamp Court,Scotts Mill at Bungalow Park,1373,2007,2,2,1,Attached,"$171,000","$174,000",0-.25 Acres,5,0,0.9805,"$154,524.00",No,1,0,1,1,1.02,NA,Apex,NC,place
+-78.8756248012174,35.7273124343209,521 Village Loop Drive,Green at Scotts Mill,1400,2005,3,2,1,Attached,"$169,800","$175,000",0-.25 Acres,7,0,0.9805,"$161,473.00",No,0,0,1,1,1.03,NA,Apex,NC,place
+-78.8840650324793,35.7233175529165,1052 Milk Paint Alley,Scotts Mill,1354,2003,2,2,1,Attached,"$175,000","$175,000",0-.25 Acres,5,0,1.078,"$149,954.00",No,0,0,3,3,1,NA,Apex,NC,place
+-78.8311218137792,35.7376653716089,148 Sanair Court,Heatherwood Townhomes,1125,1988,2,2,0,Attached,"$175,000","$175,000",0-.25 Acres,5,0,0.981,"$143,363.00",No,1,0,3,3,1,NA,Apex,NC,place
+-78.860248,35.741121,607 Knightsborough Way,Golders Green,1498,1999,2,2,1,Attached,"$175,700","$175,700",0-.25 Acres,6,250,0.99,"$154,131.00",No,1,0,0,0,1,NA,Apex,NC,place
+-78.8267110283149,35.6887965634269,102 Forrymast Trail,Miramonte,1556,2007,2,2,1,Attached,"$179,900","$178,500",0-.25 Acres,5,0,1.04,"$154,523.00",No,1,1,3,3,0.99,NA,Apex,NC,place
+-78.8861846483715,35.7241904810706,1025 Mica Lamp Court,Scotts Mill at Bungalow Park,1360,2007,2,2,1,Attached,"$175,000","$179,000",0-.25 Acres,5,100,0.9805,"$156,954.00",No,1,0,3,3,1.02,NA,Apex,NC,place
+-78.855539,35.7131,1206 Canterbury Brook Lane,Lexington,1461,1995,3,2,0,Detached,"$179,000","$180,000",0-.25 Acres,5,0,0.9805,"$151,746.00",No,1,1,4,4,1.01,NA,Apex,NC,place
+-78.825716150992207,35.6873109647559,217 Presenteer Trail,Miramonte,1588,2008,3,2,1,Attached,"$181,500","$181,500",0-.25 Acres,6,0,0.9805,"$159,855.00",No,1,1,2,2,1,NA,Apex,NC,place
+-78.8552004700985,35.7198510712528,6 Sparta Lane,Perry Hills,1191,1999,3,2,0,Detached,"$175,000","$182,000",0-.25 Acres,5,36,1.0045,"$143,184.00",No,1,0,2,2,1.04,NA,Apex,NC,place
+-78.8731911085924,35.7426970634212,122 Watertree Lane,Carriage Downs,1544,2003,3,2,1,Attached,"$175,000","$184,000",0-.25 Acres,6,0,0.9805,"$131,475.00",No,1,0,1,1,1.05,NA,Apex,NC,place
+-78.8544768025776,35.7149109433602,1027 Dual Parks Road,Bradley Park,1646,2002,3,2,0,Detached,"$199,900","$185,000",0-.25 Acres,8,0,0.98,"$186,011.00",No,1,1,23,23,0.93,NA,Apex,NC,place
+-78.8552619240208,35.7171895882083,1113 Kissena Lane,Perry Farms,1210,2000,3,2,0,Detached,"$184,900","$185,000",0-.25 Acres,8,0,0.9805,"$172,897.00",No,0,0,2,2,1,NA,Apex,NC,place
+-78.8619955884689,35.7408246180187,806 Nottinghill Walk,Golders Green,1672,1999,3,2,1,Attached,"$185,000","$185,000",0-.25 Acres,9,0,1.0045,"$166,149.00",No,1,0,28,28,1,NA,Apex,NC,place
+-78.8578422108017,35.7138269914035,108 Fanwood Court,Bradley Terrace,1645,2006,3,2,1,Attached,"$178,500","$185,000",0-.25 Acres,8,0,0.9805,"$165,596.00",No,1,1,1,1,1.04,NA,Apex,NC,place
+-78.8606770031981,35.741737764009,402 Knightsborough Way,Haddon Hall,1527,1999,2,2,1,Attached,"$179,900","$185,000",0-.25 Acres,6,175,0.97,"$145,619.00",No,1,0,4,4,1.03,NA,Apex,NC,place
+-78.858062171641,35.7128006428072,313 Anterbury Drive,Bradley Terrace,2156,2007,3,3,1,Attached,"$185,000","$185,000",0-.25 Acres,8,0,0.9805,"$175,317.00",No,1,0,12,12,1,NA,Apex,NC,place
+-78.8277438624053,35.683048,205 Hollyhock Lane,Sunset Hills,1260,1998,3,2,0,Detached,"$185,500","$186,000",0-.25 Acres,6,0,0.09805,"$174,883.00",No,1,2,11,11,1,NA,Apex,NC,place
+-78.8323023308384,35.6841511148409,202 Cabana Drive,Sunset Hills,1501,2000,4,2,0,Detached,"$189,900","$189,900",0-.25 Acres,6,0,0.98,"$184,737.00",No,1,1,19,19,1,NA,Apex,NC,place
+-78.844422754209,35.7305484710995,309 Center Park Way,Center Parkway,1162,1995,3,2,0,Detached,"$185,000","$190,000",0-.25 Acres,5,0,1.05,"$158,270.00",No,1,0,3,3,1.03,NA,Apex,NC,place
+-78.8892912289392,35.7246252820978,1818 KELLY GLEN Drive,Kelly Glen,1336,1997,3,2,1,Detached,"$191,500","$191,000",.26-.5 Acres,6,0,1.004,"$171,082.00",No,1,0,0,0,1,NA,Apex,NC,place
+-78.8599199384122,35.7411869513766,608 Knightsborough Way,Haddon Hall,1699,1999,3,3,0,Attached,"$192,000","$192,500",0-.25 Acres,7,0,0.9805,"$168,080.00",No,1,0,1,1,1,NA,Apex,NC,place
+-78.903406,35.7356973,943 Homestead Park Drive,Homestead Park,1428,1999,3,2,0,Detached,"$199,900","$193,500",0-.25 Acres,7,0,1.0045,"$187,642.00",No,1,1,6,6,0.97,NA,Apex,NC,highway
+-78.8622833228114,35.7229571351533,102 Milky Way Drive,Sugarland Run,1569,1997,3,2,1,Detached,"$205,000","$194,750",0-.25 Acres,6,0,0.9805,"$172,629.00",No,1,0,10,10,0.95,NA,Apex,NC,place
+-78.8316597033312,35.6831977931416,118 Cabana Drive,Sunset Hills,1407,2000,3,2,1,Detached,"$196,450","$196,000",0-.25 Acres,6,0,1,"$185,545.00",No,1,2,10,10,1,NA,Apex,NC,place
+-78.8620111567897,35.740846349588,802 Nottinghill Walk,Golders Green,1649,1999,3,2,1,Attached,"$199,900","$196,000",0-.25 Acres,6,0,1.021,"$169,689.00",No,1,1,2,2,0.98,NA,Apex,NC,place
+-78.8775857045756,35.7352560835273,3029 White Cloud Circle,Dogwood Ridge,1652,1999,3,2,1,Attached,"$196,500","$196,500",0-.25 Acres,5,0,0.9505,"$158,566.00",No,0,0,2,2,1,NA,Apex,NC,place
+-78.851641,35.7253984832662,409 S Hughes Street,Not in a Subdivision,1613,1957,3,2,0,Detached,"$210,000","$200,000",.26-.5 Acres,8,384,1.045,"$214,863.00",No,1,0,57,57,0.95,NA,Apex,NC,place
+-78.9016774381847,35.7375238467248,305 EVENING STAR Drive,Homestead Park,1476,1998,3,2,1,Detached,"$207,000","$200,000",0-.25 Acres,7,0,0.99,"$182,226.00",No,1,1,47,47,0.97,NA,Apex,NC,place
+-78.8544406543968,35.7122915884256,1105 Lexington Farm Road,Lexington,2263,1995,4,2,0,Detached,"$199,000","$200,000",.26-.5 Acres,9,1051,0.97,"$198,565.00",No,1,2,10,10,1.01,NA,Apex,NC,place
+-78.8766428882156,35.7354611299619,1126 Silky Dogwood Trail,Dogwood Ridge,1571,2000,3,2,1,Attached,"$204,900","$201,500",0-.25 Acres,7,0,0.9805,"$181,323.00",No,1,1,2,2,0.98,NA,Apex,NC,place
+-78.8322973233537,35.6841904593638,208 Cabana Drive,Sunset Hills,1452,2002,4,2,0,Detached,"$204,900","$202,000",0-.25 Acres,6,0,0.9805,"$180,731.00",No,1,1,17,17,0.99,NA,Apex,NC,place
+-78.9049091201063,35.7374467594014,825 Homestead Park Drive,Homestead Park,1357,1999,3,2,1,Detached,"$203,700","$202,000",0-.25 Acres,9,0,1.0045,"$172,549.00",No,0,1,4,4,0.99,NA,Apex,NC,place
+-78.8442455369058,35.7304676375972,304 Center Park Way,Center Parkway,1233,1995,3,2,0,Detached,"$195,000","$202,000",0-.25 Acres,6,240,0.985,"$162,451.00",No,1,1,4,4,1.04,NA,Apex,NC,place
+-78.8294716038131,35.6819823162763,306 Ridge Lake Drive,Sunset Hills,1514,1999,3,2,0,Detached,"$210,000","$205,000",0-.25 Acres,6,0,0.9805,"$192,091.00",No,1,2,98,39,0.98,NA,Apex,NC,place
+-78.8544842573273,35.7190866275879,103 Litton Street,Perry Hills,1211,1999,3,2,0,Detached,"$194,900","$205,000",0-.25 Acres,5,0,0.993,"$153,537.00",No,1,1,1,1,1.05,NA,Apex,NC,place
+-78.8412540612245,35.726280244898,107 George Place,Clairmont,1318,1985,3,1,1,Detached,"$216,000","$205,000",.51-.75 Acres,6,0,0.9805,"$197,374.00",No,1,1,129,129,0.95,NA,Apex,NC,place
+-78.8545618978534,35.7151777961431,1024 Dual Parks Road,Bradley Park,1497,2005,3,2,1,Detached,"$205,000","$205,000",0-.25 Acres,6,0,0.98,"$172,178.00",No,1,0,9,9,1,NA,Apex,NC,place
+-78.8580981783286,35.7125288212718,343 Anterbury Drive,Bradley Terrace,2151,2010,4,3,1,Attached,"$229,000","$206,000",0-.25 Acres,9,45,0.9805,"$188,944.00",No,1,0,22,22,0.9,NA,Apex,NC,place
+-78.8503846168656,35.7211125960009,103 Perry Farms Drive,Perry Farms,1506,1992,3,2,1,Detached,"$209,900","$206,500",0-.25 Acres,7,0,1.005,"$173,425.00",No,1,0,10,10,0.98,NA,Apex,NC,place
+-78.8549607519117,35.7152323557616,1009 Dual Parks Road,Bradley Park,1468,2004,3,2,1,Detached,"$199,900","$207,000",0-.25 Acres,7,0,0.9805,"$169,959.00",No,1,0,2,2,1.04,NA,Apex,NC,place
+-78.9017106140126,35.7377395066119,316 EVENING STAR Drive,Homestead,1405,1998,3,2,1,Detached,"$207,000","$207,000",0-.25 Acres,6,0,1.0045,"$179,767.00",No,1,1,6,6,1,NA,Apex,NC,place
+-78.850665,35.719838,801 Handel Lane,Perry Farms,1377,1995,3,2,0,Detached,"$220,000","$208,000",0-.25 Acres,6,0,1.005,"$196,428.00",No,1,2,48,48,0.95,NA,Apex,NC,place
+-78.8262752502738,35.6872267411249,915 Straywhite Avenue,Miramonte,1973,2005,3,3,1,Attached,"$210,000","$208,000",0-.25 Acres,6,0,1.0045,"$185,662.00",No,1,1,100,100,0.99,NA,Apex,NC,place
+-78.9119809485677,35.7226953,101 TOBACCO FARM Drive,Hollands Crossing,1255,1997,3,2,0,Detached,"$209,900","$209,900",0-.25 Acres,5,0,0.9805,"$196,931.00",No,1,1,23,23,1,NA,Apex,NC,building
+-78.8626494137848,35.7409986053607,702 Nottinghill Walk,Golders Green,1636,1999,3,2,1,Attached,"$202,000","$211,500",0-.25 Acres,6,0,0.9805,"$181,232.00",No,1,1,2,2,1.05,NA,Apex,NC,place
+-78.8268152963309,35.6875023659471,213 Gallent Hedge Trail,Miramonte,1991,2006,4,3,1,Attached,"$217,000","$214,000",0-.25 Acres,7,0,0.9805,"$187,751.00",No,1,1,5,5,0.99,NA,Apex,NC,place
+-78.8819137035519,35.7280423140022,505 Scotts Ridge Trail,Scotts Mill,1297,2000,3,2,0,Detached,"$230,000","$215,000",0-.25 Acres,6,0,0.9805,"$223,031.00",No,1,1,35,35,0.93,NA,Apex,NC,place
+-78.8337670670145,35.7435972413721,1526 Cone Avenue,Knollwood,2030,1973,4,2,1,Detached,"$215,000","$215,000",0-.25 Acres,7,0,0.968,"$174,077.00",No,0,0,7,7,1,NA,Apex,NC,place
+-78.8382083607985,35.7413844485493,1204 Laura Duncan Road,Indian Trail,1765,1973,4,2,1,Detached,"$214,900","$215,000",.26-.5 Acres,8,387,1.0045,"$203,217.00",No,1,0,20,20,1,NA,Apex,NC,place
+-78.8270501666667,35.6885989375,217 Storemont Way,Miramonte,2003,2007,3,3,1,Attached,"$210,000","$215,500",0-.25 Acres,6,0,0.9805,"$171,261.00",No,1,1,1,1,1.03,NA,Apex,NC,place
+-78.8361840898004,35.7444536816334,808 Knollwood Drive,Knollwood,1782,1971,4,2,0,Detached,"$215,000","$216,000",.26-.5 Acres,8,0,0.991,"$183,349.00",No,0,0,5,5,1,NA,Apex,NC,place
+-78.8279279993005,35.7437910264446,1404 Maple Avenue,Knollwood,1839,1968,4,2,0,Detached,"$220,000","$220,000",.26-.5 Acres,10,0,0.9625,"$207,239.00",No,1,1,1,1,1,NA,Apex,NC,place
+-78.9002904240255,35.7291254463476,405 Brierridge Drive,Greenbrier,1432,1999,3,2,0,Detached,"$229,000","$220,000",0-.25 Acres,6,0,1.0045,"$197,517.00",No,1,2,32,32,0.96,NA,Apex,NC,place
+-78.8409486405265,35.7429290305278,1002 Fallen Oak Drive,Brookfield,1488,1985,3,2,1,Detached,"$218,000","$220,000",0-.25 Acres,11,0,0.9805,"$214,920.00",No,1,0,1,1,1.01,NA,Apex,NC,place
+-78.8670196167419,35.7413068199658,127 Wirks Worth Circle,Haddon Hall,1967,2009,3,2,2,Attached,"$217,500","$220,000",0-.25 Acres,9,0,0.9805,"$187,563.00",No,0,1,1,1,1.01,NA,Apex,NC,place
+-78.8655530561796,35.7353122602092,905 Spring Gate Court,Glen Arbor,1567,2003,3,2,1,Detached,"$214,900","$220,000",0-.25 Acres,6,0,1.0045,"$183,787.00",No,1,1,4,4,1.02,NA,Apex,NC,place
+-78.9109161830382,35.7215896,411 Blushing Rose Way,Hollands Crossing,1632,1998,3,2,1,Detached,"$224,900","$220,000",0-.25 Acres,8,0,1.0045,"$218,380.00",No,1,1,79,79,0.98,NA,Apex,NC,building
+-78.8402835522823,35.7247119164736,914 Olive Street,Not in a Subdivision,1284,1967,3,2,0,Detached,"$223,000","$220,000",.26-.5 Acres,6,0,1.0045,"$238,052.00",No,0,1,36,36,0.99,NA,Apex,NC,place
+-78.8491808097827,35.7390348447194,103 Tracey Creek Court,Salem Oaks,1228,1997,3,2,0,Detached,"$215,000","$221,500",0-.25 Acres,5,0,1,"$204,305.00",No,1,1,1,1,1.03,NA,Apex,NC,place
+-78.8267459,35.682768,208 Hollyhock Lane,Sunset Hills,1614,1998,3,2,1,Detached,"$224,900","$222,000",0-.25 Acres,7,0,0.874,"$191,420.00",No,1,2,3,3,0.99,NA,Apex,NC,highway
+-78.8540726103925,35.7173714399868,833 Shackleton Road,Perry Farms,1347,1999,3,2,0,Detached,"$224,500","$225,000",.26-.5 Acres,6,0,0.9805,"$198,689.00",No,1,2,4,4,1,NA,Apex,NC,place
+-78.877623,35.734953,3000 White Cloud Circle,Dogwood Ridge,1826,2000,3,2,1,Detached,"$227,000","$225,000",0-.25 Acres,7,0,0.98,"$192,190.00",No,1,1,1,1,0.99,NA,Apex,NC,place
+-78.8690380622936,35.7435082644458,1506 Haywards Heath Lane,Haddon Hall,2227,2006,3,3,1,Attached,"$234,900","$226,500",0-.25 Acres,7,0,0.9805,"$204,803.00",No,0,1,13,13,0.96,NA,Apex,NC,place
+-78.8279070211702,35.6831631481913,406 Stonecreek Drive,Sunset Hills,1883,1999,4,2,1,Detached,"$225,000","$229,101",0-.25 Acres,8,0,0.98,"$198,168.00",No,1,2,3,3,1.02,NA,Apex,NC,place
+-78.8419280204082,35.7314864489796,402 Old Mill Village Drive,Old Mill Village,2214,2008,3,3,1,Attached,"$229,500","$229,500",0-.25 Acres,9,0,1.0045,"$222,356.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8690500830581,35.7435023525944,1508 Haywards Heath Lane,Haddon Hall,2455,2006,3,3,1,Attached,"$241,900","$229,872",0-.25 Acres,7,0,0.98,"$216,445.00",No,1,1,42,42,0.95,NA,Apex,NC,place
+-78.841229349939,35.7317608660024,616 Sawcut Lane,Old Mill Village,1916,2007,3,3,0,Attached,"$225,000","$230,000",0-.25 Acres,6,0,0.96,"$225,005.00",No,1,3,21,21,1.02,NA,Apex,NC,place
+-78.8419510971418,35.7307197796822,204 Grindstone Drive,Old Mill Village,1896,2007,3,3,0,Attached,"$237,500","$236,500",0-.25 Acres,9,0,0.9805,"$206,485.00",No,0,3,22,22,1,NA,Apex,NC,place
+-78.902855401377,35.7311842149595,110 Grassy Ridge Court,Kelly West,1503,2000,3,2,1,Detached,"$235,000","$237,000",.26-.5 Acres,6,0,0.99,"$239,080.00",No,1,2,4,4,1.01,NA,Apex,NC,place
+-78.8672192590652,35.7412565106232,118 Wirks Worth Circle,Haddon Hall,2482,2009,3,3,1,Attached,"$245,900","$238,000",0-.25 Acres,9,0,1.004,"$217,373.00",No,0,1,41,41,0.97,NA,Apex,NC,place
+-78.8522698332105,35.7196126456126,303 Estate Drive,Perry Farms,2188,1997,4,3,0,Detached,"$239,900","$239,000",0-.25 Acres,8,0,0.9805,"$221,560.00",No,1,0,7,7,1,NA,Apex,NC,place
+-78.8420662653061,35.7319654081633,520 Sawcut Lane,Old Mill Village,1957,2007,3,2,1,Attached,"$242,900","$240,000",0-.25 Acres,6,0,1.0045,"$232,471.00",No,0,3,7,7,0.99,NA,Apex,NC,place
+-78.8291898647637,35.6820903838861,110 Gables Gate Court,Sunset Hills,1787,1999,4,2,1,Detached,"$239,900","$240,000",0-.25 Acres,7,0,0.99,"$197,808.00",No,1,2,5,5,1,NA,Apex,NC,place
+-78.8642621639193,35.732974733874,704 Bristol Blue Street,Amherst,1597,1998,3,2,1,Detached,"$235,000","$240,000",0-.25 Acres,7,0,0.989,"$213,936.00",No,1,1,3,3,1.02,NA,Apex,NC,place
+-78.8386873474942,35.7382134590584,1013 Oakgate Court,Shepherds Vineyard,2170,1990,3,2,1,Detached,"$234,000","$240,000",0-.25 Acres,7,350,1.004,"$243,754.00",No,1,2,10,10,1.03,NA,Apex,NC,place
+-78.840045691692,35.7248032555076,907 Olive Street,Clairmont,1525,1983,3,2,0,Detached,"$225,000","$241,500",.26-.5 Acres,6,0,0.968,"$190,660.00",No,0,0,5,5,1.07,NA,Apex,NC,place
+-78.868245,35.74201,101 Brittingham Loop,Haddon Hall,2443,2008,3,3,1,Attached,"$242,000","$241,500",0-.25 Acres,9,0,0.9805,"$214,935.00",No,0,1,2,2,1,NA,Apex,NC,place
+-78.9004368024896,35.7376172782129,402 EVENING STAR Drive,Creekside Commons,1701,2008,3,2,1,Detached,"$245,000","$242,000",0-.25 Acres,7,0,0.99,"$212,826.00",No,0,2,5,5,0.99,NA,Apex,NC,place
+-78.8321868096124,35.7446231142268,1111 Knollwood Drive,Knollwood,2076,1969,4,3,0,Detached,"$239,990","$242,500",.26-.5 Acres,8,0,0.9805,"$188,016.00",No,1,0,7,7,1.01,NA,Apex,NC,place
+-78.883005,35.727683,325 Pine Nut Lane,Scotts Mill,1359,1999,3,2,0,Detached,"$244,900","$244,900",0-.25 Acres,6,0,0.98,"$228,959.00",No,1,0,25,25,1,NA,Apex,NC,place
+-78.853611051863,35.735276429416,1008 Royal Hunt Court,Brittany Trace,1649,1990,3,2,1,Detached,"$245,000","$245,000",0-.25 Acres,7,0,0.98,"$186,461.00",No,1,1,0,0,1,NA,Apex,NC,place
+-78.826838,35.743735,1501 Maple Avenue,Knollwood,1906,1968,3,2,1,Detached,"$235,000","$246,000",.26-.5 Acres,12,0,0.9625,"$186,102.00",No,1,0,1,1,1.05,NA,Apex,NC,place
+-78.8467677,35.74826,1103 Boxcar Way,The Villages of Apex,1835,2016,3,2,1,Attached,"$242,095","$247,335",0-.25 Acres,6,0,1.0045,$0.00,Yes,0,1,12,12,1.02,NA,Apex,NC,highway
+-78.8227510704464,35.7251194398086,1901 Green Ford Lane,Waterford Green,1622,1994,3,2,1,Detached,"$235,000","$248,000",0-.25 Acres,9,471,0.9805,"$225,052.00",No,1,2,2,2,1.06,NA,Apex,NC,place
+-78.8286455102041,35.7436630612245,1702 Chestnut Street,Knollwood,1818,1969,4,2,0,Detached,"$245,000","$248,000",.51-.75 Acres,10,0,0.9625,"$197,371.00",No,0,1,1,1,1.01,NA,Apex,NC,place
+-78.8820712778504,35.7267047461984,308 Pine Nut Lane,Scotts Mill,1553,1999,3,2,1,Detached,"$255,000","$248,500",0-.25 Acres,7,0,0.9805,"$248,742.00",No,1,1,14,14,0.97,NA,Apex,NC,place
+-78.8467677,35.74826,1184 Boxcar Way,The Villages of Apex,1825,2016,3,2,1,Attached,"$248,585","$248,725",0-.25 Acres,7,0,1.0045,$0.00,Yes,0,2,97,97,1,NA,Apex,NC,highway
+-78.9081859823646,35.72268355,117 Saddle River Road,Hollands Crossing,1660,1998,3,2,0,Detached,"$249,900","$249,900",0-.25 Acres,7,0,1.01,"$226,240.00",No,1,2,19,19,1,NA,Apex,NC,building
+-78.9114940828352,35.72645805,202 Quisisana,Hollands Crossing,1754,1997,4,2,1,Detached,"$247,000","$250,000",0-.25 Acres,6,0,1.004,"$233,171.00",No,1,2,12,12,1.01,NA,Apex,NC,building
+-78.903809775197,35.730429412572,208 Kelly West Drive,Kelly West,1742,2000,4,2,1,Detached,"$255,000","$250,000",.26-.5 Acres,8,0,1.0045,"$261,581.00",No,1,2,3,3,0.98,NA,Apex,NC,place
+-78.8904953669954,35.7262354635731,1909 KELLY GLEN Drive,Kelly Glen,1701,1996,3,2,1,Detached,"$249,900","$250,000",.26-.5 Acres,7,0,1.0045,"$209,343.00",No,1,1,2,2,1,NA,Apex,NC,place
+-78.8464918442651,35.7443219992459,958 Ambergate Station,The Villages of Apex,1842,2012,3,3,1,Attached,"$245,000","$250,000",0-.25 Acres,6,0,0.875,"$211,610.00",No,1,0,7,7,1.02,NA,Apex,NC,place
+-78.8508906089658,35.7391599315797,102 Beech Hollow Place,Salem Oaks,1447,1998,3,2,0,Detached,"$264,000","$250,550",0-.25 Acres,6,0,0.98,"$213,676.00",No,1,1,10,10,0.95,NA,Apex,NC,place
+-78.8794899013802,35.7509085584264,2026 White Pond Court,Walden Townes,1889,2001,3,2,1,Attached,"$245,000","$251,000",0-.25 Acres,11,0,0.9805,"$213,253.00",No,1,1,2,2,1.02,NA,Apex,NC,place
+-78.860568589766,35.7218329774328,740 S Salem Street,Not in a Subdivision,1282,1956,3,1,0,Detached,"$249,900","$251,900",1-2.9 Acres,5,0,0.07,"$284,319.00",No,0,0,50,50,1.01,NA,Apex,NC,place
+-78.8742942461543,35.7280729538661,1208 TOWN SIDE Drive,Scotts Mill,1907,2004,4,2,1,Detached,"$259,900","$252,000",0-.25 Acres,8,0,0.98,"$229,055.00",No,1,0,23,23,0.97,NA,Apex,NC,place
+-78.866039,35.732554,715 Midsummer Lane,Amherst,2067,1996,3,2,1,Detached,"$253,900","$254,900",0-.25 Acres,8,0,0.98,"$241,639.00",No,1,2,9,9,1,NA,Apex,NC,place
+-78.898311818775,35.7200469750185,2106 Jerimouth Drive,Crocketts Ridge,1765,1999,3,2,1,Detached,"$249,900","$256,000",0-.25 Acres,7,0,0.9805,"$233,608.00",No,1,1,51,12,1.02,NA,Apex,NC,place
+-78.8428142412067,35.7312933573736,405 N Tunstall Avenue,The Villages of Apex,1946,2015,3,2,1,Attached,"$259,900","$257,500",0-.25 Acres,8,0,0.968,"$241,446.00",No,0,2,1,1,0.99,NA,Apex,NC,place
+-78.8482561147576,35.7202711418882,304 Grand Helton Court,Perry Farms,2322,1993,3,2,1,Detached,"$255,900","$258,500",0-.25 Acres,10,327,1.0045,"$220,388.00",No,1,1,3,3,1.01,NA,Apex,NC,place
+-78.8750379,35.726003,455 Village Commons Lane,Scotts Mill,1744,2016,3,3,1,Attached,"$248,574","$260,000",0-.25 Acres,8,0,1.004,$0.00,Yes,0,1,18,18,1.05,NA,Apex,NC,highway
+-78.8972814489796,35.7367213673469,5017 Sunny Creek Lane,Creekside Commons,1692,2007,3,2,1,Detached,"$262,500","$260,000",0-.25 Acres,7,0,0.9805,"$204,973.00",No,1,2,14,14,0.99,NA,Apex,NC,place
+-78.8678961002274,35.7414339155547,1205 Haywards Heath Lane,The Glen,2503,2008,3,3,1,Attached,"$245,000","$260,000",0-.25 Acres,8,0,0.98,"$220,217.00",No,0,1,2,2,1.06,NA,Apex,NC,place
+-78.8302652949768,35.7424252423854,1203 Chimney Hill Drive,Shepherds Vineyard,1934,1987,3,2,1,Detached,"$259,000","$260,000",0-.25 Acres,7,0,1.0045,"$270,426.00",No,1,1,5,5,1,NA,Apex,NC,place
+-78.9018203664817,35.7300333214572,211 Chapel Valley Lane,Kelly West,1782,2001,3,2,1,Detached,"$264,900","$260,000",0-.25 Acres,10,0,1.0045,"$235,229.00",No,1,2,59,59,0.98,NA,Apex,NC,place
+-78.9110908826455,35.7217037,409 Blushing Rose Way,Hollands Crossing,1674,1997,3,2,1,Detached,"$298,000","$260,000",0-.25 Acres,7,584,1.0045,"$230,838.00",No,1,1,35,35,0.87,NA,Apex,NC,building
+-78.8874923182753,35.7268803069818,205 Country Valley Court,Scotts Mill,1751,2001,3,2,1,Detached,"$250,000","$262,000",0-.25 Acres,6,0,0.98,"$267,739.00",No,1,1,2,2,1.05,NA,Apex,NC,place
+-78.86743539051,35.7415466654998,1204 Haywards Heath Lane,Haddon Hall,2423,2009,3,3,0,Attached,"$260,000","$262,000",0-.25 Acres,9,0,0.989,"$218,832.00",No,0,1,2,2,1.01,NA,Apex,NC,place
+-78.908369026721,35.7279999,205 Grassy Point Road,Hollands Crossing,2094,2000,4,2,1,Detached,"$269,900","$262,000",0-.25 Acres,9,0,0.98,"$245,268.00",No,1,2,29,29,0.97,NA,Apex,NC,building
+-78.8823483928713,35.7263334158416,310 Skinny Pine Court,Scotts Mill,1504,1998,3,2,1,Detached,"$259,900","$265,000",.26-.5 Acres,7,1503,0.98,"$244,651.00",No,1,1,4,4,1.02,NA,Apex,NC,place
+-78.89829354585,35.720068316679,2104 Jerimouth Drive,Crocketts Ridge,1946,1999,3,2,1,Detached,"$269,000","$265,000",0-.25 Acres,8,0,0.9805,"$239,476.00",No,1,1,33,33,0.99,NA,Apex,NC,place
+-78.819236754685,35.7261027276713,2103 Cannonford Court,Waterford Green,1872,1996,4,2,1,Detached,"$267,500","$267,500",0-.25 Acres,8,579,0.99,"$245,745.00",No,1,1,4,4,1,NA,Apex,NC,place
+-78.8603194772651,35.737158262976,505 Gablefield Lane,Hunter Valley,1928,1993,3,2,1,Detached,"$269,900","$267,500",.26-.5 Acres,9,0,1.0045,"$248,520.00",No,1,2,55,55,0.99,NA,Apex,NC,place
+-78.881966,35.726177,302 Pine Nut Lane,Scotts Mill,1687,1999,3,2,1,Detached,"$275,000","$268,000",0-.25 Acres,6,0,0.98,"$235,101.00",No,1,1,51,11,0.97,NA,Apex,NC,place
+-78.8824986075704,35.7274770030232,319 Pine Nut Lane,Scotts Mill,1615,2001,3,2,1,Detached,"$268,000","$268,000",0-.25 Acres,7,0,0.9805,"$228,377.00",No,1,1,3,3,1,NA,Apex,NC,place
+-78.850703,35.738906,212 Abbey Oak Lane,Salem Oaks,1576,1998,3,2,1,Detached,"$250,000","$269,000",0-.25 Acres,6,0,0.9805,"$218,590.00",No,1,1,3,3,1.08,NA,Apex,NC,place
+-78.8443448904878,35.7280811365051,107 N Tunstall Avenue,Not in a Subdivision,1420,1930,3,2,0,Detached,"$289,000","$270,000",.26-.5 Acres,6,0,0.9805,"$220,335.00",No,2,0,12,12,0.93,NA,Apex,NC,place
+-78.8198560816327,35.7401713469388,1005 Bray Court,Buckingham,2317,1996,4,2,1,Detached,"$275,000","$271,000",.26-.5 Acres,7,588,1.0045,"$235,743.00",No,1,0,27,27,0.99,NA,Apex,NC,place
+-78.9109818014457,35.7225275,610 Kinship Lane,Hollands Crossing,1809,2001,4,2,0,Detached,"$269,900","$272,000",0-.25 Acres,7,0,0.9805,"$235,017.00",No,1,2,6,6,1.01,NA,Apex,NC,building
+-78.8434169820525,35.732035124559,548 Old Mill Village Drive,Old Mill Village,2080,2008,3,3,1,Attached,"$274,000","$274,000",0-.25 Acres,6,555,1.0045,"$218,337.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8361967791166,35.7291348887034,305 Satinwood Drive,Surrey Meadows,1920,1996,4,2,1,Detached,"$279,900","$274,500",.26-.5 Acres,7,0,1.15,"$255,699.00",No,1,2,86,86,0.98,NA,Apex,NC,place
+-78.9059407751395,35.72401205,106 Kinship Lane,Hollands Crossing,1814,1999,4,2,0,Detached,"$269,900","$275,000",.26-.5 Acres,9,0,0.9805,"$239,924.00",No,1,2,5,5,1.02,NA,Apex,NC,building
+-78.8428166206034,35.7312881786868,403 N Tunstall Avenue,The Villages of Apex,2052,2014,4,3,1,Attached,"$275,000","$275,000",0-.25 Acres,6,0,0.97,"$242,848.00",No,0,2,0,0,1,NA,Apex,NC,place
+-78.8428879201505,35.7316420075373,511 Old Mill Village Drive,Old Mill Village,1911,2014,3,2,1,Attached,"$275,000","$275,000",0-.25 Acres,6,0,0.9805,"$232,511.00",No,0,2,7,7,1,NA,Apex,NC,place
+-78.856149,35.739156,601 Hillcrest Road,Not in a Subdivision,2003,1974,4,2,1,Detached,"$285,000","$275,900",.51-.75 Acres,10,412,0.98,"$282,608.00",No,2,2,7,7,0.97,NA,Apex,NC,place
+-78.9032910786016,35.7286092859293,302 Kelly West Drive,Kelly West,1806,2002,4,2,1,Detached,"$272,000","$276,500",0-.25 Acres,8,0,0.9805,"$235,535.00",No,1,2,2,2,1.02,NA,Apex,NC,place
+-78.9099924452569,35.7280243,103 Alice Court,Hollands Crossing,1811,1997,3,2,0,Detached,"$275,000","$277,000",0-.25 Acres,9,0,0.9625,"$233,261.00",No,1,2,3,3,1.01,NA,Apex,NC,building
+-78.908017588459,35.7343314840943,4028 Winecott Drive,Woodridge,1943,1999,4,2,1,Detached,"$287,500","$277,000",0-.25 Acres,8,108,0.94,"$268,756.00",No,1,2,98,98,0.96,NA,Apex,NC,place
+-78.849178429348,35.7390865341581,107 Tracey Creek Court,Salem Oaks,2029,1998,4,2,1,Detached,"$285,000","$278,000",0-.25 Acres,8,0,0.9805,"$240,944.00",No,1,1,34,34,0.98,NA,Apex,NC,place
+-78.8727119545399,35.726007638435,102 Homegate Circle,Green at Scotts Mill,1673,2004,3,2,1,Detached,"$278,000","$278,000",0-.25 Acres,6,0,0.968,"$247,070.00",No,0,2,18,18,1,NA,Apex,NC,place
+-78.8516328626296,35.7241514898092,512 S Hughes Street,Not in a Subdivision,1753,1954,3,2,0,Detached,"$289,500","$279,000",.51-.75 Acres,6,1528,0.94,"$183,662.00",No,1,2,34,2,0.96,NA,Apex,NC,place
+-78.8656829,35.7604504,2451 Castleburg Drive,Charleston Village,1971,1998,4,2,1,Detached,"$279,900","$279,900",0-.25 Acres,8,0,1.004,"$247,759.00",No,1,2,5,5,1,NA,Apex,NC,building
+-78.8467677,35.74826,1105 Boxcar Way,The Villages of Apex,2426,2016,3,2,1,Attached,"$275,774","$279,974",0-.25 Acres,7,0,1.0045,$0.00,Yes,0,1,13,13,1.02,NA,Apex,NC,highway
+-78.9094838186496,35.7310791434718,1004 Starita Court,Woodridge,2148,1998,3,2,1,Detached,"$285,700","$280,000",.26-.5 Acres,9,0,1.0045,"$268,389.00",No,1,2,161,161,0.98,NA,Apex,NC,place
+-78.8451286538462,35.7457386153846,931 Shoofly Path,The Villages of Apex,2062,2014,4,3,1,Attached,"$280,000","$280,000",0-.25 Acres,8,646,0.9805,"$259,720.00",No,1,2,33,33,1,NA,Apex,NC,place
+-78.8718074492107,35.7270443378016,218 Homegate Circle,Scotts Mill,1737,2003,3,2,1,Detached,"$285,000","$280,500",0-.25 Acres,7,0,0.988,"$255,390.00",No,1,2,23,23,0.98,NA,Apex,NC,place
+-78.8451457307692,35.7453509230769,907 Shoofly Path,The Villages of Apex,2096,2015,3,3,1,Attached,"$279,900","$281,000",0-.25 Acres,6,0,0.9805,"$266,483.00",No,1,0,6,6,1,NA,Apex,NC,place
+-78.8467677,35.74826,1188 Boxcar Way,The Villages of Apex,1984,2016,3,2,1,Attached,"$276,585","$281,930",0-.25 Acres,6,0,1.0045,$0.00,Yes,0,2,11,11,1.02,NA,Apex,NC,highway
+-78.8986287959184,35.7168741836735,2407 Brasstown Lane,Crocketts Ridge,1976,2001,3,2,1,Detached,"$279,900","$282,000",0-.25 Acres,8,442,0.874,"$248,470.00",No,1,2,2,2,1.01,NA,Apex,NC,place
+-78.8275401637528,35.7279113240089,210 Tobacco Leaf Lane,Seagroves Farm,2163,2008,3,2,1,Attached,"$286,000","$283,000",0-.25 Acres,8,0,0.9805,"$238,188.00",No,1,2,5,5,0.99,NA,Apex,NC,place
+-78.863240260547,35.7324319094232,606 N Coalport Drive,Amherst,2190,1995,4,2,1,Detached,"$292,000","$284,500",.26-.5 Acres,9,0,0.97,"$252,095.00",No,1,1,48,48,0.97,NA,Apex,NC,place
+-78.8822009226978,35.7580170314954,2403 Dial Drive,Walden Creek,1753,1998,3,2,0,Detached,"$285,000","$285,000",0-.25 Acres,7,66,0.9805,"$254,542.00",No,1,2,2,2,1,NA,Apex,NC,place
+-78.8467677,35.74826,1101 Boxcar Way,The Villages of Apex,2427,2016,3,3,1,Attached,"$278,000","$286,460",0-.25 Acres,7,0,1.045,$0.00,Yes,0,2,31,31,1.03,NA,Apex,NC,highway
+-78.9095616116535,35.72474,203 New Timber Path,Hollands Crossing,2065,2000,3,2,1,Detached,"$274,900","$287,000",0-.25 Acres,7,0,0.874,"$244,575.00",No,1,2,3,3,1.04,NA,Apex,NC,building
+-78.9009200691514,35.7280964740554,306 Chapel Valley Lane,Kelly West,1924,2005,3,2,1,Detached,"$282,000","$287,000",0-.25 Acres,7,0,0.00988,"$260,718.00",No,1,2,3,3,1.02,NA,Apex,NC,place
+-78.8262837913182,35.6896016593576,710 Straywhite Avenue,Miramonte,2381,2006,4,2,1,Detached,"$290,000","$287,500",0-.25 Acres,9,0,0.99,"$263,890.00",No,1,2,37,37,0.99,NA,Apex,NC,place
+-78.8516772722729,35.7342940923806,1207 Brittany Point Court,Brittany Trace,2261,1996,4,2,1,Detached,"$289,500","$288,000",0-.25 Acres,8,0,0.9805,"$224,938.00",No,1,1,19,19,0.99,NA,Apex,NC,place
+-78.8964407826931,35.7205154991882,2019 Jerimouth Drive,Crocketts Ridge,1971,1999,4,2,1,Detached,"$289,900","$289,000",0-.25 Acres,8,0,1.02,"$250,400.00",No,1,2,8,8,1,NA,Apex,NC,place
+-78.9030797755102,35.7287448979592,102 Kelly Brook Court,Kelly West,2115,2003,4,3,1,Detached,"$289,900","$289,900",.26-.5 Acres,8,0,0.9805,"$248,303.00",No,1,2,20,20,1,NA,Apex,NC,place
+-78.8719384472913,35.7314935014662,604 Cameron Glen Drive,Cameron Park,1801,1999,3,2,1,Detached,"$289,900","$289,900",0-.25 Acres,7,0,1.0045,"$260,893.00",No,1,2,5,5,1,NA,Apex,NC,place
+-78.829324106859,35.741618784996,1315 Apache Lane,Shepherds Vineyard,2188,1987,4,2,1,Detached,"$299,900","$290,000",0-.25 Acres,8,0,1.0045,"$253,059.00",No,1,1,43,43,0.97,NA,Apex,NC,place
+-78.8660553,35.7598705,2004 Castleburg Drive,Charleston Village,2102,1997,3,2,1,Detached,"$299,000","$290,000",.26-.5 Acres,8,0,0.98,"$262,657.00",No,1,2,7,7,0.97,NA,Apex,NC,building
+-78.8718651270339,35.7270347204353,214 Homegate Circle,Scotts Mill,1886,2004,3,2,1,Detached,"$295,000","$290,000",0-.25 Acres,7,1322,1.0045,"$283,918.00",No,1,2,52,52,0.98,NA,Apex,NC,place
+-78.8983300917,35.720025633358,2108 Jerimouth Drive,Crocketts Ridge,2362,2000,4,2,1,Detached,"$299,000","$292,500",0-.25 Acres,8,0,0.9545,"$259,646.00",No,1,2,10,10,0.98,NA,Apex,NC,place
+-78.9091415530178,35.7236815,401 New Timber Path,Hollands Crossing,2298,2000,4,2,1,Detached,"$291,900","$293,500",0-.25 Acres,11,0,0.9805,"$256,692.00",No,1,2,2,2,1.01,NA,Apex,NC,building
+-78.8767369338522,35.7320782120621,1504 Redwater Branch Court,Dogwood Ridge,1862,2000,3,2,1,Detached,"$289,900","$295,000",0-.25 Acres,6,0,0.9805,"$265,436.00",No,1,2,2,2,1.02,NA,Apex,NC,place
+-78.8866723315847,35.7264822693754,904 Scotts Ridge Trail,Scotts Mill,1977,2001,3,2,1,Detached,"$309,000","$297,000",.26-.5 Acres,7,0,0.98,"$287,300.00",No,1,2,39,39,0.96,NA,Apex,NC,place
+-78.8505155419309,35.7388805805727,210 Abbey Oak Lane,Salem Oaks,2425,1998,4,3,1,Detached,"$290,000","$297,000",0-.25 Acres,8,0,0.9805,"$259,127.00",No,1,2,1,1,1.02,NA,Apex,NC,place
+-78.887011761613,35.7363131847313,1005 Double Spring Court,Ashley Downs,2243,2001,3,2,1,Detached,"$302,500","$297,500",.26-.5 Acres,9,619,1.045,"$247,960.00",No,1,2,78,8,0.98,NA,Apex,NC,place
+-78.8212552162371,35.7354782940095,1002 W Sterlington Place,Buckingham,2242,1993,4,2,1,Detached,"$319,900","$299,000",0-.25 Acres,8,615,0.98,"$280,967.00",No,1,2,19,19,0.93,NA,Apex,NC,place
+-78.8712601,35.7635383,2109 Battery Wagner Drive,Charleston Village,1955,1997,3,2,1,Detached,"$299,900","$299,900",.26-.5 Acres,8,0,0.9805,"$245,190.00",No,1,2,3,3,1,NA,Apex,NC,building
+-78.8677211,35.7654344,2004 Canonicus Court,Charleston Village,2149,2003,3,2,1,Detached,"$317,000","$300,000",0-.25 Acres,8,0,0.968,"$289,083.00",No,1,2,35,35,0.95,NA,Apex,NC,building
+-78.8953501368673,35.7185756855706,2314 Brasstown Lane,Crocketts Ridge,3401,2003,5,3,0,Detached,"$309,500","$300,000",0-.25 Acres,11,0,1.045,"$319,274.00",No,1,2,111,111,0.97,NA,Apex,NC,place
+-78.873106,35.730753,101 Menteith Court,Cameron Park,1876,2001,3,2,1,Detached,"$300,000","$302,000",0-.25 Acres,8,0,0.9805,"$271,693.00",No,1,2,5,5,1.01,NA,Apex,NC,place
+-78.8780672395,35.7297619439083,1437 Big Leaf Loop,Dogwood Ridge,2131,2002,3,2,1,Detached,"$309,900","$304,000",0-.25 Acres,8,0,0.9,"$295,093.00",No,1,2,20,20,0.98,NA,Apex,NC,place
+-78.909804,35.72981,2001 Winecott Drive,Woodridge,2006,1998,3,2,1,Detached,"$309,900","$304,000",.26-.5 Acres,8,200,0.9805,"$267,925.00",No,1,2,3,3,0.98,NA,Apex,NC,place
+-78.845166660722,35.7441223527375,950 Shoofly Path,The Villages of Apex,2082,2013,3,2,2,Detached,"$310,000","$305,000",0-.25 Acres,7,0,0.9805,"$265,239.00",No,1,2,17,17,0.98,NA,Apex,NC,place
+-78.895597648208,35.7177255320306,2339 Brasstown Lane,Crocketts Ridge,2403,2002,3,2,1,Detached,"$305,500","$305,000",0-.25 Acres,9,0,0.9805,"$269,389.00",No,1,2,2,2,1,NA,Apex,NC,place
+-78.8353768042629,35.7298516226723,1107 Rainesview Lane,Surrey Meadows,2052,1996,3,2,1,Detached,"$305,000","$305,000",0-.25 Acres,7,0,0.97,"$255,143.00",No,1,2,10,10,1,NA,Apex,NC,place
+-78.8193719,35.7262118,2104 Cannonford Court,Waterford Green,2102,1996,4,2,1,Detached,"$314,895","$305,000",0-.25 Acres,9,636,0.9805,"$281,876.00",No,1,2,37,37,0.97,NA,Apex,NC,highway
+-78.8243929926333,35.7274599937879,802 Green Passage Lane,Waterford Green,2417,1994,4,2,1,Detached,"$305,000","$305,000",.26-.5 Acres,9,1307,1.0045,"$319,003.00",No,1,2,15,15,1,NA,Apex,NC,place
+-78.8721954,35.7597846,2011 Keokuk Court,Charleston Village,1990,1996,3,2,1,Detached,"$299,500","$305,000",.26-.5 Acres,8,0,0.9805,"$239,399.00",No,1,2,3,3,1.02,NA,Apex,NC,building
+-78.8782453061921,35.7298041417102,1435 Big Leaf Loop,Dogwood Ridge,1813,1997,4,2,1,Detached,"$305,000","$305,000",0-.25 Acres,9,0,0.9805,"$243,850.00",No,1,2,5,5,1,NA,Apex,NC,place
+-78.8949774461098,35.720093869359,1992 Frissell Avenue,Crocketts Ridge,2357,2002,3,2,1,Detached,"$315,000","$308,000",0-.25 Acres,9,0,0.9805,"$271,289.00",No,1,2,13,13,0.98,NA,Apex,NC,place
+-78.8712017346939,35.7354843673469,102 Dunvegan Court,Cameron Park,2084,1998,3,2,1,Detached,"$319,000","$309,000",0-.25 Acres,8,0,0.9805,"$310,290.00",No,1,2,23,23,0.97,NA,Apex,NC,place
+-78.82911,35.690994,100 Lacuna Woods Lane,Miramonte,2372,2005,4,2,1,Detached,"$310,000","$310,000",0-.25 Acres,9,0,0.9805,"$259,672.00",No,1,2,2,2,1,NA,Apex,NC,place
+-78.8886721632653,35.729165,105 Myrtle View Court,Scotts Mill,2354,2001,3,2,1,Detached,"$320,000","$310,000",0-.25 Acres,8,0,1.0045,"$294,190.00",No,1,2,51,51,0.97,NA,Apex,NC,place
+-78.8453396666667,35.74554,912 Shoofly Path,The Villages of Apex,2257,2013,4,3,1,Detached,"$300,000","$310,000",0-.25 Acres,8,0,0.98,"$261,716.00",No,1,2,2,2,1.03,NA,Apex,NC,place
+-78.9093389173215,35.7312348769491,1011 Starita Court,Woodridge,1949,1998,4,3,0,Detached,"$310,000","$310,000",0-.25 Acres,8,0,0.9805,"$280,774.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8272089803192,35.6901636723328,107 Minnifer Court,Miramonte,2363,2006,4,2,1,Detached,"$310,000","$310,000",0-.25 Acres,9,0,0.9805,"$260,395.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8706528,35.7641207,2031 Battlewood Road,Charleston Village,2193,1998,3,2,1,Detached,"$314,900","$310,000",.26-.5 Acres,9,0,1.004,"$298,309.00",No,1,2,17,17,0.98,NA,Apex,NC,building
+-78.8332942989957,35.7296307368321,1304 Rainesview Lane,Surrey Meadows,1854,1995,3,2,1,Detached,"$299,900","$310,000",0-.25 Acres,8,0,0.97,"$247,821.00",No,1,1,2,2,1.03,NA,Apex,NC,place
+-78.8663260433305,35.7265196271392,1105 Elbury Drive,Whitehall Manor,2068,2006,3,2,1,Detached,"$320,000","$311,000",0-.25 Acres,8,0,0.9805,"$291,617.00",No,1,2,111,39,0.97,NA,Apex,NC,place
+-78.8878448,35.734741,1002 Chickering Court,Ashley Downs,2359,2003,3,2,1,Detached,"$314,999","$314,990",.26-.5 Acres,8,0,0.9805,"$251,597.00",No,1,2,9,9,1,NA,Apex,NC,highway
+-78.8453211666667,35.74596,930 Shoofly Path,The Villages of Apex,2340,2013,3,2,1,Detached,"$315,000","$315,000",0-.25 Acres,7,0,0.9805,"$276,276.00",No,0,2,7,7,1,NA,Apex,NC,place
+-78.909868,35.73291,3100 Cregler Drive,Woodbridge,2188,1999,3,2,1,Detached,"$318,000","$315,500",.26-.5 Acres,8,0,0.9805,"$294,613.00",No,1,2,5,5,0.99,NA,Apex,NC,place
+-78.8948338575213,35.719958730218,1997 Frissell Avenue,Crocketts Ridge,2349,2001,3,2,1,Detached,"$324,900","$316,000",0-.25 Acres,9,0,0.99,"$265,038.00",No,1,2,7,7,0.97,NA,Apex,NC,place
+-78.866264,35.7619257,2002 Sassacus Lane,Charleston Village,2112,2000,3,2,1,Detached,"$324,500","$316,101",0-.25 Acres,8,213,0.99,"$274,502.00",No,1,2,58,58,0.97,NA,Apex,NC,building
+-78.8319279684707,35.7407996450936,1109 Smokewood Drive,Shepherds Vineyard,2347,1988,4,2,1,Detached,"$300,000","$317,000",.26-.5 Acres,9,0,0.91,"$264,273.00",No,1,1,1,1,1.06,NA,Apex,NC,place
+-78.8729810099542,35.7260631575299,111 Homegate Circle,Scotts Mill,1839,2002,3,2,0,Detached,"$310,000","$317,000",0-.25 Acres,7,0,0.9805,"$273,410.00",No,1,2,5,5,1.02,NA,Apex,NC,place
+-78.8826717860035,35.7554977249077,2416 Colony Woods Drive,Walden Creek,2070,1998,4,2,1,Detached,"$319,900","$317,500",0-.25 Acres,8,0,0.9805,"$274,630.00",No,1,2,5,5,0.99,NA,Apex,NC,place
+-78.8800955583238,35.7356782764638,1202 Garden Gate Place,Pearson Farms,2053,1995,4,2,1,Detached,"$310,000","$317,500",.26-.5 Acres,7,0,0.9805,"$267,032.00",No,1,2,2,2,1.02,NA,Apex,NC,place
+-78.872449,35.731478,1802 WHITE DOGWOOD Road,Cameron Park,2324,2000,3,2,1,Detached,"$329,900","$317,750",0-.25 Acres,9,0,1,"$317,604.00",No,1,2,166,166,0.96,NA,Apex,NC,place
+-78.825769,35.68857,725 Straywhite Avenue,Miramonte,2606,2008,4,2,1,Detached,"$320,000","$319,000",0-.25 Acres,9,0,0.9805,"$284,736.00",No,1,2,34,34,1,NA,Apex,NC,place
+-78.8335151,35.7285237,991 Myrtle Grove Lane,The Groves,2342,2016,3,2,1,Attached,"$339,900","$320,000",0-.25 Acres,7,68,0.9805,$0.00,Yes,1,2,13,13,0.94,NA,Apex,NC,highway
+-78.8335151,35.7285237,993 Myrtle Grove Lane,The Groves,2339,2016,3,2,1,Attached,"$339,900","$320,000",0-.25 Acres,7,68,0.9805,$0.00,Yes,1,2,13,13,0.94,NA,Apex,NC,highway
+-78.8514130542186,35.7437024940284,1104 Brittley Way,Haddon Place,2016,1996,3,2,1,Detached,"$320,000","$320,000",0-.25 Acres,7,0,0.98,"$302,976.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.907679,35.733861,3000 Commodore Drive,Woodridge,2295,2000,3,2,1,Detached,"$319,900","$320,000",.26-.5 Acres,9,0,0.9805,"$280,614.00",No,1,2,6,6,1,NA,Apex,NC,place
+-78.8665505,35.7654148,2310 Templeton Gap Drive,Charleston Village,2116,2003,3,2,1,Detached,"$325,000","$320,000",0-.25 Acres,8,0,0.9805,"$306,865.00",No,1,2,44,44,0.98,NA,Apex,NC,building
+-78.8763141830059,35.7301394146693,1607 Royal Red Trail,Dogwood Ridge,2297,2002,4,2,1,Detached,"$315,000","$320,500",0-.25 Acres,8,0,0.9805,"$287,702.00",No,1,2,1,1,1.02,NA,Apex,NC,place
+-78.84734225,35.74553425,913 Branch Line Lane,The Villages of Apex,2346,2014,3,2,2,Detached,"$309,900","$321,000",0-.25 Acres,8,1046,0.9805,"$268,348.00",No,0,2,3,3,1.04,NA,Apex,NC,place
+-78.840309188666,35.732851396811,526 Mill Hopper Lane,The Villages of Apex,1842,2016,3,2,1,Detached,"$329,900","$322,000",0-.25 Acres,7,400,0.88,"$74,768.00",Yes,1,2,182,182,0.98,NA,Apex,NC,place
+-78.883177941625,35.7339889761193,1306 Patterson Grove Road,Pearson Farms,2282,1997,4,2,1,Detached,"$325,000","$322,000",.26-.5 Acres,11,0,0.9625,"$278,857.00",No,1,2,1,1,0.99,NA,Apex,NC,place
+-78.8820561713205,35.7599181828749,2203 Henniker Street,Walden Creek,2483,1999,4,2,1,Detached,"$339,900","$322,500",0-.25 Acres,8,0,0.9805,"$287,737.00",No,1,2,8,8,0.95,NA,Apex,NC,place
+-78.8629996087177,35.7480151734922,904 Carolina Bell Road,The Orchard Villas,1733,2008,2,2,0,Condo,"$339,900","$325,000",0-.25 Acres,6,0,1.0045,"$298,229.00",No,1,2,127,127,0.96,NA,Apex,NC,place
+-78.8943071516283,35.7206762737677,1890 Frissell Avenue,Crocketts Ridge,2216,2000,4,2,1,Detached,"$324,900","$325,000",0-.25 Acres,9,0,1.05,"$256,612.00",No,1,2,9,9,1,NA,Apex,NC,place
+-78.8968762244898,35.7197356938776,2003 Chimney Rock Court,Crocketts Ridge,3029,2001,5,2,1,Detached,"$340,000","$325,000",0-.25 Acres,10,0,0.987,"$299,182.00",No,1,2,29,29,0.96,NA,Apex,NC,place
+-78.8823859981283,35.7291353110765,302 Hickory View Lane,Scotts Mill,2007,1998,4,2,1,Detached,"$325,000","$325,500",0-.25 Acres,8,0,0.9805,"$290,139.00",No,1,2,49,49,1,NA,Apex,NC,place
+-78.8317762653061,35.6909503673469,204 Straywhite Avenue,Miramonte,2599,2005,4,2,1,Detached,"$325,000","$326,000",0-.25 Acres,9,0,1.0117,"$278,244.00",No,1,2,5,5,1,NA,Apex,NC,place
+-78.8849249788691,35.7316556527032,1601 Patterson Grove Road,Pearson Farms,2314,1998,4,2,1,Detached,"$315,000","$326,000",0-.25 Acres,12,0,0.9625,"$280,946.00",No,1,2,1,1,1.03,NA,Apex,NC,place
+-78.8339297513543,35.7303680061318,400 Vintage Grove Lane,Surrey Meadows,2333,1995,4,3,1,Detached,"$335,000","$328,000",0-.25 Acres,7,0,0.98,"$271,870.00",No,1,2,32,32,0.98,NA,Apex,NC,place
+-78.8464313,35.7454295,906 Ambergate Station,The Villages of Apex,2471,2012,4,3,1,Detached,"$325,000","$328,000",0-.25 Acres,8,0,0.9805,"$292,412.00",No,0,2,3,3,1.01,NA,Apex,NC,place
+-78.88508,35.728187,701 Scotts Ridge Trail,Scotts Mill,2497,1999,4,3,1,Detached,"$329,900","$329,900",0-.25 Acres,8,0,0.988,"$281,734.00",No,1,1,69,69,1,NA,Apex,NC,place
+-78.8677672622643,35.7256898531881,1413 Applethorn Drive,Whitehall Manor,2130,2004,3,2,1,Detached,"$324,900","$330,000",0-.25 Acres,9,998,0.9805,"$304,743.00",No,1,2,25,25,1.02,NA,Apex,NC,place
+-78.8823902683764,35.7294339459126,416 Timber Cut Lane,Scotts Mill,1987,1999,3,2,1,Detached,"$329,000","$331,400",.26-.5 Acres,7,247,1.0045,"$286,755.00",No,1,2,1,1,1.01,NA,Apex,NC,place
+-78.881207,35.727301,200 Maple Creek Court,Scotts Mill,2336,1998,3,2,1,Detached,"$339,900","$333,000",0-.25 Acres,8,0,0.9805,"$294,888.00",No,1,2,27,27,0.98,NA,Apex,NC,place
+-78.8661886010537,35.7434972103867,1009 Devonhurst Court,Haddon Hall,2382,1996,4,2,1,Detached,"$328,000","$333,000",.26-.5 Acres,8,0,0.97,"$315,680.00",No,1,2,4,4,1.02,NA,Apex,NC,place
+-78.882146,35.727089,312 Pine Nut Lane,Scotts Mill,2014,1999,3,2,1,Detached,"$335,900","$333,900",0-.25 Acres,8,0,1.25,"$280,049.00",No,1,1,100,100,0.99,NA,Apex,NC,place
+-78.8804354958589,35.7285806766297,304 Cedar Trail Lane,Scotts Mill,2270,2001,3,2,1,Detached,"$334,900","$334,000",0-.25 Acres,8,0,1.0045,"$290,487.00",No,1,2,38,38,1,NA,Apex,NC,place
+-78.883343,35.754477,2000 Aston Woods Court,Walden Woods,2964,2000,4,2,1,Detached,"$338,000","$335,000",.26-.5 Acres,10,0,0.98,"$284,675.00",No,1,2,35,35,0.99,NA,Apex,NC,place
+-78.8692652483099,35.7229577922517,1106 Whiston Drive,Whitehall Manor,2159,2002,3,2,1,Detached,"$339,000","$335,000",.26-.5 Acres,10,0,0.9805,"$280,510.00",No,1,2,11,11,0.99,NA,Apex,NC,place
+-78.8316198367347,35.6921976326531,207 October Glory Lane,Miramonte,2592,2005,4,2,1,Detached,"$335,000","$335,000",0-.25 Acres,9,0,0.964,"$267,055.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.876848,35.731847,1461 Big Leaf Loop,Dogwood Ridge,2260,2000,3,2,1,Detached,"$335,000","$336,000",0-.25 Acres,8,0,0.9805,"$291,560.00",No,1,2,4,4,1,NA,Apex,NC,place
+-78.8714083168197,35.726108853293,220 Garden Plaza Way,Green at Scotts Mill,2555,2005,5,2,1,Detached,"$339,900","$337,000",0-.25 Acres,10,26,0.9805,"$313,272.00",No,1,2,58,58,0.99,NA,Apex,NC,place
+-78.8693339543774,35.7268061337855,1005 Camden Town Place,Whitehall Manor,2257,2006,3,2,1,Detached,"$350,000","$338,000",0-.25 Acres,10,0,0.99,"$321,859.00",No,1,2,32,32,0.97,NA,Apex,NC,place
+-78.822610505479,35.7274163122717,1011 W Abberley Lane,Waterford Green,2621,1989,3,2,2,Detached,"$358,500","$340,000",0-.25 Acres,9,0,0.9805,"$259,944.00",No,1,1,52,52,0.95,NA,Apex,NC,place
+-78.883024700391,35.7276814845853,331 Pine Nut Lane,Scotts Mill,2024,2000,3,2,1,Detached,"$330,000","$341,000",.26-.5 Acres,9,0,1.0045,"$265,713.00",No,1,1,1,1,1.03,NA,Apex,NC,place
+-78.8272189671987,35.6901441205547,111 Minnifer Court,Miramonte,2701,2005,5,2,1,Detached,"$335,000","$341,000",0-.25 Acres,9,0,1.0045,"$285,957.00",No,1,2,20,20,1.02,NA,Apex,NC,place
+-78.8719881227868,35.7322520199054,514 Cameron Glen Drive,Cameron Park,2332,1999,4,2,1,Detached,"$339,000","$342,000",0-.25 Acres,8,0,0.96,"$305,058.00",No,1,2,2,2,1.01,NA,Apex,NC,place
+-78.8841111259166,35.7565487869103,2506 Cranswick Place,Walden Creek,2670,1997,4,2,1,Detached,"$349,000","$342,000",.26-.5 Acres,9,0,1.0045,"$315,296.00",No,1,2,7,7,0.98,NA,Apex,NC,place
+-78.8650419,35.7461199,1809 Abby Knoll Drive,Haddon Hall,2523,2000,5,2,1,Detached,"$350,000","$343,000",0-.25 Acres,10,0,0.985,"$293,440.00",No,1,2,34,34,0.98,NA,Apex,NC,highway
+-78.8909729966265,35.7327657049685,1212 Twelve Oaks Lane,Ashley Downs,2997,2002,4,3,1,Detached,"$350,000","$344,000",.26-.5 Acres,9,0,0.9805,"$278,949.00",No,1,2,4,4,0.98,NA,Apex,NC,place
+-78.863099,35.748083,900 Carolina Bell Road,The Orchard Villas,1913,2008,2,2,0,Attached,"$349,900","$344,000",0-.25 Acres,8,0,0.98,"$317,654.00",No,1,2,30,30,0.98,NA,Apex,NC,place
+-78.861124839689,35.7484682131526,1513 Orchard Villas Avenue,The Orchard Villas,1862,2009,2,2,0,Attached,"$349,900","$345,000",0-.25 Acres,8,0,0.98,"$317,654.00",No,1,2,32,32,0.99,NA,Apex,NC,place
+-78.8324810968645,35.7346283290594,1005 NAPA Place,Vintage Grove,2476,1993,3,2,1,Detached,"$340,000","$345,100",0-.25 Acres,8,0,0.94,"$272,737.00",No,1,2,4,4,1.02,NA,Apex,NC,place
+-78.8897315616175,35.7333878206774,2006 Red Deer Court,Ashley Downs,2535,2000,4,2,1,Detached,"$349,900","$346,000",.26-.5 Acres,11,0,0.99,"$262,745.00",No,1,2,21,21,0.99,NA,Apex,NC,place
+-78.8291052340368,35.6910401345235,106 Lacuna Woods Lane,Miramonte,2840,2007,5,2,1,Detached,"$350,000","$347,500",0-.25 Acres,11,0,0.9805,"$288,650.00",No,1,2,42,42,0.99,NA,Apex,NC,place
+-78.8772976091641,35.7244011229783,420 Magdala Place,Scotts Mill,2579,2001,3,2,1,Detached,"$349,999","$347,500",0-.25 Acres,8,320,0.97,"$309,462.00",No,1,2,12,12,0.99,NA,Apex,NC,place
+-78.8789425702582,35.75800305496,2010 Henniker Street,Walden Creek,2281,1998,4,2,1,Detached,"$350,000","$347,625",0-.25 Acres,8,0,1.0045,"$261,260.00",No,1,2,13,13,0.99,NA,Apex,NC,place
+-78.8692918587406,35.7346290516398,137 Sharp Top Trail,Peakway Village,2992,2008,4,3,1,Detached,"$350,000","$348,000",0-.25 Acres,10,0,0.9805,"$309,115.00",No,1,2,7,7,0.99,NA,Apex,NC,place
+-78.9102934463415,35.7329514463415,3117 Cregler Drive,Woodridge,2727,2001,3,2,1,Detached,"$360,000","$350,000",0-.25 Acres,9,0,0.9805,"$329,607.00",No,1,2,7,7,0.97,NA,Apex,NC,place
+-78.8298304791667,35.6920298125,405 October Glory Lane,Miramonte,2789,2007,5,2,1,Detached,"$357,000","$351,500",0-.25 Acres,10,418,0.9805,"$289,433.00",No,1,2,6,6,0.98,NA,Apex,NC,place
+-78.8821344887966,35.7552244992531,2322 Colony Woods Drive,Walden Creek,2736,1997,4,2,1,Detached,"$354,900","$351,600",0-.25 Acres,11,0,1.0045,"$315,296.00",No,1,2,103,103,0.99,NA,Apex,NC,place
+-78.8776047517807,35.7268027682745,304 Village Loop Drive,Scotts Mill,2862,2003,4,2,1,Detached,"$365,000","$354,000",0-.25 Acres,9,0,0.9805,"$314,301.00",No,1,2,92,92,0.97,NA,Apex,NC,place
+-78.861400301672,35.7482901728823,1504 Orchard Villas Avenue,The Orchard Villas,1997,2011,2,2,0,Condo,"$367,500","$355,000",0-.25 Acres,7,0,0.9805,"$322,912.00",No,1,2,5,5,0.97,NA,Apex,NC,place
+-78.8469466153846,35.7463668461538,1166 Marker Drive,The Villages of Apex,2709,2013,3,2,1,Detached,"$357,500","$355,000",0-.25 Acres,10,49,0.0088,"$359,555.00",No,1,2,20,20,0.99,NA,Apex,NC,place
+-78.8872234433732,35.729665801874,125 Cypress View Way,Scotts Mill,2220,2002,3,2,1,Detached,"$345,000","$355,000",0-.25 Acres,8,1046,0.98,"$312,471.00",No,1,2,3,3,1.03,NA,Apex,NC,place
+-78.8711994693878,35.7356497346939,105 Dunvegan Court,Cameron Park,2432,1998,4,2,1,Detached,"$350,000","$355,250",.26-.5 Acres,8,0,0.9805,"$306,546.00",No,1,2,3,3,1.02,NA,Apex,NC,place
+-78.8802318611489,35.7277422573918,300 Maple Creek Court,Scotts Mill,2336,1998,4,2,1,Detached,"$365,000","$355,500",0-.25 Acres,8,0,0.9805,"$304,692.00",No,1,2,3,3,0.97,NA,Apex,NC,place
+-78.8837238212445,35.7575434952696,2112 Echo Glen Lane,Walden Creek,2465,2000,4,2,1,Detached,"$360,000","$358,000",0-.25 Acres,8,0,0.9805,"$286,961.00",No,1,2,10,10,0.99,NA,Apex,NC,place
+-78.8518169411655,35.7431970876298,1014 Tribayne Court,Haddon Place,2643,1996,3,2,1,Detached,"$364,500","$359,500",.26-.5 Acres,8,0,0.864,"$308,677.00",No,1,2,101,101,0.99,NA,Apex,NC,place
+-78.8710606725798,35.7349939900215,305 Cameron Glen Drive,Cameron Park,2245,1998,4,2,1,Detached,"$360,000","$360,000",0-.25 Acres,8,0,0.96,"$308,514.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8266670511827,35.7409618506501,1202 Wellstone Circle,Shepherds Vineyard,2751,1986,4,2,1,Detached,"$350,000","$360,000",.26-.5 Acres,13,1748,0.98,"$311,768.00",No,1,2,5,5,1.03,NA,Apex,NC,place
+-78.8370848979592,35.7361885714286,2003 Charington Court,Shepherds Vineyard,2679,1991,4,2,1,Detached,"$364,900","$362,000",.26-.5 Acres,10,0,1.045,"$284,944.00",No,1,2,8,8,0.99,NA,Apex,NC,place
+-78.868795,35.7608368,1913 Castleburg Drive,Charleston Village,2635,1997,4,2,1,Detached,"$360,000","$365,000",0-.25 Acres,12,0,0.9805,"$269,268.00",No,1,2,3,3,1.01,NA,Apex,NC,building
+-78.8685997538663,35.7270816184088,1606 Grappenhall Drive,Whitehall Manor,2391,2006,3,2,1,Detached,"$375,000","$365,000",.26-.5 Acres,7,0,0.98,"$299,694.00",No,1,2,8,8,0.97,NA,Apex,NC,place
+-78.8647714957382,35.7437295000554,916 Haddon Hall Drive,Haddon Hall,2672,1999,3,2,1,Detached,"$375,000","$368,000",.26-.5 Acres,9,0,0.98,"$344,826.00",No,1,2,27,27,0.98,NA,Apex,NC,place
+-78.8290938331352,35.7421179465841,1305 Apache Lane,Shepherds Vineyard,2887,1989,4,2,1,Detached,"$360,000","$368,000",.26-.5 Acres,9,0,1.045,"$312,561.00",No,1,2,2,2,1.02,NA,Apex,NC,place
+-78.8843262448559,35.7523200682482,2403 Walden Creek Drive,Walden Creek,2775,1997,4,2,1,Detached,"$379,900","$369,000",.26-.5 Acres,10,228,0.99,"$326,120.00",No,1,2,57,57,0.97,NA,Apex,NC,place
+-78.8780113809023,35.7270296540898,325 Village Loop Drive,Scotts Mill,2644,2003,4,3,1,Detached,"$375,000","$373,000",0-.25 Acres,10,0,1.0045,"$300,831.00",No,1,2,20,20,0.99,NA,Apex,NC,place
+-78.8836984489796,35.7293182040816,305 Hickory Bottom Court,Scotts Mill,2535,1999,4,2,1,Detached,"$374,900","$374,000",.26-.5 Acres,9,272,0.9805,"$362,489.00",No,1,2,41,41,1,NA,Apex,NC,place
+-78.8242533547908,35.7364546466955,1033 W Sterlington Place,Sterling at Buckingham,2648,1991,4,3,1,Detached,"$375,000","$375,000",.26-.5 Acres,9,336,0.9805,"$342,951.00",No,1,2,3,3,1,NA,Apex,NC,place
+-78.8728143526563,35.731278328514,705 TOWN SIDE Drive,Cameron Park,2718,2001,4,2,1,Detached,"$379,900","$376,500",.26-.5 Acres,10,0,0.981,"$339,292.00",No,1,2,21,21,0.99,NA,Apex,NC,place
+-78.8688956759134,35.7309155531712,1029 Torrence Drive,Amherst,3560,2003,5,3,0,Detached,"$385,000","$377,000",.26-.5 Acres,11,0,1.004,"$331,659.00",No,1,2,46,46,0.98,NA,Apex,NC,place
+-78.8622739695015,35.7439540168806,908 Haddon Hall Drive,Haddon Hall,2553,1997,4,2,1,Detached,"$369,000","$379,000",.26-.5 Acres,10,428,0.968,"$341,605.00",No,1,2,3,3,1.03,NA,Apex,NC,place
+-78.8698447754523,35.7250809764747,1306 Whiston Drive,Whitehall Manor,2560,2003,4,3,1,Detached,"$390,000","$380,000",.26-.5 Acres,10,177,0.9805,"$336,503.00",No,1,2,39,39,0.97,NA,Apex,NC,place
+-78.8326931738165,35.7288297557028,39 Old Grove Lane,The Groves,2755,2008,4,3,0,Attached,"$390,000","$380,000",0-.25 Acres,10,0,0.9805,"$356,644.00",No,1,2,111,111,0.97,NA,Apex,NC,place
+-78.882606,35.75225,1612 Squaw Walden Lane,Walden Creek,2792,1998,4,2,1,Detached,"$389,000","$380,000",.26-.5 Acres,9,0,0.99,"$356,910.00",No,1,2,19,19,0.98,NA,Apex,NC,place
+-78.8757636880502,35.7343323786252,1212 Tartarian Trail,Dogwood Ridge,2727,1999,4,2,1,Detached,"$375,000","$384,000",.26-.5 Acres,9,0,0.98,"$313,771.00",No,1,2,3,3,1.02,NA,Apex,NC,place
+-78.8614201,35.765803,207 Hasbrouck Drive,Montclair,2694,1999,4,2,1,Detached,"$385,000","$385,000",0-.25 Acres,9,0,0.9805,"$334,366.00",No,1,2,2,2,1,NA,Apex,NC,building
+-78.863605,35.7622608,2426 Castleburg Drive,Charleston Village,2896,2001,4,2,1,Detached,"$379,900","$385,000",.26-.5 Acres,9,0,0.99,"$344,738.00",No,1,2,2,2,1.01,NA,Apex,NC,building
+-78.881535,35.752247,2318 Walden Creek Drive,Walden Creek,2565,1997,4,2,1,Detached,"$385,000","$386,000",0-.25 Acres,7,562,0.9805,"$342,406.00",No,1,2,2,2,1,NA,Apex,NC,place
+-78.8693069224606,35.7337879925088,1083 Mosstree Drive,Amherst,3503,2001,5,2,1,Detached,"$399,900","$388,000",.26-.5 Acres,10,0,1.004,"$325,986.00",No,1,2,92,92,0.97,NA,Apex,NC,place
+-78.886611840809607,35.7292216636762,303 Cedar Wynd Drive,Scotts Mill,2610,2000,3,2,1,Detached,"$375,000","$388,500",0-.25 Acres,9,0,0.9805,"$328,462.00",No,1,2,3,3,1.04,NA,Apex,NC,place
+-78.8197832624499,35.7376706686196,1038 Kingsway Drive,Buckingham,3114,1992,4,3,1,Detached,"$389,900","$388,900",.26-.5 Acres,12,0,0.9805,"$315,517.00",No,1,2,7,7,1,NA,Apex,NC,place
+-78.8766647849708,35.7275558648131,406 Village Loop Drive,Green at Scotts Mill,2718,2007,4,2,1,Detached,"$400,000","$390,000",0-.25 Acres,7,1e3,1.02,"$355,717.00",No,1,2,22,22,0.98,NA,Apex,NC,place
+-78.8785434760517,35.7329211335276,1202 Pendula Path,Dogwood Ridge,3013,1999,4,3,0,Detached,"$415,000","$397,500",.26-.5 Acres,10,1464,0.9805,"$337,825.00",No,1,2,39,39,0.96,NA,Apex,NC,place
+-78.898244152335,35.7443859961348,102 Chantilly Court,Abbington,2608,1999,4,2,1,Detached,"$399,900","$398,000",0-.25 Acres,10,0,1.0045,"$378,127.00",No,1,2,88,88,1,NA,Apex,NC,place
+-78.877137,35.742979,1400 Fairfax Woods Drive,Beckett Crossing,3798,2004,5,3,0,Detached,"$415,000","$399,000",.26-.5 Acres,12,800,1.0045,"$391,863.00",No,1,2,79,79,0.96,NA,Apex,NC,place
+-78.8423107941177,35.7459605882353,931 Tender Drive,The Villages of Apex,2624,2008,3,3,0,Detached,"$405,000","$400,000",0-.25 Acres,8,0,0.9805,"$355,988.00",No,1,2,4,4,0.99,NA,Apex,NC,place
+-78.907281511969,35.7121567399409,1932 Lazio Lane,Bella Casa,2809,2010,4,3,0,Detached,"$409,000","$400,000",0-.25 Acres,10,0,1.0045,"$382,511.00",No,1,2,15,15,0.98,NA,Apex,NC,place
+-78.8853591779341,35.7296507940551,105 Hawkscrest Court,Scotts Mill,3926,2002,4,3,1,Detached,"$420,000","$400,000",.26-.5 Acres,10,333,1.0045,"$388,480.00",No,1,2,148,148,0.95,NA,Apex,NC,place
+-78.9071166153846,35.7111634615385,1987 Lazio Lane,Bella Casa,3598,2012,5,3,1,Detached,"$429,900","$405,000",0-.25 Acres,12,0,1.0045,"$414,630.00",No,1,2,171,171,0.94,NA,Apex,NC,place
+-78.8816940585927,35.7537782894299,1708 Walden Meadow Drive,Walden Creek,3054,1997,4,2,1,Detached,"$410,000","$405,000",.26-.5 Acres,10,0,0.99,"$329,884.00",No,1,2,5,5,0.99,NA,Apex,NC,place
+-78.8431938367347,35.7448805102041,962 Tender Drive,The Villages of Apex,2694,2008,3,2,1,Detached,"$410,000","$406,000",0-.25 Acres,8,0,0.9805,"$354,839.00",No,1,2,1,1,0.99,NA,Apex,NC,place
+-78.8848901760698,35.7508181418724,2508 Flints Pond Circle,Walden Creek,3327,2001,5,3,1,Detached,"$398,000","$407,000",.26-.5 Acres,8,0,1,"$385,532.00",No,1,2,1,1,1.02,NA,Apex,NC,place
+-78.8775386081138,35.7569757886541,1905 Loganwood Drive,Walden Creek,2900,1996,4,2,1,Detached,"$410,000","$410,000",.26-.5 Acres,10,0,0.9805,"$349,441.00",No,1,2,13,13,1,NA,Apex,NC,place
+-78.821291,35.72634,1000 Chedington Drive,Waterford Green,3177,1991,5,2,1,Detached,"$410,000","$410,000",.26-.5 Acres,10,0,0.9805,"$329,263.00",No,2,2,2,2,1,NA,Apex,NC,place
+-78.8827640615981,35.7512362209255,1611 Squaw Walden Lane,Walden Creek,3044,1998,4,2,1,Detached,"$410,000","$410,000",.26-.5 Acres,10,397,1.045,"$390,216.00",No,1,2,33,33,1,NA,Apex,NC,place
+-78.8767239,35.737267,2507 Olive Chapel Road,Not in a Subdivision,2951,1996,3,3,0,Detached,"$434,900","$413,000",1-2.9 Acres,7,161,0.7,"$428,184.00",No,1,3,129,129,0.95,NA,Apex,NC,highway
+-78.9070198807566,35.7130363238979,1908 Lazio Lane,Bella Casa,3019,2011,5,3,0,Detached,"$439,595","$415,000",0-.25 Acres,11,0,0.9805,"$393,309.00",No,1,2,22,22,0.94,NA,Apex,NC,place
+-78.9015167559953,35.744251221334,211 Lyndenbury Drive,Abbington,2967,1999,4,3,1,Detached,"$434,900","$419,000",.26-.5 Acres,9,0,1.004,"$397,164.00",No,1,2,64,64,0.96,NA,Apex,NC,place
+-78.9003424,35.7122598,1933 Steeple Chase Bend,Holland Farm,2711,2011,5,2,1,Detached,"$420,000","$420,000",0-.25 Acres,14,0,0.9805,"$369,417.00",No,1,2,0,0,1,NA,Apex,NC,place
+-78.8201800195703,35.7393650017791,1013 Sunny Brae Court,Buckingham,3184,1990,4,2,1,Detached,"$425,000","$421,000",.26-.5 Acres,10,0,1.0045,"$361,721.00",No,1,2,24,24,0.99,NA,Apex,NC,place
+-78.835946752858,35.7376084745999,4011 New Yarmouth Way,Shepherds Vineyard,3197,1994,4,2,1,Detached,"$419,900","$425,000",.26-.5 Acres,11,319,0.98,"$322,267.00",No,1,2,3,3,1.01,NA,Apex,NC,place
+-78.8637313,35.7640858,1221 Hill Hollow Way,Sutton Place,2946,2008,5,3,0,Detached,"$425,000","$425,000",0-.25 Acres,9,0,1.0045,"$374,138.00",No,1,2,17,17,1,NA,Apex,NC,building
+-78.858325,35.736326,406 Fairview Road,Dogwood Acres,2723,1960,4,3,0,Detached,"$449,000","$429,000",.51-.75 Acres,11,0,1.0045,"$227,504.00",No,2,0,8,8,0.96,NA,Apex,NC,place
+-78.9128153,35.7139758,1910 Firenza Drive,Bella Casa,2966,2014,5,3,0,Detached,"$429,900","$429,900",0-.25 Acres,10,440,0.9625,"$414,635.00",No,1,2,52,52,1,NA,Apex,NC,highway
+-78.900457,35.712282,1941 Steeple Chase Bend,Holland Farm,2826,2011,4,2,1,Detached,"$437,000","$441,000",0-.25 Acres,9,898,1.0045,"$394,450.00",No,1,3,11,11,1.01,NA,Apex,NC,place
+-78.8661209,35.7639573,2016 Patapsco Drive,Sutton Place,4054,2006,5,4,0,Detached,"$449,000","$447,000",0-.25 Acres,11,421,1.0045,"$415,470.00",No,1,2,109,109,1,NA,Apex,NC,building
+-78.8981835496984,35.7384343395824,520 Kellyridge Drive,Abbington,3861,2005,5,4,0,Detached,"$450,000","$454,000",.26-.5 Acres,12,0,0.01,"$470,501.00",No,1,2,139,80,1.01,NA,Apex,NC,place
+-78.8853744478505,35.7522372797084,2516 Walden Woods Drive,Walden Creek,3095,2002,4,3,1,Detached,"$450,000","$455,000",.26-.5 Acres,10,1100,0.9805,"$429,792.00",No,1,2,1,1,1.01,NA,Apex,NC,place
+-78.8458547570842,35.7438051498703,1063 Windy,The Villages of Apex,3001,2013,4,3,0,Detached,"$459,900","$455,000",0-.25 Acres,10,0,0.99,"$414,306.00",No,1,2,5,5,0.99,NA,Apex,NC,place
+-78.8314322,35.760094,831 Dotson Way,The Trace,2700,2016,4,2,1,Detached,"$415,700","$455,650",0-.25 Acres,9,800,1.0045,"$415,700.00",Yes,1,2,88,88,1.1,NA,Apex,NC,highway
+-78.8647907478691,35.7437292500277,914 Haddon Hall Drive,Haddon Hall,4591,1996,5,3,1,Detached,"$468,000","$465,000",.26-.5 Acres,11,0,1.00098,"$430,349.00",No,1,2,135,135,0.99,NA,Apex,NC,place
+-78.9061651085369,35.7251225384209,1505 Piazzo Court,Villagio,3396,2009,4,2,1,Detached,"$475,000","$475,000",0-.25 Acres,10,1172,1.0043,"$502,233.00",No,1,3,164,1,1,NA,Apex,NC,place
+-78.878545,35.732919,1200 Pendula Path,Dogwood Ridge,5531,1999,5,4,1,Detached,"$487,000","$480,000",.26-.5 Acres,15,583,0.98,"$454,432.00",No,1,2,20,20,0.99,NA,Apex,NC,place
+-78.8574072845489,35.7461091009213,1711 Charlion Downs Lane,Haddon Hall,4323,2004,4,4,1,Detached,"$495,000","$488,000",.26-.5 Acres,12,0,0.9805,"$450,459.00",No,1,2,51,25,0.99,NA,Apex,NC,place
+-78.8611649978327,35.7458199723949,1279 Horsham Way,Haddon Hall,4785,1999,5,3,1,Detached,"$495,000","$495,000",0-.25 Acres,13,0,0.96,"$416,227.00",No,1,2,13,13,1,NA,Apex,NC,place
+-78.8643193,35.7634845,1237 Hill Hollow Way,Sutton Place,4220,2008,5,4,0,Detached,"$500,000","$497,500",0-.25 Acres,12,358,0.98,"$449,335.00",No,1,2,35,35,1,NA,Apex,NC,building
+-78.8160099,35.7190184,6608 Ten Ten Road,Not in a Subdivision,2583,2007,4,3,0,Detached,"$525,000","$499,000",1-2.9 Acres,8,4350,0.936,"$460,854.00",No,1,3,34,34,0.95,NA,Apex,NC,highway
+-78.8537056938776,35.7336440612245,2110 Blanchard Street,Not in a Subdivision,4120,2011,4,3,2,Detached,"$525,000","$510,000",0-.25 Acres,7,0,0.9805,"$453,021.00",No,1,2,31,31,0.97,NA,Apex,NC,place
+-78.903255893573,35.7413819026255,108 Kentbury Lane,Abbington,3716,2002,4,4,1,Detached,"$525,000","$517,500",.26-.5 Acres,11,0,0.0101,"$448,708.00",No,1,2,9,9,0.99,NA,Apex,NC,place
+-78.8594781271628,35.7395351265895,208 Kings Castle Drive,Haddon Hall,3590,2008,5,4,0,Detached,"$530,000","$529,500",.26-.5 Acres,11,2337,0.96,"$566,566.00",No,1,2,151,151,1,NA,Apex,NC,place
+-78.9003315452938,35.7099370466664,1948 Old Byre Way,Holland Farm,4786,2008,5,3,1,Detached,"$559,999","$548,000",.26-.5 Acres,13,811,0.98,"$4,679.78",No,1,2,67,67,0.98,NA,Apex,NC,place
+-78.857523,35.739502,100 Kings Castle Drive,Haddon Hall,3865,2005,4,4,0,Detached,"$595,000","$563,000",.26-.5 Acres,10,0,1.004,"$549,834.00",No,1,2,200,200,0.95,NA,Apex,NC,place
+-78.905941,35.716074,1801 Lazio Lane,Bella Casa,4263,2012,5,4,1,Detached,"$589,500","$566,000",.26-.5 Acres,11,0,0.98,"$596,182.00",No,1,3,77,77,0.96,NA,Apex,NC,place
+-78.9097816722197,35.7391949684705,2640 Bryant Pond Lane,Stratford at Abbington,3455,2009,4,3,1,Detached,"$575,000","$575,000",.26-.5 Acres,10,825,0.876,"$581,953.00",No,1,3,3,3,1,NA,Apex,NC,place
+-78.8767239,35.737267,2200 Olive Chapel Road,Lucas Farms,3680,2016,4,4,0,Detached,"$587,500","$575,000",.51-.75 Acres,11,200,0.92,"$185,000.00",Yes,1,3,413,413,0.98,NA,Apex,NC,highway
+-78.8767239,35.737267,2206 Olive Chapel Road,Lucas Farms,3917,2016,4,4,0,Detached,"$595,000","$587,500",.76-.99 Acres,11,900,0.92,"$675,000.00",Yes,1,3,170,170,0.99,NA,Apex,NC,highway
+-78.9046095080374,35.7145696739131,1867 Versa Court,Bella Casa,3803,2010,5,4,0,Detached,"$660,000","$662,000",.26-.5 Acres,12,0,0.9805,"$622,210.00",No,2,3,22,22,1,NA,Apex,NC,place
